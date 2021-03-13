@@ -1,0 +1,18 @@
+code, name
+J,Scheduled passenger - Normal Service
+F,Scheduled Cargo/mail 
+G,Additional Passenger - Normal Service
+A,Additional cargo/mail
+C,Charter passenger
+O,Charter requiring special handiling
+H,Charter cargo/mail
+T,Technical Test
+K,Training (School/Crew check)
+W,Military
+X,Technical Stop
+Z,Unknown
+P,Ferry
+D,Executive aviation
+I,"State (official delegation), diplomatic, medical"
+E,Урядовый (выщи посадови особы)
+S,Technic

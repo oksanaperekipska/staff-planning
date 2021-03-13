@@ -1,0 +1,306 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+                   xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+                   xmlns:pro="http://www.liquibase.org/xml/ns/pro" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd http://www.liquibase.org/xml/ns/pro http://www.liquibase.org/xml/ns/pro/liquibase-pro-4.1.xsd http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.1.xsd">
+
+    <!--********* Tables ********* -->
+
+    <!--aircraft-->
+    <changeSet author="a.sidko" id="1615668829477-aircraft">
+        <createTable tableName="aircraft">
+            <column autoIncrement="true" name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="aircraft_pk"/>
+            </column>
+            <column name="iata" type="VARCHAR"/>
+            <column name="icao" type="VARCHAR"/>
+            <column name="model" type="VARCHAR"/>
+        </createTable>
+    </changeSet>
+
+    <!--airline-->
+    <changeSet author="a.sidko" id="1615668829477-airline">
+        <createTable tableName="airline">
+            <column autoIncrement="true" name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="airline_pk"/>
+            </column>
+            <column name="iata" type="VARCHAR"/>
+            <column name="icao" type="VARCHAR"/>
+            <column name="name" type="VARCHAR"/>
+        </createTable>
+    </changeSet>
+
+    <!--airport-->
+    <changeSet author="a.sidko" id="1615668829477-airport">
+        <createTable tableName="airport">
+            <column autoIncrement="true" name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="airport_pk"/>
+            </column>
+            <column name="iata" type="VARCHAR"/>
+            <column name="icao" type="VARCHAR"/>
+            <column name="name" type="VARCHAR"/>
+            <column name="country_id" type="BIGINT"/>
+        </createTable>
+    </changeSet>
+
+    <!--country-->
+    <changeSet author="a.sidko" id="1615668829477-country">
+        <createTable tableName="country">
+            <column autoIncrement="true" name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="country_pk"/>
+            </column>
+            <column name="name" type="VARCHAR"/>
+        </createTable>
+    </changeSet>
+
+    <!--arr_dep-->
+    <changeSet author="a.sidko" id="1615668829477-arr_dep">
+        <createTable tableName="arr_dep">
+            <column name="code" type="VARCHAR">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="arr_dep_pk"/>
+            </column>
+            <column name="name" type="VARCHAR"/>
+        </createTable>
+    </changeSet>
+
+    <!--color-->
+    <changeSet author="a.sidko" id="1615668829477-color">
+        <createTable tableName="color">
+            <column autoIncrement="true" name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="color_pk"/>
+            </column>
+            <column name="name" type="VARCHAR"/>
+            <column name="value" type="VARCHAR"/>
+        </createTable>
+    </changeSet>
+
+    <!--flight-->
+    <changeSet author="a.sidko" id="1615668829477-flight">
+        <createTable tableName="flight">
+            <column name="id" type="VARCHAR">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="flight_pk"/>
+            </column>
+            <column name="schedule_id" type="BIGINT"/>
+            <column name="link_id" type="VARCHAR"/>
+            <column name="flight_date" type="TIMESTAMP WITHOUT TIME ZONE"/>
+            <column name="airline_id" type="BIGINT"/>
+            <column name="flight_number" type="VARCHAR"/>
+            <column name="arr_dep_code" type="VARCHAR"/>
+            <column name="flight_type_code" type="VARCHAR"/>
+            <column name="registration_number" type="VARCHAR"/>
+            <column name="aircraft_id" type="BIGINT"/>
+            <column name="int_dom_code" type="VARCHAR"/>
+            <column name="total_passengers_count" type="INTEGER"/>
+            <column name="total_c_passengers_count" type="INTEGER"/>
+            <column name="total_y_passengers_count" type="INTEGER"/>
+            <column name="bag_weight" type="INTEGER"/>
+            <column name="cargo_weight" type="INTEGER"/>
+            <column name="mail_weight" type="INTEGER"/>
+            <column name="seats" type="INTEGER"/>
+            <column name="parking" type="INTEGER"/>
+            <column name="terminal" type="VARCHAR"/>
+            <column name="ori_dest_airport_id" type="BIGINT"/>
+            <column name="station_airport_id" type="BIGINT"/>
+        </createTable>
+    </changeSet>
+
+    <!--int_dom-->
+    <changeSet author="a.sidko" id="1615668829477-int_dom">
+        <createTable tableName="int_dom">
+            <column name="code" type="VARCHAR">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="int_dom_pk"/>
+            </column>
+            <column name="name" type="VARCHAR"/>
+        </createTable>
+    </changeSet>
+
+    <!--flight_plan-->
+    <changeSet author="a.sidko" id="1615668829477-flight_plan">
+        <createTable tableName="flight_plan">
+            <column autoIncrement="true" name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="flight_plan_pk"/>
+            </column>
+            <column name="name" type="VARCHAR"/>
+        </createTable>
+    </changeSet>
+
+    <!--schedule-->
+    <changeSet author="a.sidko" id="1615668829477-schedule">
+        <createTable tableName="schedule">
+            <column autoIncrement="true" name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="schedule_pk"/>
+            </column>
+            <column name="airport_id" type="BIGINT"/>
+            <column name="name" type="VARCHAR"/>
+        </createTable>
+    </changeSet>
+
+    <!--service_type-->
+    <changeSet author="a.sidko" id="1615668829477-service_type">
+        <createTable tableName="service_type">
+            <column name="code" type="VARCHAR">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="service_type_pk"/>
+            </column>
+            <column name="name" type="VARCHAR"/>
+        </createTable>
+    </changeSet>
+
+    <!--flight_to_flight_plan-->
+    <changeSet author="a.sidko" id="1615668829477-flight_to_flight_plan">
+        <createTable tableName="flight_to_flight_plan">
+            <column autoIncrement="true" name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="flight_to_flight_plan_pk"/>
+            </column>
+            <column name="flight_id" type="VARCHAR"/>
+            <column name="flight_plan_id" type="BIGINT"/>
+            <column name="start_date" type="TIMESTAMP WITHOUT TIME ZONE"/>
+            <column name="end_date" type="TIMESTAMP WITHOUT TIME ZONE"/>
+        </createTable>
+    </changeSet>
+
+    <!--task-->
+    <changeSet author="a.sidko" id="1615668829477-task">
+        <createTable tableName="task">
+            <column autoIncrement="true" name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="task_pk"/>
+            </column>
+            <column name="flight_id" type="VARCHAR"/>
+            <column name="flight_plan_id" type="BIGINT"/>
+            <column name="name" type="VARCHAR"/>
+            <column name="start_date" type="TIMESTAMP WITHOUT TIME ZONE"/>
+            <column name="end_date" type="TIMESTAMP WITHOUT TIME ZONE"/>
+            <column name="count" type="INTEGER"/>
+            <column name="color_id" type="BIGINT"/>
+        </createTable>
+    </changeSet>
+
+    <!--********* Relations ********* -->
+
+    <!--flight to aircraft-->
+    <changeSet author="a.sidko" id="1615668829477-flight_aircraft_id_fk">
+        <addForeignKeyConstraint baseColumnNames="aircraft_id" baseTableName="flight"
+                                 constraintName="flight_aircraft_id_fk" deferrable="false" initiallyDeferred="false"
+                                 onDelete="SET NULL" onUpdate="SET NULL" referencedColumnNames="id"
+                                 referencedTableName="aircraft" validate="true"/>
+    </changeSet>
+
+    <!--flight to airline-->
+    <changeSet author="a.sidko" id="1615668829477-flight_airline_id_fk">
+        <addForeignKeyConstraint baseColumnNames="airline_id" baseTableName="flight"
+                                 constraintName="flight_airline_id_fk" deferrable="false" initiallyDeferred="false"
+                                 onDelete="SET NULL" onUpdate="SET NULL" referencedColumnNames="id"
+                                 referencedTableName="airline" validate="true"/>
+    </changeSet>
+
+    <!--flight to airport-->
+    <changeSet author="a.sidko" id="1615668829477-flight_airport_ori_dest_id_fk">
+        <addForeignKeyConstraint baseColumnNames="ori_dest_airport_id" baseTableName="flight"
+                                 constraintName="flight_airport_ori_dest_id_fk" deferrable="false"
+                                 initiallyDeferred="false" onDelete="SET NULL" onUpdate="SET NULL"
+                                 referencedColumnNames="id" referencedTableName="airport" validate="true"/>
+    </changeSet>
+
+    <!--flight to airport-->
+    <changeSet author="a.sidko" id="1615668829477-flight_station_airport_id_fk">
+        <addForeignKeyConstraint baseColumnNames="station_airport_id" baseTableName="flight"
+                                 constraintName="flight_station_airport_id_fk" deferrable="false"
+                                 initiallyDeferred="false" onDelete="SET NULL" onUpdate="SET NULL"
+                                 referencedColumnNames="id" referencedTableName="airport" validate="true"/>
+    </changeSet>
+
+    <!--flight to int_dom-->
+    <changeSet author="a.sidko" id="1615668829477-flight_int_dom_code_fk">
+        <addForeignKeyConstraint baseColumnNames="int_dom_code" baseTableName="flight"
+                                 constraintName="flight_int_dom_code_fk" deferrable="false" initiallyDeferred="false"
+                                 onDelete="SET NULL" onUpdate="SET NULL" referencedColumnNames="code"
+                                 referencedTableName="int_dom" validate="true"/>
+    </changeSet>
+
+    <!--flight to schedule-->
+    <changeSet author="a.sidko" id="1615668829477-flight_schedule_id_fk">
+        <addForeignKeyConstraint baseColumnNames="schedule_id" baseTableName="flight"
+                                 constraintName="flight_schedule_id_fk" deferrable="false" initiallyDeferred="false"
+                                 onDelete="SET NULL" onUpdate="SET NULL" referencedColumnNames="id"
+                                 referencedTableName="schedule" validate="true"/>
+    </changeSet>
+
+    <!--flight to service_type-->
+    <changeSet author="a.sidko" id="1615668829477-flight_service_type_code_fk">
+        <addForeignKeyConstraint baseColumnNames="flight_type_code" baseTableName="flight"
+                                 constraintName="flight_service_type_code_fk" deferrable="false"
+                                 initiallyDeferred="false" onDelete="SET NULL" onUpdate="SET NULL"
+                                 referencedColumnNames="code" referencedTableName="service_type" validate="true"/>
+    </changeSet>
+
+    <!--flight to arr_dep-->
+    <changeSet author="a.sidko" id="1615668829477-flight_arr_dep_code_fk">
+        <addForeignKeyConstraint baseColumnNames="arr_dep_code" baseTableName="flight"
+                                 constraintName="flight_arr_dep_code_fk" deferrable="false" initiallyDeferred="false"
+                                 onDelete="SET NULL" onUpdate="SET NULL" referencedColumnNames="code"
+                                 referencedTableName="arr_dep" validate="true"/>
+    </changeSet>
+
+    <!--task to color-->
+    <changeSet author="a.sidko" id="1615668829477-task_color_id_fk">
+        <addForeignKeyConstraint baseColumnNames="color_id" baseTableName="task" constraintName="task_color_id_fk"
+                                 deferrable="false" initiallyDeferred="false" onDelete="SET NULL" onUpdate="SET NULL"
+                                 referencedColumnNames="id" referencedTableName="color" validate="true"/>
+    </changeSet>
+
+    <!--task to flight-->
+    <changeSet author="a.sidko" id="1615668829477-task_flight_id_fk">
+        <addForeignKeyConstraint baseColumnNames="flight_id" baseTableName="task" constraintName="task_flight_id_fk"
+                                 deferrable="false" initiallyDeferred="false" onDelete="SET NULL" onUpdate="SET NULL"
+                                 referencedColumnNames="id" referencedTableName="flight" validate="true"/>
+    </changeSet>
+
+    <!--task to flight_plan-->
+    <changeSet author="a.sidko" id="1615668829477-task_flight_plan_id_fk">
+        <addForeignKeyConstraint baseColumnNames="flight_plan_id" baseTableName="task"
+                                 constraintName="task_flight_plan_id_fk" deferrable="false" initiallyDeferred="false"
+                                 onDelete="SET NULL" onUpdate="SET NULL" referencedColumnNames="id"
+                                 referencedTableName="flight_plan" validate="true"/>
+    </changeSet>
+
+    <!--flight_to_flight_plan to flight-->
+    <changeSet author="a.sidko" id="1615668829477-flight_to_flight_plan_flight_id_fk">
+        <addForeignKeyConstraint baseColumnNames="flight_id" baseTableName="flight_to_flight_plan"
+                                 constraintName="flight_to_flight_plan_flight_id_fk" deferrable="false"
+                                 initiallyDeferred="false" onDelete="SET NULL" onUpdate="SET NULL"
+                                 referencedColumnNames="id" referencedTableName="flight" validate="true"/>
+    </changeSet>
+
+    <!--flight_to_flight_plan to flight_plan-->
+    <changeSet author="a.sidko" id="1615668829477-schedule_airport_id_fk">
+        <addForeignKeyConstraint baseColumnNames="airport_id" baseTableName="schedule"
+                                 constraintName="schedule_airport_id_fk" deferrable="false" initiallyDeferred="false"
+                                 onDelete="SET NULL" onUpdate="SET NULL" referencedColumnNames="id"
+                                 referencedTableName="airport" validate="true"/>
+    </changeSet>
+
+    <!--flight_to_flight_plan to flight_plan-->
+    <changeSet author="a.sidko" id="1615668829477-flight_to_flight_plan_flight_plan_id_fk">
+        <addForeignKeyConstraint baseColumnNames="flight_plan_id" baseTableName="flight_to_flight_plan"
+                                 constraintName="flight_to_flight_plan_flight_plan_id_fk" deferrable="false"
+                                 initiallyDeferred="false" onDelete="CASCADE" onUpdate="CASCADE"
+                                 referencedColumnNames="id" referencedTableName="flight_plan" validate="true"/>
+    </changeSet>
+
+    <!--schedule to airport-->
+    <changeSet author="a.sidko" id="1615668829477-schedule_airport_id_fk">
+        <addForeignKeyConstraint baseColumnNames="airport_id" baseTableName="schedule"
+                                 constraintName="schedule_airport_id_fk" deferrable="false" initiallyDeferred="false"
+                                 onDelete="SET NULL" onUpdate="SET NULL" referencedColumnNames="id"
+                                 referencedTableName="airport" validate="true"/>
+    </changeSet>
+
+    <!--airport to country-->
+    <changeSet author="a.sidko" id="1615668829477-airport_country_id_fk">
+        <addForeignKeyConstraint baseColumnNames="country_id" baseTableName="airport"
+                                 constraintName="airport_country_id_fk" deferrable="false" initiallyDeferred="false"
+                                 onDelete="SET NULL" onUpdate="SET NULL" referencedColumnNames="id"
+                                 referencedTableName="country" validate="true"/>
+    </changeSet>
+
+
+</databaseChangeLog>

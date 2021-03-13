@@ -1,0 +1,53 @@
+image: docker:latest
+
+services:
+    - docker:dind
+
+stages:
+    - build
+    - test
+    - publish
+    - deploy
+
+before_script:
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+
+build:
+    stage: build
+    script:
+      - docker build -t $CI_PROJECT_NAME .
+      - docker save $CI_PROJECT_NAME -o $CI_PROJECT_NAME.tar
+    artifacts:
+      expire_in: 5 mins
+      paths:
+        - $CI_PROJECT_NAME.tar
+
+test:
+    stage: test
+    script:
+       - docker load -i $CI_PROJECT_NAME.tar
+       - docker run $CI_PROJECT_NAME pytest /app
+    artifacts:
+      expire_in: 5 mins
+      paths:
+        - $CI_PROJECT_NAME.tar
+
+publish:
+    stage: publish
+    script:
+      - docker load -i $CI_PROJECT_NAME.tar
+      - docker tag $CI_PROJECT_NAME $CI_REGISTRY/$CI_PROJECT_NAME
+      - docker push $CI_REGISTRY/$CI_PROJECT_NAME
+
+deploy:
+    stage: deploy
+    before_script:
+      - 'which ssh-agent || ( apk add --no-cache --virtual openssh-client )'
+      - eval $(ssh-agent -s)
+      -  echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+      - mkdir -p ~/.ssh
+      - echo "$VM_HOST" > ~/.ssh/known_hosts
+      - chmod 644 ~/.ssh/known_hosts
+      - chmod 700 ~/.ssh
+    script:
+      - ssh -o StrictHostKeyChecking=no  dev@$VM_HOST "cd /home/dev/ecosystem; docker-compose pull $CI_PROJECT_NAME; docker-compose up -d $CI_PROJECT_NAME"

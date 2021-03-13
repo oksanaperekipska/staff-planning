@@ -1,0 +1,4093 @@
+id, iata, icao, name
+1,W9,WUK,Wizz Air UK
+2,ZY,ADE,Ada Air
+3,JP,ADR,Adria Airways
+4,NULL,ADV,Advance Air Charters
+5,EI,EIN,Aer Lingus Teoranta
+6,QT,ATT,Aer Turas Teoranta
+7,NULL,AAD,Mann Air Ltd (t/a Ambassador)
+8,N6,ACQ,Aero Continente S.A.
+9,ML,AEK,Aero Costa Rica
+10,NULL,FIT,"Aero Fiesta Mexicana, S.A. De C.V."
+11,GV,ARF,Aero Flight
+12,YP,AEF,Aero Lloyd Flugreisen Gmbh Und Co. Luftverkehrs  Kg. Frankfurt
+13,W4,BES,Aero Services Executive
+14,NULL,AMP,Aero Transporte S.A. (Atsa)
+15,Z9,RZL,Aero Zambia Limited
+16,NULL,ACU,Aerocancun
+17,NULL,CDA,Aerocardal
+18,NULL,ADN,"Aerodienst Gmbh, Nurnburg"
+19,NULL,DNC,Aerodinamics Malaga
+20,NULL,ROL,Aeroel Airways Ltd
+21,SU,AFL,Aeroflot Russian Airlines
+22,NULL,PCP,Aerolinea Principal
+23,AR,ARG,Aerolineas Argentinas
+24,3L,DLU,Aerolineas Del Sur
+25,N2,LNT,Aerolineas Internacionales S.A. De C.V.
+26,NULL,LTN,"Aerolineas Latinas, C.A."
+27,NULL,NSO,Aerolineas Sosa
+28,EX,SDO,"Aerolineas Santo Domingo, S.A."
+29,QO,MPX,"Aeromexpress, S.A. De C.V."
+30,6C,KRE,Aerosucre S.A.
+31,VV,AEW,Aerosvit Airlines
+32,NULL,ATD,"Aerotours Dominicana, C. Por A."
+33,MY,MAA,Mas de Carga - Mas Air Cargo
+34,QA,CBE,Aerocaribe
+35,NULL,DAP,Aerovias Dap
+36,NULL,GRR,Agroar - Trabalhos Aereos Lda.
+37,DP,AMM,Air 2000 Ltd
+38,H7,LFA,Air Alfa Havayollari Ve Tic. A.S.
+39,AH,DAH,Air Algerie
+40,NULL,AMY,"Air Ambar, S.A."
+41,KI,AAG,Air Atlantique
+42,OU,OUL,Air Atonabee Limited
+43,NULL,AAI,"Air Aurora, Inc. (Sugar Grove, Il)"
+44,UU,REU,Air Austral
+45,YH,BFF,Air Baffin
+46,BT,BTI,Air Baltic Corporation Sia
+47,NULL,BAN,Air Ban Ltd
+48,BX,ABL,"Air Busan Co., Ltd"
+49,AB,BER,"Air Berlin, Inc."
+50,NULL,BRI,Air Bor
+51,KF,KFB,"Air Botnia Oy Ab, Finland"
+52,BP,BOT,"Air Botswana (Pty.), Ltd."
+53,NULL,BRL,Air Brasd'Or
+54,NULL,BRF,Air Bravo
+55,NULL,AZX,Air Bristol Ltd
+56,NULL,ABT,"Air Brousse, Inc"
+57,NULL,BUD,Air Budapest Club Ltd
+58,2J,VBW,Air Burkina
+59,NULL,BSS,"Air Business, S.L."
+60,NULL,BUA,Air Busol
+61,TY,ACM,Air Caledonia Inc.
+62,TY,TPC,Air Caledonie
+63,SB,ACI,Air Caledonie International
+64,NULL,CAN,"Air Canarias, S. Coop Ltda"
+65,NULL,ACP,Air Cape
+66,NULL,ACL,Air Capitol
+67,NULL,ISB,Air Caraibes
+68,NULL,WCI,Air Care (Sw) Ltd
+69,NULL,MVM,"Air Cargo America, Inc. (Miami, Fl)"
+70,NULL,CGB,Air Cargo Belize Limited
+71,NULL,SNC,"Air Cargo Carriers, Inc. (Milwaukee, Wi)"
+72,NULL,RCI,Air Cassai Lda.
+73,NULL,ACS,"Air Cess (Liberia), Inc."
+74,NULL,ECR,Air Charter Express A/S
+75,NULL,LIO,Air Charter Ltd. (Leiguflug Isleifs Ottesen)
+76,NULL,CHR,Air Charter Services (Acs)
+77,NULL,IPL,"Air Charter Services (Pty) Ltd, South Africa"
+78,NULL,XAC,"Air Charter World (Corrales, Nm)"
+79,NULL,ACX,"Air Charters, Inc."
+80,CA,CCA,Air China
+81,NULL,ACO,Air Columbia
+82,NULL,CNB,Air Columbus Sa
+83,NULL,CPY,Air Company
+84,NULL,JID,"Air Condal, S.A."
+85,NULL,RCS,Air Consul S.A.
+86,NULL,NAR,"Air Continental, Inc. (Elyria, Oh)"
+87,NULL,ARK,Air Corse
+88,NULL,OPL,Air Cote D'Opale
+89,YN,CRQ,Air Creebec
+90,NULL,DMT,Air Dan
+91,NULL,AFS,Air Data Ltd
+92,EN,DLA,Air Dolomiti
+93,NULL,ADT,Air Dorval Ltee.
+94,NULL,AEG,Air East
+95,K5,JND,Air East Africa Ltd
+96,NULL,AYY,Air Alliance Express
+97,RQ,RQX,Air Engiadina
+98,NULL,AEN,Air Entreprise
+99,UX,AEA,"Air Europa Lineas Aereas, S.A."
+100,PE,AEL,Air Europe Spa
+101,NULL,IVS,Air Evasion
+102,NULL,EVE,"Air Evex Gmbh, Dusseldorf"
+103,NULL,EXG,"Air Exchange, Inc. (Dallas, Tx)"
+104,NULL,BXL,Air Exel Belgique
+105,NULL,AOL,Air Exel Executive
+106,XT,AXL,Air Exel Netherlands B.V.
+107,NULL,AED,Air Experience Flight
+108,NULL,AXP,Air Express A.S.
+109,NULL,GOT,Air Express In Norrkoping Ab
+110,NULL,AFH,Air Fecteau Ltee.
+111,NULL,RFO,Air Foyal
+112,NULL,AFY,Air Foyle (Executive) Ltd
+113,NULL,UPD,Air Foyle Charter Airways Ltd
+114,NULL,UPB,Air Foyle Charters Ltd
+115,AF,AFR,Air France
+116,NULL,AFX,"Air Freight Express, Inc. (Minneapolis, Mn)"
+117,NULL,ABN,Air Fret Senegal
+118,NULL,AGS,Air Gambia
+119,NULL,GEF,Air Gefco
+120,DA,GEO,Air Georgia
+121,NULL,GGN,Air Georgian
+122,NULL,GHN,Air Ghana
+123,NULL,AGV,Air Glaciers Sa
+124,G8,CGW,Air Great Wall
+125,NULL,AGJ,Air Greece Sa
+126,NULL,AGM,"Air Guam (Tamuning, Gu)"
+127,GI,GIB,Air Guinee
+128,NULL,HJA,Air Haiti
+129,NULL,AHL,Air Hanson Ltd.
+130,NULL,AHR,Air Adriatic
+131,NULL,AHN,Air Hungaria Ltd
+132,NULL,AIF,Air Ile De France
+133,NULL,AIL,"Air Illinois, Inc. (Carbondale, Il)"
+134,NULL,IMS,Air Images
+135,AI,AIC,Air India Building
+136,NULL,AII,Air Integra
+137,NULL,AIG,Air Inter Gabon
+138,NULL,AWH,Air Inter Niger
+139,IT,ITF,"Air Inter, Societe"
+140,NULL,AIE,Air Inuit Ltd.
+141,NULL,IRD,Air Iren
+142,VU,VUN,"Air Ivoire, Societe"
+143,JM,AJM,Air Jamaica
+144,NULL,AIJ,Air Jet
+145,NULL,AKL,Air Kilroe Ltd.
+146,NULL,KLD,Air Klaipeda
+147,NULL,AKA,Air Korea Co. Ltd.
+148,JS,KOR,Air Koryo
+149,UE,UED,"Air L.A., Inc. (Los Angeles, Ca)"
+150,NULL,RKS,Air Lana
+151,UL,ALK,Air Lanka
+152,NULL,ALI,Air Liberia
+153,VD,LIB,Air Liberte
+154,NULL,KLA,Air Lietuva
+155,NULL,LMT,Air Limousin T.A.
+156,NULL,ALN,"Air Lincoln, Inc. (Chicago, Il)"
+157,NULL,UDD,Air Lines Donbass
+158,FU,LIT,Air Littoral
+159,NULL,ALG,"Air Logistics (Lafayette, La)"
+160,NULL,ACG,Air London International Plc
+161,NULL,AMU,Air Macau
+162,MD,MDG,"Air Madagascar, Societe Nationale Malgache  De Transports Aeriens"
+163,NULL,MLN,Air Madeleine Inc.
+164,QM,AML,Air Malawi Limited
+165,NULL,AMI,Air Maldives
+166,L9,MLI,Air Mali S.A.
+167,NULL,MAG,Air Margarita
+168,NULL,AMG,Air Material Ag
+169,MR,MRT,Air Mauritanie
+170,MK,MAU,Air Mauritius Limited
+171,NULL,JDE,Air Med Jetoperations
+172,NULL,MCD,Air Medical Ltd
+173,NULL,AMZ,Air Meuse - Dat Wallonie
+174,ZV,AMW,"Air Midwest, Inc. (Wichita, Ks)"
+175,9U,MLD,Air Moldova
+176,RM,MLV,"Air Moldova International, S.A."
+177,NULL,AMN,Air Montenegro
+178,NULL,MAI,Air Moravia
+179,NULL,MOA,Air Moravia Czech Charter Airline Ltd
+180,NULL,AMS,Air Muskoka
+181,NULL,NPR,Air Napier
+182,ON,RON,Air Nauru
+183,NULL,ANB,Air Navigation And Trading Co. Ltd.
+184,NULL,RLK,Air Nelson Ltd
+185,NZ,ANZ,Air New Zealand Ltd.
+186,NULL,NER,"Air Newark, Inc. (Fort Lee, Nj)"
+187,DB,DBD,Air Niagara Express Inc.
+188,NULL,AWN,Air Niger S.A.
+189,NULL,ANK,Air Nippon Co. Ltd.
+190,PX,ANG,Air Niugini
+191,ID,RNO,Air Normandie
+192,4N,ANT,Air North Charter
+193,NULL,HMT,Air Nova
+194,QK,ARN,Air Nova Inc.
+195,NULL,ONE,Air One Ab
+196,NULL,ONT,Air Ontario Limited
+197,NULL,OOE,Air Operations Of Europe Ab
+198,8K,VTR,Air Ostrava Ltd
+199,NULL,FJI,Air Pacific Limited
+200,NULL,APA,Air Park Aviation Ltd.
+201,NULL,EAP,Air Partner Of Sweden Ab
+202,NULL,PTG,"Air Patagonia - Lineas Aereas Del Sur, S.A."
+203,2P,GAP,Air Philippines Corporation
+204,NULL,APQ,Air Philippines Corporation Inc.
+205,NULL,APV,Air Plan International
+206,NULL,FUR,Air Poitiers
+207,NULL,AQN,Air Queensland
+208,NULL,ARZ,"Air Resorts (Carlsbad, Ca)"
+209,NULL,RBV,Air Roberval
+210,NULL,ARC,Air Routing International Corporation
+211,NULL,RUS,Air Russia Airline
+212,NULL,RWD,Air Rwanda
+213,NULL,SRI,Air Safaris And Services (Nz) Ltd
+214,NULL,SGA,Air Saigon
+215,NULL,SPM,Air Saint Pierre
+216,NULL,SNY,Air Sandy Inc.
+217,2P,SRV,Air Saravi
+218,NULL,ARS,Air Sardinia International
+219,QR,ASJ,Air Satellite Inc.
+220,NULL,ASV,Air Savoie
+221,NULL,ASF,Air Schefferville Inc.
+222,DS,DSB,"Air Senegal, Societe Nationale De Transport Aerien"
+223,NULL,ODB,Air Service
+224,NULL,RSA,Air Service Affaires
+225,NULL,RSZ,Air Service State Company
+226,NULL,ATZ,Air Service Training Ltd
+227,NULL,VGE,Air Service Vosges
+228,NULL,RSV,Air Services
+229,NULL,RIS,Air Services Ltd
+230,HM,SEY,Air Seychelles
+231,BM,SIC,Air Sicilia S.P.A
+232,4D,ASD,Air Sinai
+233,NULL,SCK,Air Sinclair Ltd
+234,NULL,SVK,Air Slovakia Bwj Ltd
+235,NULL,SFB,Air Sofia
+236,NULL,WHY,Air Sorel Ltee.
+237,8H,PIE,Air South West
+238,WV,KKB,"Air South, Inc. (Columbia, Sc)"
+239,WV,SHW,"Air South, Inc. D/B/A Shawnee  Airlines, Inc. (Homestead, Fl)"
+240,NULL,ASW,Air Southwest
+241,NULL,ASX,Air Special
+242,NULL,AMR,"Air Specialties Corporation D/B/A/ Air  America/Total Air (Los Angeles, Ca)"
+243,NULL,SIP,"Air Spirit Inc. (Dallas, Tx)"
+244,ZP,STT,"Air St. Thomas (St. Thomas, U.S.V.I.)"
+245,NULL,AZU,Air Star Zanzibar
+246,GO,SOR,Air Stord A.S.
+247,IU,ASN,"Air Straubing Luftfahrtgesellschaft Mbh, Atting"
+248,YI,RSI,Air Sunshine Inc
+249,NULL,NCR,Air Sur
+250,NULL,CWS,Air Swazi Cargo (Pty) Ltd.
+251,NULL,SWF,Air Swift
+252,NULL,JOA,Air Swift Aviation
+253,VT,VTA,Air Tahiti
+254,TC,ATC,Air Tanzania
+255,NULL,AGP,Air Tara Limited
+256,HT,HTT,"Air Tchad, Societe De Transports Aeriens"
+257,8W,TTX,Air Team A.S.
+258,NULL,CTE,Air Tenglong
+259,NULL,TRX,Air Terrex
+260,NULL,THL,Air Thanet
+261,NULL,TDY,"Air Today, Inc. (Denver, Co)"
+262,NULL,ATO,Air Tonga
+263,NULL,CNE,Air Toronto Inc.
+264,NULL,ATU,Air Toulon
+265,NULL,TLE,Air Toulouse
+266,NULL,ATJ,Air Traffic Gmbh
+267,NULL,NGG,Air Trans Ng Group
+268,NULL,TRF,Air Transafrik Limited
+269,TS,TSC,Air Transat
+270,NULL,CVA,Air Transport (Chatham Island) Ltd
+271,NULL,ATA,"Air Transport Association Of America (Washington, Dc)"
+272,NULL,ATN,"Air Transport International (Tulsa, Ok)"
+273,NULL,ATQ,Air Transport Schiphol
+274,NULL,ATS,Air Transport Service
+275,NULL,EAT,"Air Transport, Ltd"
+276,NULL,ATH,"Air Travel Corp. (Worcester, Ma)"
+277,NULL,TKA,Air Troika
+278,NULL,TRK,Air Truck
+279,VK,TUN,Air Tungaru
+280,NULL,TUQ,Air Turquoise
+281,NULL,LEI,Air Uk (Leisure) Ltd
+282,UK,UKA,Air Uk Ltd.
+283,6U,UKR,Air Ukraine
+284,NULL,UKC,Air Ukraine Cargo
+285,PS,AUI,Ukraine International Airlines
+286,NULL,UNC,Air Una
+287,NF,AVN,Air Vanuatu
+288,NULL,BAV,Air Varna Co. Bulgarian Charter And Cargo Flights
+289,6V,VGA,"Air Vegas Airlines, Inc. (Las Vegas, Nv)"
+290,NULL,AVD,Air Vendee
+291,NULL,VIM,Air Via
+292,NULL,AWT,Air West
+293,NULL,RWS,Air Whitsunday
+294,NULL,AWI,"Air Wisconsin Airlines Corporation (Appleton, Wi)"
+295,NULL,AWD,Air World Ltd.
+296,NULL,ARX,"Air Xpress, Inc, (Greensboro, Nc)"
+297,NULL,SYD,Air Yendis Limited
+298,NULL,YRG,Air Yugoslavia
+299,QC,AZR,"Air Zaire, Societe"
+300,NULL,AZL,Air Zanzibar Limited
+301,A9,TGZ,Georgian Airways
+302,UM,AZW,Air Zimbabwe
+303,NULL,MZA,Air Zory
+304,8Y,PBU,Air Burundi
+305,NULL,WPK,"Air-Lift Associates, Inc. (Morrisville, Nc)"
+306,NULL,XPR,"Air-Rep (Los Angeles, Ca)"
+307,NULL,AGB,Air-Service-Gabon
+308,NULL,ASB,Air-Spray 1967 Ltd.
+309,NULL,IAV,Airavia
+310,NULL,ABX,"Airborne Express, Inc. (Wilmington, Oh)"
+311,ZF,MIW,Airborne Of Sweden Ab
+312,NULL,RGT,Airbourne School Of Flying
+313,NULL,AIB,Airbus Industrie
+314,NULL,RCM,Aircam Aviation Ltd
+315,NULL,AKT,Aircompany Karat
+316,NULL,MSL,Aircompany Mals Ltd
+317,NULL,AMV,Aircraft Maintenance Company
+318,NULL,RCR,Aircroatia
+319,4C,ARE,"Aires, Aerovias De Integracion Regional S.A."
+320,NULL,AFE,Airfast Service Indonesia Pt
+321,NULL,ARL,Airlec
+322,NULL,LNA,Airlen
+323,NULL,GSP,"Airlift Alaska (Anchorage, Ak)"
+324,NULL,ACV,Airline Cargo Services
+325,NULL,MRS,Airline Of The Marshall Islands
+326,NULL,XAO,"Airline Operations Services (San Francisco, Ca)"
+327,C4,COU,Airlines Of Carriacou Ltd.
+328,IP,ATM,Airlines Of Tasmania
+329,NULL,LIS,"Airlis, S.A."
+330,NULL,AYM,"Airman, S.L."
+331,NULL,TRH,"Airmark Aviation, Inc. (Orlando, Fl)"
+332,NULL,APC,"Airpac (Seattle, Wa)"
+333,NULL,APM,"Airpac, Inc. (Anchorage, Ak)"
+334,NULL,REZ,"Airplanes, Inc. D/B/A Cal-West Aviation (Concord,Ca)"
+335,5S,SPD,Airspeed Aviation Inc.
+336,NULL,JSC,"Airstan, Joint-Stock Aviation Company"
+337,NULL,JOK,Airtaxi Bedarfsluftverkehrsges M.B.H.
+338,VZ,AIH,Airtours Plc.
+339,NULL,MTE,"Airtran Airways, Inc. (Orlando, Fl)"
+340,4K,AAS,Askari Aviation (PVT) Ltd
+341,DO,RVL,Air Vallee S.P.A.
+342,NULL,RVE,"Airventure, Bvbd"
+343,NULL,AIV,Airvias S/A Linhas Aereas
+344,NULL,SEV,Airvita
+345,NULL,VOG,Airvolga
+346,NULL,AWV,Airwave Transport Inc.
+347,NULL,AEX,"Airway Express, Inc. (Mesa, Az)"
+348,NULL,XFX,Airways Corporation Of New Zealand Limited
+349,HO,AWB,"Airways International, Inc. (Miami Springs, Fl)"
+350,NULL,PST,Airwork (New Zealand) Ltd
+351,NULL,HRN,Airwork Ltd
+352,NULL,AWK,Airwork Services Training
+353,NULL,AIS,Ais
+354,E9,TRJ,Ajt Air International
+355,NULL,AKD,Akdeniz Hava Tasimacilik Tic. Ve San. A.S.
+356,NULL,AKS,Akhmos-1
+357,6L,AKK,Aklak Air Ltd.
+358,NULL,ABJ,Ala Abaete Linhas Aereas S/A
+359,NULL,LSV,Alak
+360,NULL,ANM,"Alamo Aviacion, S.L., Compania De Trabajos Aereos"
+361,NULL,AMH,Alan Mann Helicopters Ltd.
+362,NULL,ALW,"Alas Nacionales, S.A."
+363,AS,ASA,Alaska Airlines Inc.
+364,NULL,AER,"Alaska Central Express, Inc. (Fairbanks, Ak)"
+365,NULL,AAK,"Alaska Island Air, Inc. (Anchorage, Ak)"
+366,NULL,WAK,"Alaska Juneau Aeronautics, Inc. D/B/A  Wings Of Alaska (Juneau, Ak)"
+367,LV,LBC,Albanian Airlines Mak S.H.P.K.
+368,NULL,BNI,Alberni Airways
+369,NULL,GOA,Alberta Government
+370,NULL,JMR,Alexandair Inc.
+371,NULL,AFA,Alfa Air
+372,NULL,AJE,Alfa Jet
+373,NULL,AMA,Alfred Mcalpine Aviation Ltd
+374,NULL,ALR,"Algarvilara, Transportes Aereos Algarvios, S.A."
+375,L9,AGG,Algoma Airways Inc.
+376,NULL,ALJ,Ali Capitol Spa
+377,NULL,LID,Alidaunia Srl
+378,NULL,LSI,Alis
+379,NULL,ALL,Aliserio
+380,AZ,AZA,Alitalia - Compagnia Aerea Italiana S.P.A.
+381,NULL,ALX,Alitaxi Srl
+382,NULL,LKA,Alkair Flight Operations A/S
+383,NULL,AKN,Alkan Air Ltd.
+384,NULL,BLA,All Charter Limited
+385,NULL,ALT,All Leisure Aviation Ltd
+386,NH,ANA,"All Nippon Airways Co., Ltd."
+387,NULL,ASR,"All Star Airlines, Inc. (Woburn, Ma)"
+388,NULL,CNX,Allcanada Express Ltd
+389,NULL,AFJ,Alliance
+390,NULL,ALF,Allied Command Europe (Mobile Force)
+391,EE,LWE,Allwe
+392,NULL,ALH,"Alpha Air (Van Nuys, Ca)"
+393,NULL,APH,"Alpha Aviation, Inc. (Dallas, Tx)"
+394,E8,ELG,Alpi Eagles S.P.A.
+395,5A,AIP,"Alpine Aviation, Inc. (Provo, Ut)"
+396,NULL,ALU,Alpine Luft-Transport Ag
+397,NULL,ALP,Alpliner Ag
+398,NULL,AQC,"Alquiladora De Casas, S.A. De C.V."
+399,AL,LSR,"Alsair, Societe"
+400,NULL,ALV,"Alsavia, Societe"
+401,NULL,ALZ,Alta Flights (Charters) Ltd
+402,NULL,ALQ,Altair Aviation (1986) Ltd
+403,NULL,AID,Alti
+404,NULL,AXS,"Altus Airlines (Altus, Ok)"
+405,NULL,AQO,"Aluminum Company Of America, Alcoa Aircraft Operations (West Mifflin, Pa)"
+406,NULL,AAV,"Astro Air International, Inc"
+407,NULL,ALY,"Alyeska Air Service (Anchorage, Ak)"
+408,NULL,AGT,Amadeus Global Travel Distribution S.A.
+409,NULL,AIM,Ambulancias Insulares S.A.
+410,NULL,OBI,Amedair Nig. Ltd
+411,NULL,VAM,Ameravia
+412,NULL,AMK,Amerer Air
+413,HP,AWE,"America West Airlines (Tempe, Az)"
+414,NULL,EJM,"American Air Services,Inc. D/B/A Executive Jet  Management, Inc. (Cincinnati, Oh)"
+415,AA,AAL,American Airlines Inc.
+416,NULL,XFS,"American Flight Service Systems, Inc. (Phoenix, Az)"
+417,TZ,AMT,"American Trans Air, Inc."
+418,NULL,AMF,"Ameriflight, Inc. (Burbank, Ca)"
+419,JH,AJT,"Amerijet International (Ft.Lauderdale, Fl)"
+420,NULL,MIA,Ami (Air Mercury International)
+421,NULL,MMP,"Amp Incorporated (Harrisburg, Pa)"
+422,NULL,XAM,"Amr Services Corp (Dallas, Tx)"
+423,NULL,ANX,Anax Aviation
+424,NULL,ADX,"Anderson Aviation, Inc. (Anderson, In)"
+425,NULL,ANC,Anglo Cargo Ltd.
+426,NULL,NGV,Angoavia
+427,NULL,TIR,"Antair, S.A. De C.V."
+428,NULL,SUN,"Antillana De Navegacion Aerea, S.A."
+429,NULL,ALM,Antilliaanse Luchtvaart Maatschappij
+430,NULL,UAP,Antonov Airtrack
+431,IW,AOM,Aom-Minerve S.A.
+432,7P,APY,Apa Internacional
+433,NULL,APX,"Apex Air Cargo (Honolulu, Hi)"
+434,NULL,AOA,Apollo Airlines
+435,NULL,APL,"Appalachian Flying Service, Inc. (Blountville, Tn)"
+436,NULL,AQL,Aquila Air Ltd.
+437,NULL,CNH,"Aquila Air, Inc. (Endicott, Ny)"
+438,NULL,AGC,Arab Agricultural Aviation Company
+439,NULL,AWF,Arab Air Cargo
+440,NULL,AWS,Arab Wings Company
+441,NULL,AZD,Aral
+442,NULL,ARV,Aravco Ltd.
+443,NULL,RXA,Arax Airlines Ltd.
+444,U5,RXR,Arax Airways
+445,NULL,AZO,Arazaero
+446,NULL,ABW,Arberia Airways
+447,NULL,AKC,Arca Aerovias Colombianas Ltda.
+448,F5,ACY,Archana Airways Ltd
+449,NULL,AEB,Arctic
+450,5F,CIR,"Arctic Circle Air Service, Inc. (Fairbanks, Ak)"
+451,NULL,AWR,Arctic Wings And Rotors Ltd
+452,ZE,AZE,"Arcus-Air-Logistic Gmbh, Mannheim"
+453,NULL,RGO,"Argo, S.A."
+454,NULL,ARY,"Argosy Airways (Oxnard, Ca)"
+455,NULL,UKU,Ariana Afghan Airlines
+456,NULL,AAE,"Express Air, Inc (Phoenix, Az)"
+457,VZ,AZY,"Arizona Airways, Inc. (Tucson, Az)"
+458,NULL,AZP,"Arizona Pacific Airways (Prescott, Az)"
+459,NULL,OAO,Arkhangelsk 2 Aviation Division
+460,IZ,AIZ,Arkia Israel Inland Airlines
+461,NULL,ARQ,Armstrong Air Inc.
+462,NULL,AAC,Army Air Corps
+463,NULL,PXX,"Aroostook Aviation, Inc. (Frenchville, Me)"
+464,NULL,JTS,"Arrendamiento De Aviones Jets, S.A."
+465,NULL,APW,"Arrow Airways, Inc."
+466,NULL,ARO,Arrow Aviation Ltd.
+467,NULL,ARH,"Arrowhead Airways (Minneapolis, Mn)"
+468,NULL,ARW,Arrows Ltd
+469,AVS,AVS,AVS LTD
+470,NULL,ABA,Artem-Avia
+471,NULL,MTI,Arturo Rodriguez Martinez
+472,NULL,SPB,Asa
+473,NULL,ACR,"Asa, Air Starline Ag"
+474,NULL,NOC,Ascor Flyservice A.S.
+475,NULL,XKX,Asecna - Agence Pour La Securite De La Navigation  Aerienne En Afrique Et A Madagascar
+476,NULL,KAA,"Asia Aero Survey And Consulting Engineers, Inc"
+477,CN,APK,Asia Pacific Air Cargo Pte Ltd
+478,NULL,APD,Asia Pacific Distribution
+479,NULL,ASQ,Asia Service Airlines
+480,OZ,AAR,Asiana Airlines
+481,NULL,XJA,Assistance Aeroportuaire De L'Aeroport De Paris
+482,NULL,GIN,Association De Recherche Et D'Exploitation De Diamant Et De L'Or (Aredor)
+483,NULL,AOI,Astoria Inc.
+484,NULL,ASZ,Astrakhan
+485,SKY,SYX,"Astral Aviation, Inc. D/B/A Skyway Airlines  (Milwaukee, Wi)"
+486,NULL,XAT,"At And T Aviation Division (Morristown, Nh)"
+487,9T,ABS,Athabaska Airways Ltd.
+488,NULL,THN,Athens Air
+489,3G,AYZ,Atlant-Soyuz
+490,CC,ABD,Air Atlanta Icelandic
+491,NULL,ATB,Atlantair Ltd.
+492,NULL,MDC,"Atlantic Aero, Inc. D/B/A Atlantic Aero And  Mid-Atlantic Freight (Greensboro, Nc)"
+493,NULL,CAO,Atlantic Air
+494,NULL,BLB,Atlantic Air Bvi
+495,NULL,BJK,"Atlantic Airlines (Orlando, Fl)"
+496,RC,FLI,"Atlantic Airways, P/F, Faroe Islands"
+497,DH,BLR,"Atlantic Coast Airlines D/B/A  United Express (Sterling, Va)"
+498,NULL,AGF,"Atlantic Gulf Airlines, Inc. (Clearwater, Fl)"
+499,NULL,TRG,Atlantic Island Air
+500,NULL,AIW,Atlantic Island Airways
+501,NULL,NRS,"Atlantic Richfield Company (Anchorage, Ak)"
+502,NULL,RCU,Atlantic S.L.
+503,EV,ASE,"Atlantic Southeast Airlines, Inc. (Hapeville, Ga)"
+504,NULL,TLN,Atlantico Linhas Aereas S/A
+505,NULL,AAO,"Atlantis Airlines (Myrtle Beach, Sc)"
+506,NULL,ATE,"Atlantis Transportation Services, Ltd."
+507,5Y,GTI,"Atlas Air, Inc."
+508,NULL,ATR,"Atlas Airlines (Muncie, In)"
+509,NULL,IRH,Atlas Aviation Group
+510,NULL,SMA,Atlas Aviation Simera (Pty) Ltd
+511,NULL,AUV,Atruvera
+512,NULL,AVT,Ats Aircharter Ltd.
+513,NULL,ROS,Ats-Aviation Transport Services (Ats-Servicii De   Transport Aerian)
+514,NULL,WPR,Auckland Regional Rescue Helicopter Trust
+515,NULL,ADI,Audeli Air Express
+516,NULL,AUD,"Audi Air, Inc. (Kaktovik, Ak)"
+517,NULL,AUB,Augsburg-Airways Gmbh
+518,NULL,AUF,"Augusta Air Luftfahrtunternehmen, Augsburg"
+519,NULL,POM,Aurelio Y Gustavo Pompa Estrella
+520,GR,AUR,Aurigny Air Services Ltd.
+521,AU,AUT,Austral Lineas Aereas
+522,IM,AAU,Australia Asia Airlines Limited
+523,NULL,AUS,Australian Airlines
+524,NULL,ADA,"Australian Civil Aviation Authority, Flying Unit"
+525,NULL,OAF,Austrian Air Ambulance
+526,OS,AUA,Austrian Airlines AG dba Austrian
+527,NULL,MBA,Automobilvertriebs Aktiengesellschaft
+528,NULL,LES,Automotores Salta S.A.C.Y F.
+529,NULL,KYC,"Av Atlantic (Ft. Lauderdale, Fl)"
+530,NULL,VAI,Avalair
+531,NULL,ATV,Avanti Air
+532,NULL,VCN,Execujet Europe Ag
+533,VE,AVE,"Avensa, Aerovias Venezolanas, S.A."
+534,NULL,ESE,"Avesen, S.A. De C.V."
+535,3R,ARB,Avia Air N.V.
+536,NULL,VIL,Avia Airlines
+537,RX,AEH,Avia Express Ltd.
+538,NULL,FIL,"Avia Filipinas International, Inc."
+539,NULL,AVK,Avia Kargo Sisitem A.S.
+540,NULL,AVU,Avia Sud
+541,NULL,NUR,Avia-Nur
+542,NULL,VCO,Aviacion Colombiana Ltda.
+543,NULL,VME,"Aviacion Comercial De America, S.A. De C.V."
+544,NULL,ANW,"Aviacion Del Noroeste, S.A. De C.V."
+545,NULL,NST,"Aviacion Ejecutiva Del Noroeste, S.A. De C.V."
+546,NULL,AVM,"Aviacion Ejecutiva Mexicana, S.A."
+547,AO,AYC,"Aviacion Y Comercio, S.A. (Aviaco)"
+548,NULL,AZS,Aviacon Zitotrans
+549,IP,VCR,Aviacor
+550,7U,ERG,Aviaenergo
+551,NULL,VGG,Aviage
+552,NULL,AVF,Aviair Aviation Ltd.
+553,NULL,RLC,Avial (Russian Company Limited)
+554,NULL,AVG,"Avialgarve, Taxis Aereos Do Algarve, Lda"
+555,NULL,MSG,Aviamost
+556,AV,AVA,"Avianca, Aerovias Nacionales De Colombia, S.A."
+557,RD,NOV,Avianova S.P.A.
+558,NULL,OBM,Aviaobshemash
+559,NULL,AVX,Aviapaslauga
+560,J5,PRL,Aviaprima
+561,NULL,TVL,Aviata
+562,NULL,UTL,Aviatia Utilitara Sa
+563,NULL,AMJ,Aviation Amos M. Et J. Inc.
+564,NULL,SUA,"Aviation Associates, Inc. D/B/A Eastern Metro   Express (St. Croix, Vi)"
+565,NULL,AVB,Aviation Beauport Ltd.
+566,NULL,FTN,Aviation Charter And Management
+567,NULL,MMM,Aviation Company Meridian
+568,NULL,MTG,Aviation Company Mostransgaz
+569,NULL,ADK,Aviation Development Company Nigeria Limited
+570,NULL,AVP,Aviation Enterprises
+571,NULL,LAT,Aviation Legere De L'Armee De Terre
+572,NULL,AAM,"Aviation Management Corporation (Lansing, Il)"
+573,NULL,QLA,Aviation Quebec Labrador Ltee.
+574,NULL,AVQ,"Aviation Services, Inc. (Hartford, Ct)"
+575,NULL,FRE,"Aviation Services, Ltd. (Agana,Guam)"
+576,NULL,UAN,Aviaton
+577,NULL,AVW,Aviator S.A.
+578,NULL,VZR,Aviazur
+579,NULL,AIA,Avies
+580,NULL,IJE,"Avijet, S.A. De C.V."
+581,NULL,LON,Avilond Tac
+582,NULL,AGX,Aviogenex
+583,NULL,ADQ,Avion Taxi (2695731 Canada Inc.)
+584,NULL,ANU,Avionair Inc.
+585,NULL,NRE,"Aviones Are, S.A. De C.V."
+586,NULL,AQT,"Aviones De Renta De Quintana Roo, S.A. De C.V."
+587,NULL,ADS,"Aviones De Sonora, S.A."
+588,NULL,JFA,Aviones Ejecutivos J.F.A.
+589,NULL,AUN,"Aviones Unidos, S.A. De C.V."
+590,NULL,ADG,"Aviones Y Servicios Del Golfo, S.A. De C.V."
+591,NULL,VIO,Avionic Ltd
+592,NULL,AVI,"Aviorrenta, S.A."
+593,NULL,KJA,Avistar (Cyprus) Limited
+594,NULL,ESO,Avitat
+595,NULL,WFD,Avro International Aerospace
+596,8D,AWO,Awood Air Ltd.
+597,NULL,AXR,"Axel Rent, S.A."
+598,NULL,AYT,Ayeet Aviation & Tourism
+599,J2,AHY,Azerbaijan Hava Yollary
+600,NULL,AZB,Azamat
+601,NULL,AZT,"Azimut, S.A."
+602,NULL,AZZ,Azza Transport Co. Ltd
+603,NULL,RPX,Bac Aircraft Ltd
+604,NULL,BAC,Bac Leasing Limited
+605,UP,BHS,Bahamasair Holdings Ltd.
+606,8Q,BAJ,"Baker Aviation, Inc."
+607,NULL,BLN,Bali International Air Service
+608,LZ,LAZ,Balkan-Bulgarian Airlines
+609,NULL,BTL,"Baltia Air Lines, Inc. (Jamaica, Ny)"
+610,NULL,BLT,"Baltic Aviation, Inc. (Denver, Co)"
+611,NULL,LTB,Baltic Express Line
+612,TI,BIA,Baltic International Airlines
+613,NULL,BAT,Banat Air Service Ltd
+614,NULL,BMX,Banco De Mexico
+615,BG,BBC,Biman Bangladesh Airlines
+616,NULL,XBG,"Bangor, City Of (Bangor, Me)"
+617,JA,BKA,"Bankair, Inc. (West Columbia, Sc)"
+618,NULL,BBA,Bannert Air
+619,NULL,AJC,"Bar Harbor Airlines (Bangor, Me)"
+620,NULL,BXH,Bar Xh Air Inc.
+621,NULL,BAI,"Barair, S.A."
+622,NULL,ACH,"Barcklay Flying Service (Spokane, Wa)"
+623,NULL,BKJ,"Barken International, Inc. (Salt Lake City, Ut)"
+624,NULL,BKH,Barkston Heath Ftu (Mil)
+625,NULL,CLN,Barnes Olson Aeroleasing Ltd
+626,NULL,BVN,"Baron Aviation Services, Inc. (Vichy, Mo)"
+627,NULL,BTH,Barth'S Aviation
+628,5E,BRO,Base Regional Airlines
+629,NULL,XBO,"Baseops International, Inc. (Houston, Tx)"
+630,V9,BTC,Bashkirian Airlines
+631,NULL,BFC,"Basler Flight Service, Inc. (Oshkosh, Wi)"
+632,BAY,BAY,Bravo Airways
+633,NULL,BAO,Bay Air Cargo S/A
+634,NULL,BYU,Bayu Indonesia Air P.T.
+635,NULL,PVO,Bearing Supplies Ltd
+636,NULL,BLS,Bearskin Lake Air Service Limited
+637,NULL,QTX,Beaufort Leasing Ltd
+638,NULL,BEC,"Beech Aircraft Corp. (Wichita, Ks)"
+639,NULL,BLJ,Bluelink jets AB
+640,4T,BHP,Belair
+641,NULL,FBR,Belair Ile De France
+642,B2,BRU,Belavia
+643,NULL,UIL,Yugoslavia Airlines
+644,NULL,BLG,Belgavia (Societe De Handling)
+645,NULL,ABF,ScanWings OY
+646,NULL,BIC,Belgian International Air Carriers
+647,NULL,TXB,"Bell Helicopter, Textron Canada"
+648,NULL,BLV,Bell-View Airlines Limited
+649,NULL,BVU,Bellview Airlines (S/L) Ltd
+650,NULL,BMJ,"Bemidji Airlines (Bemidji, Mn)"
+651,NULL,BMI,Bemoair
+652,NULL,BEI,Benair
+653,NULL,BFS,Benelux Falcon Service
+654,NULL,SPT,"Bengis Aviation (Pty) Ltd D/B/A Sprint  Airlines, South Africa"
+655,NULL,BEX,Benin Air Express
+656,NULL,BEN,"Bennington Aviation, Inc. (Bennington,Vt)"
+657,8E,BRG,"Bering Air, Inc. (Nome, Ak)"
+658,J8,BVT,Berjaya Air Sdn Bhd
+659,NULL,AHS,"Berry Aviation, Inc. (Austin, Tx)"
+660,FC,SBY,"Bfs Berliner Spezial Flug, Luftfahrtunternehmen  Gmbh, Berlin-Schonefeld"
+661,B4,BHO,Bhoja Airlines
+662,NULL,BIG,"Big Island Air, Inc. (Kailua - Kona, Hi)"
+663,GQ,BSY,"Big Sky Airlines (Billings, Mt)"
+664,NULL,BHR,"Bighorn Airways, Inc. (Sheridan, Wy)"
+665,NULL,IBB,Binter Canarias
+666,NULL,BIR,"Bird Leasing, Inc. (North Andover, Ma)"
+667,NULL,BHY,Birgenair
+668,NULL,HOT,Birmingham Aerocentre Ltd
+669,NULL,BDF,Bissau Discovery Flying Club
+670,EP,BAK,"Blackhawk Airways, Inc. (Janesville, Wi)"
+671,NULL,BLH,"Blue Horizon Travel Club (Cincinnati, Oh)"
+672,NULL,BSW,Blue Sky Airways
+673,NULL,BOE,"Boeing Commercial Airplane Group (Seattle, Wa)"
+674,NULL,BIN,"Boise Interagency Fire Center (Boise, Id)"
+675,NULL,BON,Bon Accord Airways
+676,NULL,BNR,Bonair Aviation Ltd.
+677,NULL,BOD,Bond Air Services Ltd.
+678,NULL,BND,Bond Helicopters Ltd.
+679,NULL,BPT,Bonus Aviation
+680,NULL,SSN,Bop Air (Pty) Ltd Trading As Sun Air
+681,NULL,BOF,Bordaire Ltd.
+682,NULL,BDA,Border Airways
+683,NULL,BDN,Boscombe Down Dteo
+684,NULL,RRS,Boscombe Down Dteo (Formation)
+685,NULL,BSP,Bosphorus Hava Yollari Turizm Ve Ticaret A.S.
+686,BO,BOU,Bouraq Indonesia Airlines Pt
+687,NULL,BMN,"Bowman Aviation, Inc. (Fort Wayne, In)"
+688,NULL,BRH,Braathen Helicopters A/S
+689,BU,BRA,Braathens Asa
+690,NULL,BAR,Bradley Air (Charter) Services Ltd.
+691,NULL,BSI,Brasair Transportes Aereos
+692,JJ,BLC,Brasil-Central Linhas Aereas Regional S.A.
+693,NULL,BRS,Brazilian Air Force
+694,NULL,EXB,Brazilian Army Aviation
+695,NULL,MBR,Brazilian Navy Aviation
+696,NULL,GEM,Bristol Bae
+697,NULL,CLF,Bristol Flying Centre
+698,NULL,BHN,Bristow Helicopters (Nig) Limited
+699,NULL,BHL,Bristow Helicopters Group Ltd.
+700,NULL,BMH,Bristow Masayu Helicopters P.T.
+701,DB,BZH,Britair S.A.
+702,BY,BAL,Britannia Airways Ltd.
+703,NULL,AYR,British Aerospace Flying College Ltd
+704,NULL,BAE,British Aerospace Plc
+705,BA,BAW,British Airways
+706,NULL,SHT,British Airways Shuttle
+707,NULL,BCL,British Caribbean Airways
+708,NULL,BCR,British Charter
+709,NULL,BCG,British Columbia Government
+710,NULL,BCH,British Columbia Power And Hydro Authority
+711,NULL,BCT,British Columbia Telephone Ltd.
+712,NULL,BMD,British Medical Charter
+713,KJ,LAJ,British Mediterranean Airways Ltd
+714,BD,BMA,British Midland Airways Ltd.
+715,NULL,BPX,British Petroleum Exploration
+716,NULL,BWL,British World Airlines Ltd
+717,NULL,BTA,"Britt Airways, Inc., D/B/A Continental Express/ Air  Mike Express (Houston, Tx)"
+718,DB,BZN,Brize Norton Ftu
+719,NULL,BRD,Brock Air Services Ltd.
+720,NULL,CVN,Bromma Flygskola Ab
+721,NULL,BRY,Brymon European Airways
+722,NULL,BSL,Bsl Airlines
+723,NULL,BUK,Buckley Air Ltd
+724,NULL,BPS,Budapest Air Service Ltd
+725,NULL,BVA,"Buffalo Airways (Waco, Tx)"
+726,NULL,BFL,Buffalo Airways Ltd.
+727,NULL,BRX,"Buffalo Express Airlines, Inc. (Buffalo, Ny)"
+728,NULL,BCA,Bulgarian Air Cargo
+729,NULL,BFB,Bulgarian Flying Cargo
+730,NULL,BLF,Bulgarian Lucky Flight
+731,NULL,SUI,Swiss Air Force
+732,NULL,BGS,Bundesgrenzschutz
+733,NULL,XDA,Bureau Veritas S.A.
+734,NULL,BMM,Burman Aviation (Charter) Ltd
+735,BUR,BUR,Business Air Ag
+736,NULL,BHU,Business Air Ltd
+737,II,GNT,Business Air Ltd
+738,NULL,BAM,Business Air Services (Toronto) Ltd.
+739,NULL,MIN,Business European Airways Ltd
+740,HQ,GAA,"Business Express (Newton, Ct)"
+741,NULL,EXP,Business Express Delivery Ltd.
+742,NULL,GEN,Business Operations Support Services
+743,NULL,BEE,Busy Bee Of Norway A/S
+744,NULL,BZZ,Butane Buzzard Aviation Corporation
+745,NULL,PPS,"Butte Aviation, Inc. (Butte, Mt)"
+746,NULL,LIM,Bvba Lucorp
+747,NULL,BKU,Bykovo-Avia
+748,NULL,TIP,"C And M Aviation (Butte, Mt)"
+749,NULL,CEE,C-Air
+750,NULL,CUO,"C.C. Enrique Cuahonte Delgado, Marta Amezcua  De Cuahonte"
+751,NULL,ROG,"C.C. Sergio Gonzales Rogel, Ing. Fernado G. Rogel"
+752,NULL,ORO,"C.N. Air, S.A."
+753,NULL,AUG,C.P.A. Cesar Augusto De La Cruz Lepe
+754,NULL,CTC,"C.T.C. Air, S.A."
+755,NULL,CLB,Caa Calibration Flight
+756,NULL,EXM,Caa Flight Examiners
+757,NULL,CFU,Caa Flying Unit
+758,NULL,SDS,Caa Training Standards
+759,NULL,MTQ,Caaa Air Martinique
+760,CV,CBI,Cabi
+761,NULL,KVY,"Cai, Compagnia Aeronautica Italiana Spa"
+762,NULL,CCE,Cairo Air Transport Company
+763,NULL,CLV,Cal Aviation S.A.
+764,NULL,CKT,Caledonian Airways Ltd
+765,NULL,IOP,Caliop
+766,MO,CAV,Calm Air
+767,NULL,CMR,Cam Air Management Ltd
+768,NULL,CMG,Camargue Air Transport
+769,UY,UYC,Cameroon Airlines
+770,NULL,TGO,Canada - Transport Canada
+771,NULL,CWA,Canada West Air Ltd.
+772,CP,CDN,Canadian Airlines International Ltd
+773,NULL,CFC,Canadian Armed Forces
+774,NULL,CTG,Canadian Coast Guard
+775,NULL,HIA,Canadian Eagle Aviation Ltd.
+776,NULL,WSR,Canadian Helicopters
+777,NULL,TKR,Canadian Interagency Forest Fire Centre
+778,NULL,XNC,Canadian National Telecommunications
+779,NULL,CDR,Canadian Regional Airlines Ltd
+780,NULL,CWH,Canadian Warplane Heritage Museum
+781,NULL,CWW,Canair
+782,NULL,CAU,"Cancun Avioturismo, S.A."
+783,NULL,ORD,Cap. P.A. Hernando R. Ordonez Gutierrez
+784,NULL,CAX,Capax-Air Ag C/0 Unitreva Ag
+785,NULL,SEM,"Cape Central Airways, Inc. (Cape Girardeau, Mo)"
+786,6C,CMY,Cape Smythe Air Service Inc.
+787,NULL,CPX,"Capital Air Service, Inc. (Manhattan, Ks)"
+788,NULL,CAP,"Capital Airlines, Inc. (Oxford, Ct)"
+789,NULL,VEN,Capital Aviation Services Ltd.
+790,NULL,EGL,Capital Trading Aviation Ltd
+791,NULL,ANO,"Capiteq Limited, Trading As Air North Regional"
+792,NULL,CEX,"Capitol Air Express (Reston, Va)"
+793,NULL,FVA,"Cardinal/Air Virginia (Lynchburg, Va)"
+794,NULL,CDM,Carga Aerea Dominicana
+795,NULL,CCR,"Carga Aerea Venezolana Caraven, S.A."
+796,NULL,CDC,"Carga Del Caribe, S.A. De C.V."
+797,NULL,CDO,Cargo Dor Limited
+798,NULL,CTW,Cargo Three Inc.
+799,NULL,CRJ,Cargojet
+800,CV,CLX,Cargolux Airlines International
+801,NULL,CGM,Cargoman Limited
+802,NULL,OWS,Cargosur
+803,K7,DEL,Carib Aviation Limited
+804,NULL,BCB,Carib Express
+805,NULL,DCC,Caribbean Air Cargo
+806,NULL,CRB,"Caribbean Air Tours & Services Charters, S.A.De C.V."
+807,NULL,CLT,Caribbean Air Transport Co. Inc.
+808,NULL,IQQ,Caribbean Airways
+809,NULL,TLC,"Caribbean Express, Inc. (Miami Springs, Fl)"
+810,NULL,WND,Caribbean Winds Airways Inc.
+811,NULL,CRT,Caribintair S.A.
+812,NULL,CBJ,Caribjet Inc
+813,NULL,CCD,Carlos Cervantes Del Rio
+814,NULL,CTX,"Carolina Air Transit, Inc. (Charlotte, Nc)"
+815,NULL,CRR,Carranza
+816,NULL,ULS,"Carroll Air Service, Inc. (Kingston, Ny)"
+817,NULL,FBO,Carroll Aircraft Corporation Plc
+818,NULL,CMT,"Casement Aviation (Plainesville, Oh)"
+819,XP,CXP,"Casino Express Airlines (Elko, Nv)"
+820,NULL,SAL,Caspair Ltd.
+821,NULL,CSP,"Casper Air Service,Inc.(Casper, Wy)"
+822,RV,CPN,Caspian Airlines
+823,NULL,CSJ,"Castle Aviation, Inc. (Ravenna, Oh)"
+824,NULL,CAZ,Cat Aviation Ag
+825,NULL,KET,Cat Kargo Hava Tasima A.S.
+826,NULL,CTZ,Cata S.A.C.I.F.I.
+827,NULL,CBT,"Catalina Flying Boats, Inc. (Long Beach, Ca)"
+828,NULL,TEX,"Catex, Compagnie"
+829,CX,CPA,Cathay Pacific Airways Ltd.
+830,NULL,ICL,Cavei Avir Lemitanim
+831,KX,CAY,Cayman Airways Ltd.
+832,NULL,CBR,Ccat
+833,NULL,CCF,"Ccf Manager Airline Gmbh, Koln"
+834,NULL,CIL,Cecil Aviation Ltd.
+835,NULL,CET,Ceeta-Kel Air
+836,NULL,CEG,Cega Aviation Limited
+837,NULL,CER,"Celmar Servicios Aereos, S.A. De C.V."
+838,NULL,CEL,Ceneast Airlines Ltd
+839,BE,CNA,Centennial
+840,NULL,CNL,"Centennial Airlines, Inc. (Laramie, Wy)"
+841,NULL,CNS,Centennial Flight Centre
+842,NULL,CTS,Center-South Ltd
+843,NULL,CTL,"Central Airlines, Inc. (Kansas City, Ks)"
+844,NULL,CEN,Central Airways Corp
+845,NULL,CNY,Central Airways Limited
+846,NULL,YOG,"Central Aviation, Inc. (Chicago, Il)"
+847,NULL,CDS,Central Districts Airlines
+848,NULL,CMA,Central European Airlines
+849,9M,GLR,Central Mountain Air Ltd
+850,NULL,CSI,"Central Skyport, Inc. (Columbus, Oh)"
+851,NULL,DTV,"Centre Airlines, Inc. (Reedsville, Pa)"
+852,NULL,CEV,Centre D'Essais En Vol
+853,NULL,CNT,Centre National D'Etudes Des Telecommunications (C.N.E.T.)
+854,NULL,NTU,Century Aviation (Nig) Ltd
+855,NULL,HAI,"Century Aviation International, Ltd"
+856,NULL,URY,"Century Aviation, S.A. De C.V."
+857,NULL,XAD,"Certified Aircraft Dispatch, Inc. (Miami, Fl)"
+858,NULL,CTF,"Cetfa, S.A."
+859,NULL,CCT,"Cetty Taxi Aereo Nacional, S.A. De C.V."
+860,PW,PWA,Challeng'Air
+861,CLO,CLO,Challenge Aero Ukraine
+862,WE,CWC,Challenge Air Cargo Inc.
+863,NULL,CHS,Challenge Aviation Pty. Ltd .
+864,NULL,OFF,"Challenge International Airlines (Miami, Fl)"
+865,2Z,CGN,Changan Airlines
+866,NULL,GJD,Channel Aviation Ltd
+867,LS,EXS,Jet2.Com
+868,NULL,CHN,"Channel Island Aviation (Oxnard, Ca)"
+869,NULL,CPL,"Chaparral Airlines (Abilene, Tx)"
+870,NULL,CFO,Chapman Freeborn
+871,NULL,HMD,"Charlie Hammonds Flying Service, Inc. (Houma, La)"
+872,NULL,CGD,"Charlotte, Nc Air National Guard (Charlotte, Nc)"
+873,NULL,SJN,"Chartair, Inc. D/B/A Air San Juan (Friday Harbor, Wa)"
+874,NULL,CHW,Charter Air Ges.M.B.H. & Co. Kg
+875,NULL,CFR,Chauffair Ltd
+876,US,CHQ,"Chautauqua Airlines (Jamestown, Ny)"
+877,H6,CHB,Chelyabinsk Air Enterprise
+878,NULL,CMC,Chemech Aviation (Pvt) Ltd
+879,NULL,CBM,"Cherokee Leasing, Inc. D/B/A/ Cherokee  Express (Orlando, Fl)"
+880,NULL,CAB,"Chesapeake Air Service (Pasadena, Md)"
+881,NULL,CYA,"Cheyenne Airways, Inc. (Cheyenne, Wy)"
+882,C8,CGO,"Chicago Air, Inc. (Chicago, Il)"
+883,NULL,CCH,"Chilchota Taxi Aereo, S.A. De C.V."
+884,NULL,DES,Chilcotin Caribou Aviation
+885,NULL,CAD,Chilliwack Aviation Ltd.
+886,NULL,CHA,Chiltern Airways
+887,NULL,CHY,China Air Cargo
+888,MU,CES,China Eastern Airlines
+889,NULL,CFA,China Flying Dragon Aviation Co.
+890,GP,CTH,China General Aviation Corp. - Cgac
+891,F6,CAG,China National Aviation Corporation
+892,CJ,CBF,China Northern Airlines
+893,WH,CNW,China Northwest Airlines
+894,NULL,CHC,China Ocean Helicopter Corp. - Cohc
+895,CZ,CSN,China Southern Airlines
+896,SZ,CXN,China Southwest Airlines
+897,HR,CUA,China United Airlines
+898,X2,CXH,China Xinhua Airlines
+899,NULL,CPW,"Chippewa Air Commuter, Inc. (Manistee, Mi)"
+900,XW,CHF,Chitaavia
+901,NULL,CHV,Chivenor Ftu
+902,NULL,CAS,"Christman Air System (Washington, Pa)"
+903,NULL,HSA,Chs Aviation Limited
+904,NULL,CHU,"Church Aircraft Ltd (Denver, Co)"
+905,NULL,CHO,Ciga Aviation Spa
+906,QI,CIM,Cimber Air A.S.
+907,BS,NTS,"Cirrus Air, Inc. (Dallas, Tx)"
+908,NULL,CSR,Cis-Air
+909,NULL,COK,Ciskei International Airways Corp.
+910,NULL,XCX,"Citibank, N.A. (Newark, Nj)"
+911,NULL,CYB,City Air Bus Ltd
+912,NULL,ISY,City Air Ltd
+913,NULL,BCY,City Jet
+914,NULL,CIT,City-Jet Luftverklehrsges M.B.H.
+915,NULL,CRG,City-Link Airlines Nigeria Limited
+916,NULL,CAQ,Cityair (Chester) Limited
+917,FD,CFE,Cityflyer Express
+918,NULL,CLA,Citylink Air Taxi
+919,NULL,BKR,"Civil Air Patrol, South Carolina Wing (Columbia, Sc)"
+920,NULL,CIV,Civil Aviation Authority Of New Zealand
+921,NULL,CBA,Civil Aviation Inspectorate Of The Czech Republic
+922,NULL,CKC,"Ckc Services, Inc. (Newport Beach, Ca)"
+923,NULL,CLK,"Clark Aviation Corp. (New Cumberland, Pa)"
+924,NULL,CLC,Classic Air Ag
+925,NULL,CLS,Classic Air Ltd
+926,NULL,CLD,Clowes Estates Ltd
+927,NULL,FCT,Cnfa (Sfact)
+928,NULL,CQA,Coast Air Ltd.
+929,DQ,CXT,"Coastal Air Transport (Christiansted, St. Croix)"
+930,NULL,CNG,"Coastal Airways (Gulfport, Ms)"
+931,NULL,CHL,"Cohlmia Aviation (Dallas, Tx)"
+932,9L,CJC,"Colgan Air (Manassas, Va)"
+933,NULL,CAE,Colibri Aviation Reg'D
+934,YD,GAG,"Cologne Air Transport, Koln"
+935,NULL,WCO,"Columbia Helicopters, Inc. (Lake Charles, La)"
+936,NULL,KLR,"Columbus Air Transport, Inc. (Columbus, Oh)"
+937,NULL,CBS,Columbus Avia
+938,NULL,NVE,"Colvin Aviation, Inc. (Athens, Ga)"
+939,OH,COM,"Comair, Inc. (Cincinnati, Oh)"
+940,NULL,CMD,Comandor Avia
+941,NULL,CDE,Comed Aviation Ltd
+942,NULL,CRS,"Comercial Aerea, S.A. De C.V."
+943,NULL,RED,Comite International De La Croix-Rouge Red Cross (International Committee)
+944,NULL,COE,"Comitel, Bedarfsfluge Kg"
+945,NULL,CAH,Command Airways
+946,NULL,CTM,Commandement Du Transport Aerien Militaire Francais
+947,NULL,CML,Commander Air Charter Limited
+948,NULL,CRM,"Commander Mexicana, S.A. De C.V."
+949,MN,CAW,Commercial Airways (Pty.) Ltd.
+950,NULL,GAR,Commodore Aviation
+951,NULL,CJS,"Commonwealth Jet Service, Inc. (Sandston, Va)"
+952,NULL,UNI,Community Express Airlines Ltd
+953,C5,UCA,Champlain Enterprises Inc.
+954,NULL,CGR,Compagnia Generale Ripreseaeree Spa
+955,NULL,LGD,Compagnie Aerienne Du Languedoc
+956,C9,FEU,Compagnie Aeronautique Europeenne
+957,XK,CCM,Compagnie Air Mediterrannee
+958,NULL,GIC,Compagnie De Bauxites De Guinee
+959,NULL,AGN,Compagnie Nationale Air Gabon
+960,NULL,BFN,Compagnie Nationale Naganagani
+961,NULL,BXS,"Compania ""Spantax"" (Servicios Y Transportes  Aereos Air Charter)"
+962,NULL,TUU,Compania Aerea De Servicios Tur Air
+963,NULL,ASU,Compania Aerea Del Sur S.A. (Aerosur S.A.)
+1306,AY,FIN,Finnair O/Y
+964,NULL,LAS,Compania Aerea Lineas Ecuatoguineanas De  Aviacion S.A. (Leasa)
+965,NULL,ATF,Compania Aerotecnicas Fotograficas
+966,CF,CFP,"Compania De Aviacion ""Faucett"", S.A."
+967,NULL,TAV,Compania De Servicios Aereos Tavisa
+968,NULL,SSS,"Compania De Servicios Aereos, S.A. (Saesa)"
+969,NULL,DOA,"Compania Dominicana De Aviacion, S.A."
+970,NULL,EJV,"Compania Ejecutiva, S.A. De C.V."
+971,NULL,HSO,"Compania Helicopteros De Transporte, S.A."
+972,NULL,HSE,"Compania Helicopteros Del Sureste, S.A."
+973,NULL,IAN,Compania Interandina De Aviacion
+974,NULL,MDR,"Compania Mexicana De Aeroplanos, S.A."
+975,MX,MXA,"Compania Mexicana De Aviacion, S.A."
+976,NULL,CMX,"Compania Mexicana De Taxis Aereos, S.A."
+977,CM,CMP,Copa Airlines
+978,NULL,HSS,"Compania Transportes Aereos Del Sur, S.A."
+979,NULL,CPS,Compass Aviation
+980,NULL,XCO,"Compuflight Operations Service, Inc. (Port  Washington, Ny)"
+981,NULL,XCS,Compuserve Incorporated
+982,NULL,CRC,Conair Aviation Ltd.
+983,NULL,COS,Concors Latvian Air Service
+984,NULL,CNR,"Condor Aero Services, Inc. (Cullman, Al)"
+985,DE,CFG,Condor Flugdienst Gmbh
+986,NULL,COF,Confort Air Inc.
+987,NULL,CGA,"Congressional Air, Ltd (Gaithersburg, Md)"
+988,NULL,ROY,Conifair Aviation Inc.
+989,NULL,CBY,Coningsby Ftu
+990,NULL,BSN,Connectair Charters Ltd.
+991,5C,CAC,"Conquest Airlines (Beaumont, Tx)"
+992,NULL,CXO,"Conroe Aviation Services, Inc. (Conroe, Tx)"
+993,NULL,CRI,"Consorcio Aereo, S.A. De C.V."
+994,NULL,CHP,"Consorcio Aviaxsa,  S.A. De C.V."
+995,NULL,KIS,Contactair Flugdienst And Co.
+996,NULL,XCL,"Contel Asc (Mclean, Va)"
+997,NULL,CBD,Continent Air Paris
+998,CO,COA,Continental Air Lines Inc.
+999,NULL,CCL,Continental Aviation Limited (Contical)
+1000,NULL,CON,"Continental Oil Co. (Ponca City, Ok)"
+1001,NULL,TSU,"Contract Air Cargo, Inc. (Waterford, Mi)"
+1002,NULL,CKA,"Cook Inlet Aviation, Inc. (Homer, Ak)"
+1003,NULL,SVY,Cooper Aerial Surveys Ltd
+1004,NULL,SKY,Cooper Skybird Air Charters Ltd.
+1005,NULL,CAT,Copenhagen Airtaxi
+1006,NULL,COP,"Copper State Air Service, Inc. (Mesa, Az)"
+1007,NULL,COZ,Corair
+1008,NULL,CRA,Coronado Aerolineas Ltda.
+1009,NULL,CPB,Corpac Canada Ltd
+1010,NULL,CEJ,"Corporacion Aerea Ejecutiva, S.A. De C.V."
+1011,NULL,CNC,"Corporacion Aereo Cencor, S.A. De C.V."
+1012,NULL,CAI,"Corporacion Aereo Internacional, S.A. De C.V."
+1013,NULL,CPT,"Corporate Air (Billings, Mt)"
+1014,DN,CPR,"Corporate Air, Inc. (Hartford, Ct)"
+1015,NULL,CPO,"Corporate Aircraft Company (Gardner, Ks)"
+1016,NULL,COO,Corporate Airlink
+1017,NULL,CKE,"Corporate Aviation Services, Inc. (Tulsa, Ok)"
+1018,NULL,CSS,Corse Aero Service
+1019,NULL,CRL,Corse Air International
+1020,NULL,COT,Cottesmore Ttte
+1021,NULL,CAJ,"Cougar Air, Inc."
+1022,NULL,CHI,"Cougar Helicoptes,Inc."
+1023,NULL,CSD,"Courier Services, Inc. (Tempe, Az)"
+1024,NULL,CUT,Court Air
+1025,NULL,CVL,Coval Air Ltd.
+1026,7C,COY,Coyne Airways Ltd.
+1027,NULL,CFD,Cranfield Institute Of Technology
+1028,NULL,CWL,Cranwell Ftu
+1029,NULL,CRE,Cree Airways Corporation
+1030,NULL,KRT,Kokshetau Airline
+1031,NULL,CRH,"Cri Helicopters Mexico, S.A. De C.V."
+1032,OU,CTN,Croatia Airlines
+1033,X5,CUS,Cronus Airlines
+1034,LX,SWR,Swiss International Air Lines
+1035,NULL,CKR,Crown Air Systems
+1036,US,CRO,"Crown Airways, Inc. (Dubois, Pa)"
+1037,NULL,CRW,Crownair
+1038,NULL,CTY,"Cryderman Air Service (Drayton Plains, Mi)"
+1039,NULL,CYT,"Crystal Shamrock (Minneapolis, Mn)"
+1040,NULL,IRO,"Csa Air, Inc. (Iron Mountain, Mi)"
+1041,NULL,CSE,Cse Aviation Ltd.
+1042,NULL,CYC,Cyprair Tours Ltd.
+1043,CY,CYP,Cyprus Airways Ltd.
+1044,NULL,CEF,Czech Air Force
+1045,NULL,AHD,Czech Air Handling
+1046,OK,CSA,"Czech Airlines a.s., CSA"
+1047,NULL,CIE,Czech Government Flying Service
+1048,D3,DAO,Daallo Airlines
+1049,NULL,DCA,Dacono-Air
+1050,NULL,DSR,"Dairo Air Services,Ltd."
+1051,NULL,DKA,Daka
+1052,NULL,DAK,Dakair
+1053,EX,DXP,"Dallas Express Airlines, Inc. (Dallas, Tx)"
+1054,D2,DAM,Damania Airways Ltd
+1055,NULL,DSA,"Danbury Airways, Inc. (Danbury, Ct)"
+1056,NULL,DAF,Danish Air Force
+1057,DX,DTR,Danish Air Transport
+1058,NULL,DAR,Danish Army
+1059,NULL,DNY,Danish Navy
+1060,NULL,DBE,Danube-Air Ltd.
+1061,NULL,DRT,Darta
+1062,NULL,DSH,"Dash Air Charter (Atlanta, Ga)"
+1063,NULL,XDT,"Date Transformation Corp. (Turnersville, Nj)"
+1064,NULL,DSF,David See Flying Services
+1065,NULL,DWN,"Dawn Air, Inc. (Manteo, Nc)"
+1066,NULL,DHC,De Havilland Inc.
+1067,NULL,DGL,Deal (Diagonal European Airways Link)
+1068,NULL,DAA,"Decatur Aviation, Inc. (Decatur, Il)"
+1069,NULL,JDC,"Deere And Company (Moline, Il)"
+1070,NULL,DEA,Delta Aerotaxi
+1071,NULL,SNO,Delta Air Charter Ltd.
+1072,DL,DAL,"Delta Air Lines, Inc."
+1073,NULL,DEJ,Delta Jet S.A.
+1074,NULL,DTX,Deltex
+1075,NULL,FEC,"Denver Express, Inc. (Englewood, Co)"
+1076,NULL,DJT,"Denver Jet, Inc. (Englewood, Co)"
+1077,NULL,FGC,Departamento De Agricultura De La Generalitat  De Cataluna
+1078,NULL,PAT,"Department Of The Army, Priority Air Transport  (Davison Aviation Command) (Fort Belvoir, Va)"
+1079,NULL,NEB,"Dept. Of Aeronautics, State Of Nebraska (Lincoln, Ne)"
+1080,NULL,AGR,"Dept. Of Agriculture (Hyattsville, Md)"
+1081,NULL,DRY,Deraya Air Taxi P.T.
+1082,NULL,DSN,Desna
+1083,DI,BAG,"Deutsche Ba Luftfahrtgesellschaft Mbh,Freidrichshafen"
+1084,NULL,AOT,"Deutsche Forschungs-Und Versuchsanstalt Fur  Luft-Und Raumfahrt E.V., Koln"
+1085,LH,DLH,Deutsche Lufthansa Ag
+1086,1I,AMB,Deutsche Rettungsflugwacht
+1087,ER,DHL,"Dhl Airways, Inc. (Cincinnati, Oh)"
+1088,L3,JOS,Dhl De Guatemala S.A.
+1089,NULL,SPK,"Diamond Aviation, Inc. (Statesboro, Ga)"
+1090,D8,DSL,Diamond Sakha Airlines
+1091,NULL,DGT,"Digital Equipment Corporation (Maynard, Ma)"
+1092,D7,RDN,"Dinar, S.A."
+1093,NULL,DAV,Dirac Aviation
+1094,NULL,DIA,"Direct Air, Inc."
+1095,NULL,XAP,"Direct Air, Inc. D/B/A/ Midway Connection (Gary, In)"
+1096,NULL,DCT,Direct Flight Ltd
+1097,NULL,DIR,Dirgantara Air Service Pt
+1098,NULL,DVA,"Discovery Airways (Honolulu, Hi)"
+1099,NULL,XDS,"Dispatch Services, Inc. (Miami, Fl)"
+1100,NULL,DWA,Diwan
+1101,NULL,GPL,"Dlr Deutsche Forschungsanstalt Fur Luft Und  Raumfahrt, Braunschweig"
+1102,Z6,UDN,Dniproavia - Joint Stock Aviation Co.
+1103,NULL,DOB,Dobrolet Airlines
+1104,NULL,IXX,"Dolphin Express Airlines, Inc. (Daytona Beach, Fl)"
+1105,NULL,DPL,Dome Petroleum Ltd.
+1106,E3,DMO,Domodedovo Civil Air Production Association
+1107,D9,DNV,Donavia Airlines
+1108,NULL,DON,Donair Flying Club Ltd
+1109,NULL,DAD,Dorado Air
+1110,NULL,DOR,"Dornier Reparaturwerft Gmbh, Munchen"
+1111,NULL,DOM,Dos Mundos
+1112,NULL,DOW,"Downeast Flying Service, Inc. (Wiscasset, Me)"
+1113,NULL,DRA,Dravidian Air Services Ltd.
+1114,NULL,DRS,Drenair
+1115,KB,DRK,Druk Air
+1116,NULL,DUB,Dubai Airwing
+1117,NULL,DBJ,Duchess Of Brittany (Jersey) Ltd
+1118,NULL,PHD,"Duncan Aviation, Inc. (Lincoln, Ne)"
+1119,NULL,DUN,Dunsfold Bae
+1120,NULL,DJE,"Durango Jet, S.A. De C.V."
+1121,NULL,DFS,"Dwyer Aircraft Sales, Inc. (Mason City, Ia)"
+1122,NULL,DFX,Dylan Flight Service S.A.
+1123,NULL,XDY,"Dynair Services, Inc. (Mclean, Va)"
+1124,NULL,DNR,Dynamair Aviation Inc.
+1125,QG,DYE,Dynamic Air
+1126,NULL,EHD,"E.H. Darby Aviation (Sheffield, Al)"
+1127,NULL,ICR,"Eagle Aero, Inc. (Scotia, Ny)"
+1128,NULL,EAB,Eagle Air Ltd A Berne
+1129,NULL,ISL,Eagle Air Ltd. (Arnarflug H/F)
+1130,NULL,EGT,Eagle Airways
+1131,5W,GYP,Comed Aviation Limited
+1132,NULL,EQA,Eagle Aviation Ltd
+1133,NULL,TLO,"Eagle Canyon Airlines, Inc. (Las Vegas, Nv)"
+1134,NULL,EAU,Eagle European Airways
+1135,NULL,EAG,Eagle Flying Services Ltd.
+1136,NULL,EGJ,"Eagle Jet Charter, Inc. (Las Vegas, Nv)"
+1137,NULL,ECK,East Coast Airlines Limited
+1138,NULL,ECT,East Coast Airways (Pty) Ltd
+1139,NULL,EHA,"East Hampton Aire (East Hampton, Ny)"
+1140,NULL,EKC,"East Kansas City Aviation, Inc. (Grain Valley, Mo)"
+1141,NULL,CTK,East Midlands Helicopters
+1142,NULL,EWE,East West European
+1143,NULL,EWA,East-West Airlines Ltd.
+1144,NULL,EAX,Eastern Air Executive Ltd.
+1145,NULL,ECI,"Eastern Carolina Aviation, Inc. (Richlands, Nc)"
+1146,NULL,GNS,Eastern Executive Air Charter Ltd
+1147,NULL,SPR,Eastern Flying Service Ltd.
+1148,NULL,EPB,Eastern Pacific Aviation Ltd.
+1149,DK,ELA,Eastland Air
+1150,5D,EWT,"Eastwest Airlines, Erfurt"
+1151,U2,EZY,Easyjet Airline Company Limited
+1152,NULL,DOL,"Ebsco, Inc. D/B/A Million Air Longview (Longview, Tx)"
+1153,NULL,CMN,"Eckles Aircraft Co. (Holdenville, Ok)"
+1154,NULL,BRN,"Eclipse Airlines, Inc. D/B/A Branson  Airlines, Inc. (Chantilly, Va)"
+1155,NULL,BSA,Ecole D'Aviation Civile
+1156,NULL,ECX,"Ecomex Air Cargo, Lda."
+1157,8Y,EGA,Ecuato - Guineana De Aviacion
+1158,NULL,EDW,Edelweiss Air Ag
+1159,NULL,EDN,Edenair Ltd
+1160,NULL,SLO,"Edgartown Air, Inc. (Edgartown, Ma)"
+1161,S8,ELK,Eesti Lennukompanii
+1162,NULL,FSD,"Efs-Flugservice Gmbh, Dusseldorf"
+1163,MS,MSR,Egypt Air
+1164,NULL,EGY,Egyptian Air Force
+1165,NULL,EMA,Egyptian Aviation Company
+1166,NULL,EIX,Ei Air Exports Limited
+1167,LY,ELY,El Al - Israel Airlines Ltd.
+1168,NULL,ELS,El Sal Air
+1169,NULL,DND,Eldinder Aviation
+1170,E6,EFR,Elf Air Ltd.
+1171,NULL,LGA,Elgaz
+1172,NULL,EBS,Eli-Fly Spa
+1173,NULL,ELT,"Elliott Aviation, Inc. (Omaha, Ne)"
+1174,NULL,ELR,Elrom Aviation And Investments
+1175,NULL,EYE,Emerald Air
+1176,NULL,JEM,Emerald Airways Limited
+1177,EB,EWW,Emery Worldwide Airlines
+1178,EK,UAE,Emirates
+1179,NULL,EMM,Emma-Nik Aviation Services (Nig) Limited
+1180,NULL,EMP,"Empire Air Service, Inc. (Rochester, Ny)"
+1181,EM,CFS,"Empire Airways (Missoula, Mt)"
+1182,NULL,ETP,Empire Test Pilots School
+1183,NULL,AUO,"Empresa ""Aero Uruguay"", S.A."
+1184,NULL,PRG,Aspar-Aeroservicio Parrague
+1185,NULL,ROM,Empresa Aeromar
+1186,NULL,EMB,"Empresa Brasileira De Aeronautica, S/A"
+1187,NULL,CUB,Empresa Cubana De Aviacion
+1188,NULL,GTV,"Empresa De Aviacion Aerogaviota, S.A."
+1189,NULL,ASP,Empresa De Servicios Maritima Y Aerea S.A.
+1190,NULL,PLI,Empresa De Transporte Aereo Del Peru
+1191,NULL,EEA,Empresa Ecuatoriana De Aviacion
+1192,NULL,GUG,Empresa Guatemalteca De Aviacion (Aviateca)
+1193,NULL,CNI,Empresa Nacional De Servicios Aereos
+1194,NULL,SVV,"Empresa Servicios Avensa, S.A. (Servivensa)"
+1195,NULL,ENS,"Entergy Services, Inc. (New Orleans, La)"
+1196,NULL,IAG,Epag - Groupe Air France
+1197,NULL,EPS,"Epps Air Service, Inc. (Atlanta, Ga)"
+1198,3P,PKA,Equator Airlines Ltd.
+1199,7H,ERH,"Era Helicopters, Inc. (Anchorage, Ak)"
+1200,NULL,ERE,"Erie Airways, Inc. (Erie, Pa)"
+1201,NULL,ERT,Eritrean Airlines
+1202,NULL,EFE,Ermolino Flying Test Research Enterprise
+1203,NULL,TCL,"Escape Aviation D/B/A Coastal Air Transport   (Fairhope, Al)"
+1204,NULL,ENA,"Espana, Direccion General De Aviacion Civil  Y Telecomunicaciones"
+1205,NULL,ESP,Espeair
+1206,NULL,ERC,Esso Resources Canada Ltd.
+1207,OV,ELL,Estonian Air
+1208,NULL,ETA,"Estrellas Del Aire, S.A. De C.V."
+1209,NULL,ERL,Euralair
+1210,RN,EUL,Euralair International
+1211,NULL,EUI,Euravia
+1212,LP,ECL,"Euro City Line, Stuttgart"
+1213,NULL,KOA,Euro-Flite Oy Ltd
+1214,BQ,EBA,"Eurobelgian Airlines, N.V."
+1215,NULL,EEB,Euroberlin
+1216,NULL,ERA,"Eurocommander, S.A."
+1217,NULL,EUC,Eurocontrol
+1218,NULL,ECF,Eurocopter
+1219,NULL,ECA,Eurocypria Airlines Limited
+1220,HZ,EUW,Euroflight Sweden Ab
+1221,GJ,EEZ,Eurofly S.P.A.
+1222,NULL,EEU,Eurofly Service
+1223,GOJ,GOJ,Eurojet Intercontinental
+1224,NULL,EUA,Europe Air
+1225,NULL,VIP,Europe Elite
+1226,NULL,EFS,Europe Falcon Service
+1227,NULL,ETX,European Air Taxi
+1228,QY,BCS,European Air Transport
+1229,NULL,EAW,European Airways Ltd
+1230,NULL,CCC,European Aviation Services Ltd
+1231,NULL,EUX,European Expedite
+1232,NULL,EPN,Europlane S.L.
+1233,NULL,EUJ,Euroscot Airways
+1234,NE,ESK,Skyeurope Airlines
+1235,NS,EWG,"Eurowings Ag, Nurnberg"
+1236,EZ,EIA,Evergreen International Airlines
+1237,NULL,EAM,Ewald Ernst Air-Service
+1238,NULL,EXC,Excalibur Aviation
+1239,NULL,ESR,Excelsior Airlines Limited
+1240,NULL,EXL,"Exclusive Air (Pty) Ltd., South Africa"
+1241,NULL,EXA,Execaire Aviation Ltd.
+1242,NULL,EXQ,Execujet
+1243,NULL,EAS,Executive Aerospace (Pty) Ltd
+1244,NULL,AXE,AirExplore
+1245,NULL,EAC,"Executive Air Charter (Honolulu, Hi)"
+1246,NULL,XAF,"Executive Air Fleet (Trenton, Nj)"
+1247,NULL,EXZ,Executive Air Transport Ltd
+1248,NULL,EXW,Executive Airlines Services Ltd
+1249,NULL,ESY,Executive Aviation Services Limited
+1250,NULL,TRI,"Executive Flight Operations, Ontario Government"
+1251,NULL,EXE,"Executive Flight, Inc. (Arlington, Tx)"
+1252,NULL,EJE,Executive Jet Aviation Sa
+1253,NULL,EJA,"Executive Jet Aviation, Inc. (Columbus, Oh)"
+1254,NULL,EXN,Exin
+1255,NULL,EPA,Exparc
+1256,NULL,EXD,Export Air Del Peru S.A. Cargo Air Lines
+1257,9D,EPR,Expreso Aereo
+1258,NULL,RXX,Express Air Charter
+1259,NULL,FXA,"Express Air, Inc. (New Bedford, Ma)"
+1260,9E,FLG,"Express Airlines I, Inc. D/B/A Northwest  Airlink (Memphis, Tn)"
+1261,NULL,EAN,Express Airways Nigeria Limited
+1262,NULL,LHN,"Express One International, Inc. (Dallas, Tx)"
+1263,NULL,INP,F.A. Naval Del Peru
+1264,NULL,IFA,FAI rent-a-jet
+1265,NULL,FIR,Fairlines
+1266,4X,FLS,Fairlines B.V.
+1267,NULL,FWY,"Fairways Corp. (Washington, Dc)"
+1268,NULL,FLK,Falcks Redningskorps Beldringe A/S
+1269,NULL,FAI,"Falcon Air, Inc. (Flint, Mi)"
+1270,NULL,FLO,Falcon Airlines
+1271,NULL,FCN,Falcon Aviation Ab
+1272,NULL,FJC,Falcon Jet Centre
+1273,NULL,FAW,"Falwell Aviation, Inc. (Lynchburg, Va)"
+1274,NULL,FAR,Far Airlines
+1275,NULL,FEW,Far Eastern Cargo Airlines
+1276,NULL,FWA,"Far West Airlines, Inc (Fresno, Ca)"
+1277,QB,IRQ,QESHM AIR
+1278,NULL,RAF,Farnas Aviation Services
+1279,NULL,RAE,Farnborough Rae
+1280,NULL,FAT,Farnair Switzerland
+1281,NULL,FAH,Farner Air Transport Hungary
+1282,NULL,FSN,Fasons Air Services
+1283,NULL,FSY,Fassey Aviation Ltd
+1284,UD,FST,Fast Air Ltda.
+1285,NULL,FRR,Fatra Air
+1286,NULL,FAU,Faucher Aviation
+1287,NULL,FAY,Fayban Air Services
+1288,NULL,SKM,"Fayetteville Flying Service And Scheduled  Skyways System (Fayetteville, Ar)"
+1289,NULL,FDR,Federal Air (Pty) Ltd
+1290,NULL,FLL,Federal Airlines
+1291,NULL,DCN,"Federal Armed Forces, Federal Republic Of Germany"
+1292,NULL,NHK,Federal Aviation Administration (Ato-330)
+1293,NULL,AYA,"Federal Aviation Administration (Faa) Academy  (Oklahoma City, Ok)"
+1294,FM,FDX,"Federal Express Corporation (Little Rock, Ar)"
+1295,F8,FNS,Fenix Airways
+1296,NULL,FNX,Fenix Airways
+1297,NULL,FER,Feria Aviacion
+1298,NULL,FFA,Ffa Air-Travel
+1299,NULL,FIE,"Field Aviation Gmbh & Co. Kg, Koln"
+1300,NULL,FLD,Fieldair Freight Ltd
+1301,NULL,HGK,Fika Salaama Airlines Ltd
+1302,NULL,FOA,"Filipinas Orient Airways, Inc."
+1303,NULL,FAK,Financial Airxpress
+1304,NULL,FLC,"Finfo Flight Inspection Aircraft (Oklahoma City, Ok)"
+1305,NULL,FTR,Finist'Air
+1307,FA,FAV,Finnaviation O/Y
+1308,NULL,FNF,"Finnish Air Force, Head Quarters"
+1309,NULL,COC,"Firma Conseta/Cirrus, Saarbrucken"
+1310,NULL,HLE,First Air
+1311,7F,FAB,First Air (Bradley Scheduled) Ltd.
+1312,NULL,FAC,"First Air Courier, Inc. (Oklahoma City, Ok)"
+1313,NULL,MBL,First City Air Plc
+1314,NULL,FEL,First European Airways Ltd
+1315,NULL,FIV,"Five Star Airlines (Needham, Ma)"
+1316,NULL,FSX,"Flagship Express Services, Inc. (Ypsilanti, Mi)"
+1317,FK,WAF,"Flamenco Airways, Inc. (Culebra, P.R.)"
+1318,NULL,FMR,"Flamingo Air, Inc. (Cincinnati, Oh)"
+1319,NULL,FLN,Flanders Airlines
+1320,IX,FRI,Flandre Air International
+1321,IX,FRS,Flandre Air Service
+1322,NULL,FSH,Flash Airline Limited
+1323,NULL,BWY,Fleet Requirements Air Direction Unit
+1324,NULL,FXY,Flexair B.V.
+1325,NULL,FCV,Flight Centre Victoria
+1326,NULL,FCP,Flight Corporation
+1327,NULL,EXR,"Flight Express (Orlando, Fl)"
+1328,NULL,FNT,"Flight International Airlines, Inc. (Atlanta, Ga)"
+1329,NULL,ACT,"Flight Line, Inc. (Denver, Co)"
+1330,NULL,MIT,"Flight Line, Inc. (Jackson, Ms)"
+1331,NULL,FOI,"Flight Ops International (Jamaica, Ny)"
+1332,NULL,LII,"Flight Research Institute, M. Gromov"
+1333,NULL,CCK,"Flight Trac, Inc. (Everett, Wa)"
+1334,NULL,FCH,Flight-Chernobyl Association
+1335,NULL,FEX,Flightexec Limited
+1336,NULL,FLT,Flightline
+1337,NULL,FTL,Flightline
+1338,US,FAZ,"Flint Aviation Services, Inc. (Flint, Mi)"
+1339,US,OJY,"Florida Air, Inc. (Ft. Lauderdale, Fl)"
+1340,US,FFS,"Florida Dept Of Agriculture (Tallahassee, Fl)"
+1341,US,FLX,"Florida Express, Inc. (Orlando, Fl)"
+1342,RF,FWL,"Florida West Airlines (Miami, Fl)"
+1343,NULL,FFG,"Flugdienst Fehlhaber Gmbh, Neustadt/Wied"
+1344,NULL,EST,"Flugfelag Austurlands Ltd., Egilsstadir"
+1345,NULL,FNA,Flugfelag Nordurlands
+1346,NULL,FCY,Fly Company Ltd
+1347,NULL,FLB,Fly S.A. Linhas Aereas
+1348,NULL,FLR,Flyair
+1349,NULL,GVG,Flygaktiebolaget Gota Vingar
+1350,OP,CHK,"Flying Boat, Inc. D/B/A Chalks International  Airlines (Ft. Lauderdale, Fl)"
+1351,NULL,FCM,Flying Cargo Private Limited
+1352,F3,FLY,Flying Enterprise Ab
+1353,NULL,SRM,Flying Swiss Ambulance Maldives (Pvt) Ltd
+1354,NULL,FOP,Fokker Flight Operations
+1355,NULL,NOF,Fonnafly A/S
+1356,NULL,FBL,Food Brokers Ltd.
+1357,NULL,AFB,Force Aerienne Belge
+1358,NULL,FAF,Force Aerienne Francaise
+1359,NULL,NYB,Force Navale Belge
+1360,NULL,AYB,Force Terrestre Belge
+1361,NULL,FOB,Ford Motor Co. Ltd
+1362,NULL,FRD,"Ford Motor Company (Detroit, Mi)"
+1363,NULL,FMA,Foremost Aviation (Nig) Ltd.
+1364,NULL,FOL,Forest Airline South Africa
+1365,NULL,FXC,Fortunair Canada
+1366,NULL,FOR,Fortune S.R.L.
+1367,NULL,FSA,"Foster Aviation (Nome, Ak)"
+1368,NULL,JFY,Foster Yeoman Ltd.
+1369,NULL,FTE,"Fotografia F3, S.A."
+1370,NULL,FIA,Four Island Air Ltd. (Antigua)
+1371,NULL,WDS,"Four Winds Aviation Ltd. (Colorado Springs, Co)"
+1372,NULL,FRA,Fr Aviation Ltd
+1373,NULL,FEJ,France Europe Avia Jet
+1374,NULL,FNY,France Marine Nationale
+1375,NULL,FOF,Fred Olsen Flyselskap A/S
+1376,ZU,FDM,"Freedom Airlines, Inc. (Binghamton, Ny)"
+1377,NULL,FWC,Freeway Air B.V.
+1378,NULL,FIB,"Freeway Iberica, S.A."
+1379,NULL,FRG,"Freight Runners Express, Inc. (Milwaukee, Wi)"
+1380,NULL,FVG,Frevag Airlines
+1381,NULL,FAL,"Friendship Air Alaska (Fairbanks, Ak)"
+1382,NULL,FLF,Friendship Airlines Ltd
+1383,NULL,FRO,"Frobisher, N.V. (European Airlines)"
+1384,F9,FFT,"Frontier Airlines, Inc. (Denver, Co)"
+1385,NULL,ITR,"Frontier Commuter (Itr Airlines, Inc) (Denver, Co)"
+1386,2F,FTA,"Frontier Flying Service, Inc."
+1387,NULL,FNG,"Frontier Guard, Finland"
+1388,NULL,FSB,"Fsb Flugservice & Development Gmbh, Berlin"
+1389,NULL,FAG,Fuerza Aerea Argentina
+1390,NULL,FPR,Fuerza Aerea Del Peru
+1391,NULL,FUJ,Fujairah Aviation Centre
+1392,NULL,CFJ,Fujian Airlines
+1393,NULL,FAM,"Fumigacion Aerea Andaluza, S.A."
+1394,NULL,FUN,Funtshi Aviation Service
+1395,NULL,GRT,Gabon-Air-Transport
+1396,NULL,GAK,Gako
+1397,NULL,GXY,Galaxy Airways Limited
+1398,NULL,GAS,"Galena Air Service (Galena, Ak)"
+1399,NULL,GLI,Gallic Aviation
+1400,NULL,GMA,Gama Aviation Ltd
+1401,CK,GAW,Gambia Airways
+1402,NULL,GAN,Gander Aviation Ltd.
+1403,NULL,GSA,"Garden State Airlines, Inc. (Shrewsbury, Nj)"
+1404,NULL,AHM,Garrison Aviation Ltd.
+1405,GA,GIA,"Garuda Indonesia, P.T."
+1406,NULL,GHS,"Gatari Hutama Air Services, Pt."
+1407,NULL,GTW,Gateway Aviation
+1408,NULL,GHL,Gatwick Handling Ltd.
+1409,4G,GZP,Gazpromavia
+1410,GT,GBL,Gb Airways Ltd
+1411,NULL,GBM,"Gbm Aereo, S.A. De C.V."
+1412,NULL,GCS,"Gcs Air Service (Galion, Oh)"
+1413,NULL,FFU,Gec Marconi Avionics Ltd
+1414,NULL,GEE,Geeseair
+1415,NULL,GVX,Geevax Ltd
+1416,NULL,GML,Gemial
+1417,NULL,GAL,Gemini Airlines Ltd.
+1418,GX,JVA,Genavia Srl
+1419,NULL,GAB,Gendall Air Ltd.
+1420,NULL,GDB,Gendarmerie Belge
+1421,NULL,FGN,Gendarmerie Nationale
+1422,NULL,SWK,General Aerospace Inc.
+1423,NULL,GAC,General Air Cargo G.A.C.
+1424,NULL,NGS,General Air Services Limited
+1425,NULL,WEA,General Aviation Ltd
+1426,NULL,XGA,General Aviation Terminal Inc.
+1427,NULL,GMC,"General Motors Corporation (Ypsilanti, Mi)"
+1428,NULL,GSL,Geographic Air Surveys Ltd.
+1429,NULL,PGU,Georgia Air Prague
+1430,NULL,GAF,German Air Force
+1431,NULL,GNY,German Navy
+1432,ST,GMI,Germania Fluggesellschaft Koln
+1433,NULL,GFD,"Gesellschaft Fur Flugzieldarstellung Mbh, Hohn"
+1434,NULL,GES,Gestair Executive Jet
+1435,NULL,GEY,Geyserland Airways Ltd
+1436,NULL,GFW,Gfw Aviation
+1437,NULL,NTC,"Gibson Aviation (Eau Claire, Wi)"
+1438,9C,GIL,Gill Aviation Ltd
+1439,NULL,MFM,Glenair
+1440,NULL,GNB,Global Air Link
+1441,NULL,GAZ,Global Aviation Pte Ltd
+1442,NULL,GLH,Global Hava Kargo A.S.
+1443,NULL,XGS,"Global Systems, Inc."
+1444,NULL,XGW,"Global Weather Dynamics, Inc."
+1445,NULL,GBC,Globe Air Cargo
+1446,NULL,GBT,Gold Belt Air Transport Inc.
+1447,DC,GAO,Golden Air Flyg Ab
+1448,NULL,SAJ,Golden Eagle Air Services Ltd. (Faa)
+1449,NULL,GLD,Golden Star Air Cargo Co. Ltd
+1450,NULL,GOS,Goldfields Air Services
+1451,NULL,GAQ,Golfe Air Quebec Ltee.
+1452,5Z,GON,Gonini Air Services Ltd.
+1453,NULL,QUE,"Gouvernement Du Quebec, Service Aerien Gouvernemental"
+1454,8G,GPE,"Gp Express Airlines, Inc. (Grand Island, Ne)"
+1455,NULL,DLP,"Graf Und Maresch Gmbh, Augsburg"
+1456,NULL,GMR,Grampian Helicopter Charter Ltd
+1457,NULL,GAV,Granada Aviacion
+1458,NULL,GAE,"Grand Aire Express, Inc. (Monroe, Mi)"
+1459,QD,GND,"Grand Airways, Inc. (Las Vegas, Nv)"
+1460,NULL,CVU,"Grand Canyon Airlines, Inc. (Grand Canyon, Az)"
+1461,NULL,GDI,"Grand International Airways, Inc."
+1462,NULL,GTR,Grantex Aviation
+1463,NULL,GRA,"Great American Airways (Reno, Nv)"
+1464,ZK,GLA,"Great Lakes Aviation Ltd (Spencer, Ia)"
+1465,NULL,GWA,"Great Western Air, Inc. (San Diego, Ca)"
+1466,NULL,GFL,Green Forest Lumber Ltd.
+1467,NULL,GRN,Greenair Hava Tasimaciligi A.S. (Greenair)
+1468,NULL,GCL,Greenclose Aviation Services Ltd
+1469,7Y,ORE,Greendale Aviation Company Ltd
+1470,NULL,GIV,Grivco International Ltd
+1471,GL,GRL,Gronlandsfly Ltd.
+1472,NULL,TXT,"Group One, Inc. D/B/A Texas Air Charters (Denton, Tx)"
+1473,NULL,EJC,"Grupo De Aviacion Ejecutiva, S.A. De C.V."
+1474,NULL,GTM,"Grupo Turistico Magno, S.A. De C.V."
+1475,NULL,GMT,"Grupoaereo Monterrey, S.A. De C.V."
+1476,NULL,GTA,Gt Aviation
+1477,G7,GIF,Guinee Air Lines S.A.
+1478,NULL,GIS,Guinee Air Service
+1479,NULL,GIE,Guinee Inter Air
+1480,G4,CGH,Guizhou Airlines
+1481,GF,GFA,Gulf Air
+1482,NULL,GAT,"Gulf Air Inc. (New Iberia, La)"
+1483,NULL,GCN,"Gulf Central Airlines Inc. (Melbourne, Fl.)"
+1484,NULL,SFY,"Gulf Flite Center, Inc. (Sarasota, Fl)"
+1485,NULL,GLF,"Gulfstream Aerospace (Savannah, Ga)"
+1486,NULL,GFS,"Gulfstream Airlines, Inc. (South Windsor, Ct)"
+1487,3M,GFT,"Gulfstream International Airlines, Inc.  (Miami Springs, Fl)"
+1488,NULL,GUL,"Gull Air (So. Yarmouth, Ma)"
+1489,NULL,SXS,Gunes Ekspres Havacilik A.S. (Sunexpress)
+1490,GY,GYA,Guyana Airways Corporation
+1491,NULL,GYR,Gyrafrance
+1492,NULL,ODI,H. Jonsson Air Taxi
+1493,NULL,FMS,Hadison Aviation
+1494,NULL,HLS,Haiti Air Freight
+1495,NULL,HTI,Haiti International Air S.A.
+1496,8F,HNR,Haiti National Airlines (Hana)
+1497,NULL,HTN,Haiti North Airline
+1498,TV,HTC,Haiti Trans Air S.A.
+1499,NULL,HBC,Haitian Aviation Line S.A.
+1500,NULL,HAJ,Hajvairy Airlines
+1501,NULL,GHC,Halic Havacilik A.S.
+1502,NULL,HAM,Hamarfly As
+1503,HX,HAS,"Hamburg Airlines, Gmbh And Co. Hamburg 63"
+1504,NULL,HJL,Hamlin Jet Ltd
+1505,NULL,WVA,"Hand D Aviation (Terre Haute, In)"
+1506,NULL,HVN,Hang Khong Viet Nam
+1507,NULL,HAX,Hangar 5 Air Services Norway A/S
+1508,NULL,HGD,Hangard Aviation Ltd.
+1509,NULL,HLF,Hapag Lloyd Fluggesellschaft Mbh
+1510,NULL,HAR,"Harbor Airlines (Oak Harbor, Wa)"
+1511,NULL,HCO,Harco Air Services
+1512,NULL,HAK,Harka Air Services Nig. Ltd.
+1513,NULL,HAA,Harrison Air
+1514,NULL,HFD,Hatfield Bae
+1515,NULL,HWA,Hawa-Air
+1516,HA,HAL,Hawaiian Airlines
+1517,ZL,HZL,Hazelton Airlines
+1518,NULL,HJC,Heathrow Jet Charter Ltd
+1519,NP,HLA,Heavylift Cargo Airlines Ltd.
+1520,2Y,HCL,Helenair Corporation Limited
+1521,NULL,HLR,Heli Air Services
+1522,NULL,HEE,Heli Europe
+1523,NULL,HFR,Heli France
+1524,NULL,HES,Heli Services
+1525,NULL,HLT,Heli Transport
+1526,NULL,HLU,Heli Union Heli Prestations
+1527,YO,MCM,Heli-Air-Monaco
+1528,NULL,HHE,Heli-Holland B.V.
+1529,NULL,HRA,"Heli-Iberica, S.A."
+1530,NULL,HIG,Heli-Inter Guyane
+1531,NULL,HLK,Heli-Link
+1532,NULL,ELI,Heliarcos
+1533,NULL,HEA,"Heliavia-Transporte Aereo, Lda"
+1534,NULL,HLC,Helicap
+1535,NULL,OCE,Helicocean
+1536,NULL,HEL,Helicol. Helicopteros Nacionales De Colombia
+1537,NULL,MVK,Helicopter Training & Hire Ltd
+1538,NULL,HAD,Helicopteros Andes
+1539,NULL,HNT,"Helicopteros Internacionales, S.A. De C.V."
+1540,NULL,XEL,"Helicopteros Xel-Ha, S.A. De C.V."
+1541,NULL,HHH,Helicsa
+1542,NULL,HFL,Heliflyg Ab
+1543,NULL,HGF,Heliglobe Industrie
+1544,NULL,HJS,Helijet
+1545,JB,JBA,Helijet Airways
+1546,YQ,HKS,Helikopter Service A/S
+1547,YQ,SCO,"Helikopterservice Ab,  Euro Air"
+1548,NULL,HPL,"Heliportugal - Trabalhos E Transporte Aereo,  Representacoes, Importacao E Exportacao, Lda"
+1549,NULL,HLV,"Heliserv, S.A. De C.V."
+1550,NULL,HEC,"Heliservicio Campeche, S.A. De C.V."
+1551,NULL,HSV,"Heliservico - Sociedade Portuguesa De Exploracao De   Meios Aereos, Lda."
+1552,NULL,SUL,Helisul Linhas Aereas S/A
+1553,NULL,OFA,"Helitaxi Ofavi, S.A. De C.V."
+1554,NULL,HTS,"Helitrans Air Service, Inc. (Long Beach, Ca)"
+1555,NULL,HAF,Hellenic Air Force
+1556,NULL,HLN,Hellenic Air S.A.
+1557,NULL,HEM,Hemmeter Aviation
+1558,DU,HMS,Hemus Air
+1559,NULL,HAC,Henebury Aviation Co.
+1560,NULL,MRX,"Hermen'S Markair Express (St. Mary'S, Ak)"
+1561,NULL,HUS,"Heussler Air Service Corp (Buffalo, Ny)"
+1562,NULL,HIB,Hibiscus Air Services Ltd
+1563,NULL,HLB,High-Line Airways Inc.
+1564,NULL,HIL,Highland Air Ab
+1565,NULL,HIK,Hikurangi Airlines
+1566,NULL,HSL,"Hispania Lineas Aereas, S.L."
+1567,NULL,HIS,Hispaniola Airways
+1568,NULL,HGA,"Hogan Air (Hamilton, Oh)"
+1569,NULL,STP,Holidair Airways
+1570,NULL,HLD,Holiday Airlines Havacilik Ve Turizm Sanayi Ve  Ticaret A.G.
+1571,NULL,HOL,"Holiday Airlines, Inc. (Morristown, Nj)"
+1572,NULL,HFT,Hollyfordair Travel Ltd
+1573,NULL,SWE,Holmstrom Air Sweden Ab
+1574,NULL,HTR,"Holstenair Lubeck, Luftverkehrsservice Gmbh & Co.  Betriebs-Kg, Lubeck"
+1575,KA,HDA,Hong Kong Dragon Airlines Limited
+1576,NULL,HEX,Honiara Cargo Express
+1577,QX,KOK,"Horizon Air Service (Honolulu, Hi)"
+1578,NULL,HOR,Horizon Air-Taxi Ltd
+1579,NULL,HZN,Horizon Airlines Ltd
+1580,NULL,QXE,"Horizon Airlines, Inc. (Seattle, Wa)"
+1581,NULL,HOS,Hoseba Sic
+1582,NULL,HDI,"Hoteles Dinamicos, S.A. De C.V."
+1583,NULL,HHO,"Houston Helicopters, Inc (Pearland, Tx)"
+1584,NULL,KTR,Ht Helikoptertransport Ab
+1585,NULL,HUB,"Hub Airlines, Inc. (Ft. Wayne, In)"
+1586,NULL,GMH,Hughes Aircraft Company
+1587,NULL,HUM,Hummingbird Helicopters Maldives (Pvt) Ltd
+1588,NULL,HUV,Hunair Hungarian Airlines Ltd Co.
+1589,NULL,HUK,Hungarian-Ukranian Airlines Ltd
+1590,NULL,NVL,Hunting Aviation Services Ltd
+1591,NULL,HUN,Hunting Business Aviation
+1592,NULL,HYA,Hyack Air Ltd.
+1593,NULL,KAP,"Hyannis Air Service, Inc. D/B/A Cape Air (Hyannis,Ma)"
+1594,NULL,APZ,Hydro-Quebec
+1595,NULL,HYE,Hyeres Aero Service
+1596,NULL,BLU,I.M.P. Aviation Services Ltd.
+1597,K7,IKT,Iakutaviatrans
+1598,IB,IBE,"Iberia - Lineas Aereas De Espana, S.A."
+1599,NULL,IBT,Ibertrans Aerea S.L.
+1600,NULL,AKI,"Ibk-Petra, Sudan"
+1601,NULL,BBL,"Ibm, Euroflight-Operations"
+1602,C3,IPR,Independent Carrier (Icar)
+1603,NULL,ICA,Icaro
+1604,NULL,ICB,Icebird Airline Ltd (Islandsflug Hf)
+1605,FI,ICE,Icelandair
+1606,NULL,ICG,Icelandic Coast Guard
+1607,NULL,IDS,Ids Aircraft Ltd.
+1608,NULL,IFL,"Ifl Group, Inc. (Waterford, Mi)"
+1609,NULL,IGP,Igap
+1610,NULL,IKR,Ikaros Dk
+1611,V8,IAR,"Iliamna Air Taxi Inc. (Iliamna, Ak)"
+1612,NULL,ILP,Ilpo Aruba Cargo N.V.
+1613,NULL,ITX,Imair
+1614,NULL,XGG,Imp Group Aviation Services Limited
+1615,NULL,IMP,Imperial Air
+1616,NULL,REJ,Imperial Airlines
+1617,NULL,PNX,"Imperial Airways, Inc. (St. Paul, Mn)"
+1618,NULL,IMG,Imperial Cargo Airline Limited
+1619,NULL,IMR,Impulse-Aero
+1620,NULL,IAX,"Independent Air Gmbh, Ulm"
+1621,NULL,IIL,India International Airways (P) Ltd
+1622,IC,IAC,Indian Airlines Corporation
+1623,NULL,IDR,Indicator Company
+1624,NULL,IDA,Indonesia Air Transport P.T.
+1625,NULL,IPN,"Industri Pesawat Terbang Nusantara, Pt."
+1626,NULL,ITN,"Industrias Titan, S.A."
+1627,NULL,IAZ,Industrie Air Charter
+1628,NULL,IEJ,Inflite Limited
+1629,NULL,ING,Ingush Aviation Lines
+1630,NULL,IVA,Innotech Aviation Limited
+1631,NULL,ISD,ISD Avia
+1632,NULL,INB,Instalbud
+1633,NULL,ICC,Instituto Cartografico De Cataluna
+1634,NULL,INT,Intair Inc.
+1635,NULL,FFL,Intavia Ltd
+1636,D6,INR,Inter Air Ab
+1637,D6,ILN,Inter Air Lines (Pty) Ltd South Africa
+1638,D6,CAR,Inter Rca
+1639,D6,ITA,"Inter-Air, Inc. (Denver, Co)"
+1640,D6,ICN,Inter-Canadian
+1641,D6,IES,Inter-Island Air Services Ltd.
+1642,D6,UGL,"Inter-Island Air, Inc. (Kahului, Hi)"
+1643,D6,IMA,"Inter-Mountain Airways (Boulder, Co)"
+1644,D6,NTE,"Interaire, S.A. De C.V."
+1645,D6,IIA,Interamericana De Aviacion Ltda.
+1646,D6,INE,"Interamericana, S.A. De C.V."
+1647,D6,ITB,Interbrasil Star S/A
+1648,D6,VKA,Intercom Ltd
+1649,NULL,VVV,Intercontinental Airlines (Nigeria) Ltd.
+1650,RS,ICT,Intercontinental De Aviacion Ltda.
+1651,NULL,ITE,"Interestatal De Aviacion, S.A. De C.V."
+1652,NULL,IFT,Interflight
+1653,NULL,IJT,Interflight (Learjet) Ltd
+1654,NULL,DEX,"Interflight, Inc. (Hagerstown, Md)"
+1655,NULL,IFF,Interfreight Forwarding Ltd.
+1656,NULL,INJ,Interjet
+1657,NULL,ITG,Interlace Airlines Limited
+1658,NULL,IAL,International Aeradio Plc.
+1659,NULL,IAK,International Air Cargo Corporation (Iacc)
+1660,NULL,ITC,International Air Carrier Association (Iaca)
+1661,NULL,EXX,"International Air Corp. (San Diego, Ca)"
+1662,NULL,IAS,"International Air Service Co (Napa, Ca)"
+1663,NULL,VGO,International Air Tours Limited
+1664,NULL,ATY,International Airports Authority Of India
+1665,U5,IBZ,International Business Air
+1666,NULL,IBY,"International Business Aircraft, Inc. (Tulsa, Ok)"
+1667,NULL,ICX,"International Charter Xpress Ltd Co. (Ypsilanti, Mi)"
+1668,NULL,IFX,"International Flight Training Academy  (Bakersfield, Ca)"
+1669,F4,IFS,International Flying Services Srl
+1670,ITP,ITP,ITP AVIA
+1671,NULL,IPT,"Interport Corporation (Portland, Me)"
+1672,NULL,IAE,Interstate Airlines Limited
+1673,NULL,ITV,"Intervuelo, S.A."
+1674,NULL,INV,Inversia
+1675,NULL,JPR,"Inversiones Ayacucho S.A. ""Jet Privado"""
+1676,NULL,IOA,"Iowa Airways (Alcoa, Tn)"
+1677,NULL,IPA,Ipec Aviation Pty. Ltd.
+1678,IR,IRC,Iran Asseman Airline
+1679,IR,IRA,Iran National Airlines Corp. (Iran Air)
+1680,NULL,IRB,Iranair Tours Co.
+1681,IA,IAW,Iraqi Airways
+1682,NULL,IRL,Irish Air Corps
+1683,NULL,RDK,Irish Air Tours
+1684,F7,IDF,Iron Dragon-Fly Ltd
+1685,NULL,XIA,Irving Oil Ltd (Gander Fbo)
+1686,AK,ISC,"Island Air Charters, Inc. (Ft. Lauderdale, Fl)"
+1687,AK,XYZ,"Island Air Express (Friday Harbor, Wa)"
+1688,4M,IML,Island Air Limited
+1689,IS,ISA,"Island Airlines, Inc. (Nantucket, Ma)"
+1690,CN,IOM,Island Aviation And Travel Ltd
+1691,2S,SDY,"Island Express (Ft. Lauderdale, Fl)"
+1692,NULL,MTP,"Island Helicopters, Inc. (Long Island, Ny)"
+1693,NULL,IGS,"Isle Grande Flying School (Hato Rey, Pr)"
+1694,NULL,ILA,Islena De Aviacion
+1695,NULL,ISV,"Islena De Inversiones, S.A."
+1696,FW,IOS,Isles Of Scilly Skybus Ltd
+1697,NULL,IAI,Israel Aircraft Industries Ltd.
+1698,NULL,IAF,Israeli Air-Force
+1699,IL,IST,Istanbul Airlines
+1700,5W,ITM,Itaperirim Transportes Aereos S.A.
+1701,NULL,IVN,Ivan-Air
+1702,NULL,IZA,Izhavia
+1703,NULL,JAY,J & J Air Charters Ltd
+1704,NULL,JDV,J. D. Valenciana De Aviacion
+1705,NULL,JCB,J.C. Bamford (Excavators) Ltd.
+1706,NULL,RFX,"J.P. Hunt, Inc., Air Carriers (Gentry, Ar)"
+1707,NULL,JCK,Jackson Air Services Ltd.
+1708,JO,JAW,Jamahiriya Airways
+1709,LN,LAA,Jamahiriya Libyan Arab Airlines
+1710,NULL,JAK,Jana-Arka
+1711,NULL,JAX,"Janair, Inc. (Dallas, Tx)"
+1712,NULL,JAZ,"Japan Air Charter Co., Ltd."
+1713,3X,JAC,"Japan Air Commuter Co., Ltd."
+1714,JD,JAS,Japan Air System Co. Ltd.
+1715,NULL,JAP,Japan Photo
+1716,NU,JTA,Japan Transocean Air Co. Ltd.
+1717,NULL,JST,"Japan Universal System Transport Co., Ltd."
+1718,NULL,MDJ,Jaro International S.A.
+1719,NULL,JEN,Jenair Limited
+1720,NULL,JNY,"Jenney Beechcraft, Inc. (East Bedford, Ma)"
+1721,NULL,XLD,"Jepenssen Data Plan, Inc. (San Francisco, Ca)"
+1722,JY,JEA,Jersey European Airways
+1723,NULL,JES,Jes Air
+1724,NULL,INC,"Jet Air Internacional Charters, C.A."
+1725,NULL,PJS,"Jet Aviation, Business Jets Ag"
+1726,NULL,JAB,Jet Business Airlines
+1727,NULL,JCL,Jet Cargo-Liberia
+1728,NULL,JCF,"Jet Center Flight Training, S.A."
+1729,NULL,DWW,"Jet Courier Service, Inc. (Cincinnati, Oh)"
+1730,NULL,JED,"Jet East International (Dallas, Tx)"
+1731,NULL,JEX,"Jet Express, Inc. (Atlantic City, Nj)"
+1732,J3,CFT,"Jet Freighters, Inc. (Portland, Me)"
+1733,NULL,JHL,Jet Heritage Ltd
+1734,NULL,JNR,"Jet Norte, S.A. De C.V."
+1735,NULL,JRN,"Jet Rent, S.A."
+1736,NULL,VIS,"Jet Servisx, S.A. De C.V."
+1737,NULL,JTR,Jet-Air Bedarfsflugunternehmen
+1738,NULL,JAG,Jetag Ag
+1739,NULL,FOX,Jetair Aps
+1740,8J,JTL,Jetall Holdings Corp
+1741,NULL,JCS,Jetclub Limited
+1742,NULL,JCA,Jetcom Sa
+1743,NULL,JCP,Jetcopter
+1744,NULL,JEF,Jetflite Oy
+1745,NULL,JTC,"Jets Corporativos, S.A. De C.V."
+1746,NULL,JEJ,"Jets Ejecutivos, S.A."
+1747,NULL,JSE,"Jets Y Servicios Ejecutivos, S.A. De C.V."
+1748,NULL,JSH,Jetstream Air Ltd
+1749,NULL,PWK,Jetstream Aircraft Ltd
+1750,NULL,JIA,"Jetstream International Airlines (Erie, Pa)"
+1751,NULL,JTN,"Jettrain Corporation (Aliquippa, Pa)"
+1752,NULL,JWA,Jetworld Airways Ltd.
+1753,NULL,JIB,Jibair
+1754,NULL,HKN,"Jim Hankins Air Service, Inc. (Jackson, Ms)"
+1755,NULL,RAS,"Jim Ratliff Air Service,Inc. D/B/A Ras (Columbus, Ms)"
+1756,NULL,JBR,"Job Air, Ltd"
+1757,NULL,JNA,John Nurminen O/Y
+1758,NULL,JHN,"Johnson Air, Inc. (Batavia, Ny)"
+1759,NULL,JON,Johnsons Air Limited
+1760,NULL,JMJ,"Johnston Airways (Chicago, Il)"
+1761,NULL,JNT,Jonathan
+1762,NULL,WON,Juan Air (1979) Ltd.
+1763,NULL,JFS,Juanda Flying School
+1764,NULL,DKE,Jubilee Airways Ltd
+1765,NULL,JAT,Jugoslovenski Aerotransport (Jat)
+1766,NULL,AOC,Jv Avcom
+1767,KZ,KDC,K D Air Corporation
+1768,NULL,KCE,"K.C. Piper Sales, Inc. (Olathe, Ks)"
+1769,NULL,KLH,K.L.M. Helicopter N.V.
+1770,KL,KLM,K.L.M. Royal Dutch Airlines
+1771,NULL,KDS,"K2 Del Aire, S.A. De C.V."
+1772,NULL,QNK,Kabo Air Travels
+1773,NULL,KAF,Kafue International Air Services Limited
+1774,NULL,KFS,"Kalitta Flying Service, Inc. (Morristown, Tn)"
+1775,NULL,KLX,Kalix Air
+1776,NULL,KIZ,Kanaf-Arkia Airlines Ltd.
+1777,NULL,KHE,Kanfey-Ha'Emek Aviation
+1778,NULL,KTI,Kano Transport International Ltd - Kati Air
+1779,KR,KAR,Kar-Air O/Y
+1780,NULL,KRB,Karibu Air
+1781,2L,KLG,Karlog Air A/S
+1782,NULL,XKA,"Kavouras, Inc. (Minneapolis, Mn)"
+1783,NULL,KAZ,"Kazan Airenterprise ""Tatarstan Airlines"""
+1784,NULL,KPH,Kazan Plant Of Helicopters
+1785,NULL,KEL,"Kba Kieler Business Air, Kiel"
+1786,NULL,JFK,Keenair Charter Ltd
+1787,NULL,KFA,Kelowna Flightcraft Air Charter Ltd.
+1788,NULL,KDA,Kendell Airlines
+1789,4K,KBA,Kenn Borek Air Ltd.
+1790,NULL,KAH,Kent Aviation Limited
+1791,NULL,KNS,Kenuz Airlines Limited
+1792,KQ,KQA,Kenya Airways Ltd.
+1793,NULL,KFL,Kenya Flamingo Airways Limited
+1794,NULL,KEY,"Key Airlines (Salt Lake City, Ut)"
+1795,NULL,KLV,Key-Avia
+1796,BZ,KEE,Keystone Air Services Ltd.
+1797,NULL,KHR,Khazar
+1798,YK,KYV,Kibris Turk Hava Yollari Ltd.
+1799,NULL,AXA,Kiev Aar Airlines
+1800,NULL,UAK,Kiev Aviation Plant
+1801,NULL,KNG,King Aviation
+1802,NULL,GPA,"Kingman Aviation, Inc. D/B/A Golden  Pacific Airlines (Kingman, Az)"
+1803,NULL,KAS,Kingston Air Services
+1804,NULL,KTA,Kirov State Avia Enterprise
+1805,NULL,KSE,Kisbee Air Ltd
+1806,Y9,IRK,Kish Air
+1807,2K,KHC,"Kitty Hawk Airways (Dallas-Ft. Worth, Tx)"
+1808,KP,KIA,"Kiwi International Air Lines, Inc. (Newark, Nj)"
+1809,NULL,KIC,Kiwi Travel Air Charters
+1810,HN,KLC,Klm Cityhopper Bv
+1811,NULL,KNA,Knight Air Ltd.
+1812,NE,KNT,Knightair
+1813,NULL,KNX,Knighthawk Air Express Ltd.
+1814,NULL,KHX,"Knighthawk Express (Revere, Ma)"
+1815,7K,KGL,Joint Stock Company Kogalymavia Airline
+1816,NULL,KKL,Kol-Kol Airlines Ltd
+1817,NULL,KLI,Kolyma-Avia
+1818,NULL,KMA,Komiavia Air Enterprise
+1819,KE,KAL,"Korean Air Lines Co., Ltd."
+1820,6K,KRS,Korsar
+1821,K6,KSM,Kosmos Airlines
+1822,NULL,KOS,Kosovaair
+1823,NULL,KTS,Kotlas Joint Civil Aviation Enterprise
+1824,NULL,WOK,Kovar Air
+1825,NULL,KIO,Kraiaero
+1826,7B,KJC,Krasnojarsky Airlines
+1827,K9,KRI,Krylo Airlines Ltd.
+1828,NULL,KRL,Kryla
+1829,NULL,NDI,"Ks Nordic Air, Denmark"
+1830,GW,KIL,Kuban Airlines
+1831,NULL,KUD,Kudu Air Services Limited
+1832,NULL,KUS,Kursk State Air Enterprise
+1833,NULL,KBV,Kustbevakningen
+1834,KU,KAC,Kuwait Airways Corporation
+1835,NULL,LAH,"L A Helicopter, Inc. (Los Angeles, Ca)"
+1836,NULL,LEX,"L'Express, Inc. (Kenner, La)"
+1837,JF,LAB,"L.A.B. Flying Service (Haines, Ak)"
+1838,NULL,LTE,L.T.E. International Airways S.A.
+1839,NULL,ASK,La Ronge Aviation Services Ltd
+1840,WJ,LAL,Labrador Airways Ltd.
+1841,UC,LDC,"Ladeco Cargo, S.A."
+1842,NULL,HCA,"Lake Havasu Air Service (Lake Havasu City, Az)"
+1843,NULL,LKL,"Lakeland Aviation (Rice Lake, Wi)"
+1844,7Z,LBH,"Laker Airways (Bahamas) Ltd. (Fort Lauderdale, Fl)"
+1845,TM,LAM,Lam - Linhas Aereas De Mocambique
+1846,LR,TCR,Laneas Aereas Trans Costa Rica S.A.
+1847,NULL,PAP,Langtry Flying Group Ltd
+1848,NULL,LLC,Small Planet Airlines
+1849,QV,LAO,Lao Aviation
+1850,NULL,RLA,Lar - Liniile Aeriene Romane
+1851,NULL,PDF,"Lar Transregional, Linhas Aereas Regionais, S.A."
+1852,NULL,LRD,"Laredo Air (Laredo, Tx)"
+1853,NULL,OTN,Lastp-Linhas Aereas De S. Tome E Principe  (Sao Tome And Principe Airlines)
+1854,NULL,LTC,Latcharter
+1855,NULL,LTP,Latpass
+1856,NULL,LAF,Latvian Air Force
+1857,PV,LTL,Latvian Airlines
+1858,NG,LDA,Lauda Air
+1859,NULL,LDI,Lauda Air Italy
+1860,NULL,LEP,"Laughlin Express (Long Beach, Ca)"
+1861,NULL,LAR,"Lawrence Aviation, Inc. (Lawrence, Ks)"
+1862,NULL,POA,Le Point Air
+1863,NULL,LEA,Lead Air Jet Service
+1864,NULL,LPL,"Lease-A-Plane International (Northbrook, Il)"
+1865,NULL,LAQ,Lebanese Air Transport
+1866,NULL,LAD,"Lebanon Airport Development Corp. (West Lebanon, Nh)"
+1867,NULL,LEB,Lebap
+1868,NULL,LCA,"Leconte Airlines (Wrangell, Ak)"
+1869,NULL,LEH,Leeds Central Helicopters
+1870,NULL,LIA,Leeward Islands Air Transport (1974) Ltd.
+1871,NULL,LWD,"Leisure Air (Winston-Salem, Nc)"
+1872,NULL,ULE,Leisure International Airways Ltd
+1873,NULL,LMR,Lemanair S.A.
+1874,NULL,LAK,Lennox Airways
+1875,NULL,LSB,Lensibavia
+1876,NULL,LEN,"Lentini Aviation, Inc. (Pontiac, Mi)"
+1877,NULL,LTX,"Leo Taxi Aereo, S.A. De C.V."
+1878,NULL,LEO,Leopair S.A.
+1879,QL,LAI,Lesotho Airways Corporation
+1880,NULL,LEK,Let J.S.C.
+1881,HE,LGW,"Lgw-Luftfahrtgesellschaft Walter Mbh, Dortmund"
+1882,NULL,LWA,Liberian World Airlines Inc.
+1883,NULL,LCR,Libyan Arab Company For Air Cargo
+1884,GC,GCB,Lignes Nationales Aeriennes - Linacongo
+1885,RT,LUX,"Lincoln Airlines, Inc. (Windsor Locks, Ct)"
+1886,NULL,GDQ,"Lincoln, Ne Air National Guard (Lincoln, Ne)"
+1887,NULL,SWS,"Lindquist Investment Co., Ltd. D/B/A Sunwest  Aviation (Ogden, Ut)"
+1888,NULL,LSY,"Lindsay Aviation, Inc. (Cheektowaga, Ny)"
+1889,NULL,LER,"Linea Aerea De Servicio Ejecutivo Regional, C.A."
+1890,NULL,LCO,Linea Aerea Del Cobre Ltda. (Ladeco)
+1891,NULL,LSA,Linea Aerea Nacional (Lansa)
+1892,LA,LAN,Linea Aerea Nacional De Chile (Lan)
+1893,NULL,TXP,Linea Aerea Taxpa Ltda.
+1894,NULL,LAV,Linea Aeropostal Venezolana (Lav)
+1895,NULL,FED,Linea Federal Argentina S.E.M.
+1896,NULL,GRO,"Lineas Aereas Allegro, S.A. De C.V."
+1897,NULL,LCN,"Lineas Aereas Canarias, Sa"
+1898,NULL,LAE,Lineas Aereas Colombianas Ltda.
+1899,NULL,LCM,"Lineas Aereas Comerciales, S.A. De C.V."
+1900,NULL,LRC,"Lineas Aereas Costarricenses, S.A. (Lacsa)"
+1901,NULL,IXT,"Lineas Aereas De Ixtlan, S.A. De C.V."
+1902,LC,LIC,Lineas Aereas Del Caribe
+1903,NULL,UMA,"Lineas Aereas Del Humaya, S.A. De C.V."
+1904,NULL,EDR,Lineas Aereas Eldorado Ltda.
+1905,NULL,IBA,Lineas Aereas Iberoamericanas
+1906,NULL,LUR,"Lineas Aereas Latur, S.A. De C.V."
+1907,PZ,LAP,Lineas Aereas Paraguayas
+1908,NULL,APT,Lineas Aereas Petroleras S.A.
+1909,MJ,LPR,Lineas Aereas Privadas Argentinas
+1910,NULL,LAU,Lineas Aereas Suramericanas Ltda.
+1911,XU,LAW,Link Airways Of Australia
+1912,NULL,LOP,Linton-On-Ouse Ftu
+1913,NULL,LIR,Lionair S.A.
+1914,NULL,LEU,Lions-Air Ag
+1915,NULL,LNZ,Litag Kg
+1916,TE,LIL,Lithuanian Airlines
+1917,NULL,LRA,Little Red Air Service
+1918,LB,LLB,"Lloyd Aereo Boliviano, S.A."
+1919,NULL,LOC,Locavia 49
+1920,NULL,XLG,"Lockheed Air Terminal, Inc. (Tamuning, Gu)"
+1921,NULL,LAC,"Lockheed Aircraft Corp. (Burbank, Ca)"
+1922,NULL,XDD,Lockheed Duats
+1923,NULL,LOE,"Loeser, Luftfahrtgesellschaft Mbh, Egelsbach"
+1924,NULL,LOG,Loganair Ltd.
+1925,NULL,LMS,Lomas Helicopters Ltd
+1926,NULL,LNX,London Executive Aviation Ltd
+1927,NULL,LOV,London Flight Centre (Stansted) Ltd.
+1928,NULL,LNF,London Flights (Biggin Hill) Ltd
+1929,AD,LSS,"Lone Star Airlines (Ft. Worth, Tx)"
+1930,NULL,LOS,Lossiemouth Ftu
+1931,LO,LOT,LOT-Polish Airlines
+1932,NULL,LTZ,Lotos Air Ltd
+1933,LT,LTS,"Ltu Lufttransport Unternehmen Sud Gmbh Co, Munchen"
+1934,LT,LTU,"Ltu Lufttransportunternehmen Gmbh & Co Kg, Dusseldorf"
+1935,NULL,JFC,"Ltv Jet Fleet Corp. (Dallas, Tx)"
+1936,NULL,LFS,Luftfahrzeug Service - Aircraft Service
+1937,FX,GEC,"Lufthansa Cargo Ag,"
+1938,NULL,CLH,Lufthansa Cityline
+1939,NULL,LUP,Lupenga Air Charters
+1940,NULL,LUS,"Lusitanair - Transportes Aereos Comerciais, S.A."
+1941,LG,LGL,Luxair - Societe Luxembourgeoise  De Navigation Aerienne S.A.
+1942,5V,UKW,Lviv Airlines
+1943,NULL,LCH,"Lynch Flying Service, Inc. (Billings, Mt)"
+1944,NULL,LYE,Lyneham Ftu
+1945,NULL,LYN,Lynton Aviation
+1946,NULL,LYA,Lyon Air
+1947,NULL,MNC,M.I.T. Airlines Ltd.
+1948,NULL,BNA,M/S Baronair Limited
+1949,9W,JAI,Jet Airways (India) Limited
+1950,NULL,MAQ,"Mac Aviation, S.L."
+1951,NULL,MCN,"Mac Dan Aviation Corporation (Fairfield, Nj)"
+1952,RP,RPM,Macair Ltd
+1953,NULL,MTD,Macknight Airlines
+1954,NULL,MND,Madina
+1955,DM,DAN,Maersk Air I/S
+1956,NULL,MSK,Maersk Air Ltd
+1957,NULL,MAE,Maersk Commuter I/S
+1958,H5,MVL,Magadan Airlines
+1959,NULL,MGG,Magadanaerogruz
+1960,NULL,MGC,Magec Aviation Limited
+1961,NULL,MNG,Magnitogorsk Air Enterprise
+1962,8M,MLH,"Mahalo Air, Inc. (Honolulu, Hi)"
+1963,W5,IRM,Mahan Air
+1964,NULL,MZS,Mahfooz Aviation
+1965,NULL,MNI,Maina Air Limited
+1966,NULL,MAT,"Maine Aviation Corporation (Portland, Me)"
+1967,2J,MAJ,"Majestic Airlines, Inc. (Salt Lake City, Ut)"
+1968,IN,MAK,Macedonian Airlines - Mat
+1969,NULL,LCL,Mala Services Ltd
+1970,MH,MAS,Malaysian Airlines System
+1971,MA,MAH,Malev - Hungarian Airlines
+1972,NULL,HBM,Mali-Tinbouctou Air Service (Malitas)
+1973,NULL,MLS,"Mall Airways, Inc. (Albany, Ny)"
+1974,TF,SCW,Malmo Aviation
+1975,NULL,MRG,Manag'Air
+1976,RI,MDL,Mandala Airlines Pt
+1977,NULL,MTO,Manitoulin Air Services Ltd.
+1978,NULL,MAN,"Mannion Air Charter, Inc. (Ypsilanti, Mi)"
+1979,NULL,MTS,"Mantrust Asahi Airways, Pt"
+1980,JE,MXE,Manx Airlines (Europe) Ltd
+1981,JK,MNX,Manx Airlines Ltd.
+1982,NULL,MAD,Maple Air Services Ltd.
+1983,NULL,MAR,March Helicopters Ltd.
+1984,NULL,MGT,Margate Air Services
+1985,NULL,FRL,Maria Elisa Gonzales Farelas
+1986,BF,MRK,"Markair Inc. (Anchorage, Ak)"
+1987,NULL,MCE,Marshall Of Cambridge (Engineering) Ltd.
+1988,NULL,XMA,"Martin Aviation Services (Miami, Fl)"
+1989,NULL,MBE,Martin-Baker Ltd.
+1990,MP,MPH,Martinair Holland N.V.
+1991,NULL,MRA,"Martinaire (Dallas, Tx)"
+1992,NULL,MVN,Marvin Ltd
+1993,NULL,TRP,"Maryland State Police (Pikesville, Md)"
+2326,NULL,PKT,Pektron Limited
+1994,NULL,MSE,Mas Havacilik Ve Merkezi Pazarlama Tic. A.S.
+1995,NULL,MTH,"Massachusetts Institute Of Technology (Lexington, Ma)"
+1996,NULL,MSY,Massey University School Of Aviation
+1997,NULL,MPL,"Master Planner, Inc."
+1998,NULL,MAO,Matair Ltd
+1999,NULL,OWL,"Maui Airlines, Inc. (Kabului Maui, Hi)"
+2000,NULL,MSF,Max Sea Food S.A. De C.V.
+2001,NULL,MAX,Max-Aviation
+2002,NULL,MXP,"May Air Xpress, Inc. (El Dorado, Ar)"
+2003,MW,MAY,Maya Airways Ltd.
+2004,NULL,MCI,"Maya Carga Internacional, S.A. De C.V."
+2005,NULL,MAL,Mcalpine Aviation Ltd.
+2006,NULL,MCH,Mcalpine Helicopters Ltd.
+2007,NULL,DAC,"Mcdonnell Douglas Corp. (Santa Monica, Ca)"
+2008,NULL,MEK,"Med-Trans Of Florida, Inc. (Tampa, Fl)"
+2009,NULL,MDK,Medic Air (West Africa) Ltd
+2010,NULL,MCL,Medical Aviation Services Ltd
+2011,NULL,MEM,Mediterranean Air Ambulance S.L.
+2012,NULL,MEJ,"Medjet International, Inc. (Birmingham, Al)"
+2013,NULL,MIK,"Meerblick, S.A."
+2014,NULL,JPN,Memrykord Ltd.
+2015,NULL,MXX,Merchant Express Aviation
+2016,NULL,MEC,"Mercury Aircourier Service (Salt Lake City, Ut)"
+2017,NULL,MRD,"Meridian Air Cargo, Inc. (Meridian, Ms)"
+2018,IG,ISS,Meridiana Fly S.p.A
+2019,NULL,FAE,"Merlin Express, Inc. (San Antonio, Tx)"
+2020,MZ,MNA,Merpati Nusantara Airlines P.T.
+2021,NULL,MXR,Merrix Air Ltd
+2022,YV,ASH,"Mesa Aviation Services, Inc. (Farmington, Nm)"
+2023,XJ,MES,"Mesaba Aviation (Grand Rapids, Mn)"
+2024,NULL,MAM,Meta Aviotransport-Macedonia
+2025,NULL,MET,Meteorological Research Flight
+2026,NULL,MER,"Methow Aviation, Inc. (East Wenatchee, Wa)"
+2027,NULL,MEX,"Metro Express Ii, Inc. (Irving, Tx)"
+2028,NULL,EME,"Metro Express, Inc. D/B/A Eastern Metro  Express (Atlanta, Ga)"
+2029,NULL,MMA,"Metro Manila Airways International, Inc."
+2030,NULL,MTR,"Metroflight Inc. (Houston, Tx)"
+2031,GJ,MXC,"Compania Mexicargo, S.A. De C.V."
+2032,NULL,MXT,"Mexico Transportes Aereos, S.A. De C.V."
+2033,NULL,MGM,"Mgm Grand Air, Inc. (El Segundo, Ca)"
+2034,NULL,MIV,Mi-Avia
+2035,NULL,HUR,"Miami Air Charter (Miami, Fl)"
+2036,NULL,BSK,"Miami Air International, Inc. (Miami, Fl)"
+2037,NULL,DRE,"Michigan Airways, Inc. D/B/A Drummond Island Air  (Drummond Island, Mi)"
+2038,NULL,MKV,Michkov Air Services
+2039,NULL,MID,Mid Airways
+2040,NULL,MPA,"Mid-Pacific Airlines, Inc. (Honolulu, Hi)"
+2041,NULL,MEP,"Mid-West Express (Appleton, Wi)"
+2042,NULL,MIO,"Midas Commuter Airlines, C.A."
+2043,NULL,MCA,"Midcontinent Airlines, Inc. (Omaha, Ne)"
+2044,ME,MEA,Middle East Airlines - Airliban
+2045,NULL,MIS,"Midstate Airlines, Inc. (Marshfield, Wi)"
+2046,NULL,MDW,"Midway Aviation, Inc. (Dallas, Tx)"
+2047,NULL,FLA,Midway Express
+2048,NULL,FAX,"Midwest Air Freighters (Kansas City, Ks)"
+2049,NULL,NIT,"Midwest Aviation Corp. (Davenport, Ia)"
+2050,NULL,MWT,"Midwest Aviation Division, Inc. (Marshall, Mn)"
+2051,NULL,HTE,"Midwest Helicopters De Mexico, S.A. De C.V."
+2052,NULL,ITL,Mikma Ltd
+2053,NULL,MMH,Mikromatika Air Cargo Ltd.
+2054,NULL,MAB,Millardair Limited
+2055,NULL,MFS,"Miller Flying Services, Inc. (Grand Island, Ne)"
+2056,OX,OXO,"Millon Air, Inc. (Miami, Fl)"
+2057,NULL,MIM,Mimino
+2058,NULL,NAB,Mina Airline Company
+2059,NULL,MVD,Mineralny Vody Department Of Civil Aviation
+2060,NULL,MAZ,Mines Air Services Zambia Limited
+2061,NULL,MNL,Miniliner Srl
+2062,NULL,MNS,Ministic Air
+2063,NULL,WDG,Ministry Of Agriculture Fisheries And Food
+2064,NULL,CSL,"Minson Aviation, Inc. D/B/A California Air  Shuttle (Oxnard, Ca)"
+2065,NULL,MIR,Miramichi Air Service Ltd.
+2066,NULL,MRV,Miravia Ltd
+2067,NULL,MOS,Misr Overseas Airways
+2068,NULL,MAF,Mission Aviation Fellowship (Maf)
+2069,NULL,MRN,Missions Gouvernementales Francaises
+2070,NULL,MVA,"Mississippi Valley Airways, Inc. (Lacrosse, Wi)"
+2071,NULL,MSA,Mistral Air Srl
+2072,NULL,MTA,"Mitchell Aero, Inc. D/B/A Gak/Mitchell  Aero, Inc. (Milwaukee, Wi)"
+2073,NULL,MKA,Mk Aircargo
+2074,NULL,MBO,Mobil Oil Ltd.
+2075,NULL,MFZ,Mofaz Air
+2076,NULL,MOW,"Mohawk Airlines (Oneonta, Ny)"
+2077,NULL,MKR,Mokarrar
+2078,2M,MDV,Moldavian Airlines
+2079,NULL,MCR,Monacair-Agusta
+2080,NULL,MNH,"Monarch Airlines (Grand Junction, Co)"
+2081,ZB,MON,Monarch Airlines Ltd.
+2082,NULL,MFC,Moncton Flying Club
+2083,OM,MGL,Mongolian Airlines
+2084,NULL,MKY,"Monky Aerotaxis, S.A."
+2085,NULL,ORA,"Montauk Caribbean Airways, Inc. D/B/A Long  Island Airlines"
+2086,NULL,MLU,Montlucon Air Service
+2087,L2,MNT,Montserrat Airways Ltd.
+2088,NULL,MGN,Morgan Aviation Services Ltd.
+2089,NULL,INL,Morgan Intertrades (Nig.) Limited
+2090,NULL,MSS,"Morris Air Service (Salt Lake City, Ut)"
+2091,NULL,MRO,"Morrison Flying Service, Inc. (Helena, Mt)"
+2092,NULL,MAV,Minoan Air
+2093,M8,MSC,Moscow Airways
+2094,M9,MSI,Motor Sich
+2095,NM,NZM,Mount Cook Airlines
+2096,NULL,MTN,"Mountain Air Cargo, Inc. (Denver, Nc)"
+2097,NULL,BRR,"Mountain Air Service, Inc (Big Bear City, Ca)"
+2098,NULL,MHA,"Mountain High Aviation (Walla Walla, Wa)"
+2099,NULL,MPC,Mountain Pacific Air Ltd
+2100,NULL,MTV,"Mountain Valley Air Service, Inc. (Vancouver, Wa)"
+2101,NULL,MTM,"Mtm Aviation Gmbh, Munchen"
+2102,NULL,CMJ,Mudanjiang General Aviation Co.
+2103,ZR,MUK,Muk Air Taxi
+2104,NULL,MUT,"Multiservicios Aeronauticos, S.A. De C.V."
+2105,NULL,MNK,Murmansk Airlines
+2106,NULL,MUA,"Murray Aviation, Inc. (Ypsilanti, Mi)"
+2107,Q4,MAW,Mustique Airways
+2108,UB,UBA,Myanma Airways
+2109,NULL,MYA,Myflug H.F.
+2110,NULL,DBK,N. B. Macdonald Services Ltd
+2111,NULL,LTW,N.V. Luchtvaartmaatschappij Twente
+2112,NULL,ANL,Nacoia Lda
+2113,NULL,NDM,Nadym Airlines
+2114,NULL,IRG,Naft Air Lines
+2115,NULL,NAH,Nahanni Air Services Ltd.
+2116,NULL,NLD,Namakwaland Lugdiens (Edms) Bpk.
+2117,SW,NMB,Air Namibia (Pty) Ltd
+2118,NULL,NCY,Nancy Aviation
+2119,3W,CNJ,Nanjing Airlines
+2120,NULL,ACK,"Nantucket Airlines (Nantucket, Ma)"
+2121,NULL,NAP,"Napier Air Service, Inc. (Dothan, Al)"
+2122,NULL,NSR,"National Air Charter, Pt."
+2123,N4,NCN,National Airlines (Chile) S.A.
+2124,NULL,NAN,"National Airlines, Inc."
+2125,NULL,NLR,"National Airlines, Joint-Stock Company"
+2126,NULL,YXA,National Airports Authority Of India
+2127,NULL,LFI,"National Airways Corporation (Helicopters) Ltd,  South Africa"
+2128,NULL,NTN,National Airways Corporation (Pty.) Ltd.
+2129,NULL,GTY,National Aviation Company
+2130,NULL,TNC,National Aviation Consultants Ltd.
+2131,NULL,GRD,National Grid Co
+2132,NULL,AND,"National Jet Service, Inc. (Indianapolis, In)"
+2133,NULL,MAP,"National Oceanic & Atmospheric  Administration (Rockville, Md)"
+2134,NULL,NAA,National Oceanic And Atmospheric Administration
+2135,NULL,NOL,National Overseas Airlines Company
+2136,N5,NAE,"Nations Air Express, Inc. D/B/A Miami Air Charter  (Miami, Fl)"
+2137,NULL,NTW,Nationwide Air
+2138,NULL,NAV,Nav Flight Planning
+2139,NULL,NAY,"Navegacion Y Servicios Aereos Canarios, S.A."
+2140,NULL,XNS,Navtech System Support Inc.
+2141,NB,NBO,Nebo Aircompany Ltd.
+2142,NULL,NFT,Nefteyugansk Aviation Division
+2143,NULL,NLA,Neiltown Air Ltd.
+2144,NULL,CGE,Nelson Aviation College
+2145,D5,NEP,Nepc Airlines
+2146,NULL,NET,Network Aviation Services (Nig) Ltd
+2147,DF,NWC,New Acs Ltd.
+2148,EJ,NEZ,"New England Air Express, Inc. D/B/A New England  Air Express (North Kingstown, Ri)"
+2149,NULL,NEA,"New England Airlines, Inc. (Westerly, Ri)"
+2150,HD,NYH,"New York Helicopter Corp. (Garden City, Ny)"
+2151,NULL,ENZ,New Zealand Air Services Ltd
+2152,8L,NAW,Newair A.S.
+2153,NULL,HVA,"Newair, Inc. (New Haven, Ct)"
+2154,NULL,NLT,Newfoundland Labrador Air Transport Ltd.
+2155,NULL,CBL,"Nicholson Air Service, Inc. D/B/A Cumberland  Airways (Cumberland, Md)"
+2156,NULL,NGR,Nigerian Air Force
+2157,WT,HMZ,Nigerian International Air Services Limited (Hamzair)
+2158,NULL,EXT,Night Express
+2159,NULL,NIK,Niko Air Ltd
+2160,NULL,NSA,Nile Safaris Aviation
+2161,NULL,NVA,Nile Valley Aviation Company
+2162,NULL,NBS,Nimbus Aviation
+2163,KZ,NCA,"Nippon Cargo Airlines Co., Ltd."
+2164,NULL,NTP,Nistransair
+2165,NULL,NRA,Nitra Air
+2166,NULL,NGL,Nizhegorodsky Airlines
+2167,NULL,NAD,Nobelair
+2168,NULL,NOM,Noman
+2169,NULL,SSQ,Noosa Air Sunstate Airlines
+2170,NULL,NKA,Norcanair
+2171,NULL,NRD,Nord Air
+2172,NULL,NIA,"Nordavia Fluggesellschaft Mbh, Hamburg"
+2173,JH,NES,"Nordeste, Linhas Aereas Regionais, S.A."
+2174,NULL,NDS,Nordstress (Australia) Pty Ltd
+2175,NR,NOA,Norontair
+2176,NULL,DOC,Norsk Luftambulanse A/S
+2177,NULL,NIR,Norskair
+2178,NULL,ENJ,Nort Jet
+2179,NULL,NAI,North Adria Aviation
+2180,NULL,NTM,North American Airlines Ltd.
+2181,NA,NAO,"North American Airlines, Inc. (Jamaica, Ny)"
+2182,NULL,NAT,"North Atlantic Air, Inc. (Danvers, Ma)"
+2183,NULL,NBN,North British Airlines Ltd
+2184,NULL,NCB,North Caribou Flying Service Ltd.
+2185,NULL,NCC,North Coast Air Services Ltd.
+2186,N9,AOH,"North Coast Aviation, Inc. (Cleveland, Oh)"
+2187,NULL,NBA,North East Bolivian Airways (Neba)
+2188,NULL,NFA,North Flying A/S
+2189,VL,NRV,North Vancouver Airlines Ltd
+2190,NULL,NWW,North West Airlines
+2191,NULL,PTO,North West Geomatics Ltd.
+2192,HW,NWL,North Wright Air Ltd
+2193,NULL,NEN,North-East Airlines Ltd
+2194,NULL,MGD,North-East Cargo Airlines
+2195,NULL,NFL,"Northaire Freight Lines Ltd. (Davisburg, Mi)"
+2196,NULL,NSF,Northamptonshire School Of Flying Ltd
+2197,NULL,NCE,"Northcoast Executive Airlines (Miamisburg,Oh)"
+2198,NULL,NAS,Northeast Aviation Services Ltd.
+2199,NULL,NEE,"Northeast Express Regional Airlines D/B/A Northwest  Airlink (Manchester, Nh)"
+2200,NC,NAC,"Northern Air Cargo, Inc. (Anchorage, Ak)"
+2201,NULL,NTX,"Northern Air Service, Inc. (Grand Rapids, Mi)"
+2202,NULL,BYC,Northern Airlines Sanya Limited
+2203,NULL,NDA,"Northern Airways (Grand Forks, Nd)"
+2204,NULL,NLE,Northern Commuter Airlines
+2205,NULL,NEX,Northern Executive Aviation Ltd.
+2206,NULL,NIC,"Northern Illinois Commuter (Plainfield, Il)"
+2207,NULL,NTA,Northern Thunderbird Air Ltd.
+2208,NULL,KOE,"Northland Aviation, Inc. (Latham, Ny)"
+2209,NULL,NSS,"Northstar Aviation (Redding, Ca)"
+2210,NULL,NAL,Northway Aviation Ltd
+2211,NULL,NWD,Northwest Air Services Limited
+2212,NW,NWA,Northwest Orient Airlines Inc.
+2213,NV,NWT,Nwt Air
+2214,3E,PLR,Northwestern Air Lease Ltd.
+2215,NULL,NWN,Northwinds Northern Ltd
+2216,NULL,NWO,Northwood Headquarters (Raf)
+2217,NULL,NAM,Nortland Air Manitoba
+2218,DY,NAX,Norwegian Air Shuttle A.S
+2219,NULL,TFN,Norwegian Aviation College A/S (Nac)
+2220,NULL,XNT,"Notams International, Inc. (Peachtree City, Ga)"
+2221,BJ,LBT,Nouvel Air Tunisie
+2222,NULL,PTR,Nova Scotia Department Of Lands And Forests
+2223,NULL,NOP,"Novair - Aviacao Geral, S.A."
+2224,NULL,NVG,Novgorod Air Enterprise
+2225,NULL,NUN,Nunasi-Central Airlines Ltd.
+2226,NULL,NYG,Nyge Aero Trafikflyg Ab
+2227,NULL,WAR,Nz Warbirds Association Inc.
+2228,NULL,OHA,O. H. Aviation
+2229,NULL,OCC,Occidental Airlines
+2230,NULL,OCT,Occidental Airlines (Liberia) Inc.
+2231,NULL,OCN,"Oceanair - Transportes Aereos Regionals, S.A."
+2232,5K,ODS,Odessa Airlines INT
+2233,NULL,ODM,Odiham Ftu
+2234,ODY,ODY,Odyssey International
+2235,NULL,FOC,Office Federal De L'Aviation Civile
+2236,NULL,GBO,Ogooue Air Cargo
+2237,NULL,OKJ,Okada Airlines Limited
+2238,NULL,EFT,"Oklahoma Executive Jet Charter, Inc. D/B/A Embassy  Freight Company (Oklahoma City, Ok)"
+2239,NULL,OLX,Olimex
+2240,OA,OAL,Olympic Airways S.A.
+2241,NULL,OLY,Olympic Aviation S.A.
+2242,WY,OMA,Oman Air
+2243,WY,OAS,Oman Aviation Services Company Limited
+2244,WY,ORF,Oman Royal Flight
+2245,NULL,OME,"Omega Air, S. De R.L."
+2246,NULL,OAV,"Omni - Aviacao E Tecnologia, Lda"
+2247,NULL,OAE,"Omni Air Express, Inc. (Tulsa, Ok)"
+2248,NULL,OMF,"Omniflys, S.A. De C.V."
+2249,NULL,OMS,"Omskavia Airline, Public Joint-Stock Society"
+2250,NULL,ORL,On Air Limited
+2251,NULL,MED,Ontario Ministry Of Health
+2252,8Q,OHY,Onur Air
+2253,NULL,OPA,Opal Air Pty Ltd
+2254,OSY,OSY,Open Sky Services
+2255,NULL,OAX,Operational Aviation Services - Australia
+2256,NQ,DVU,Orbi
+2257,NULL,OTA,"Organizacion De Transportes Aereos, S.A. De C.V."
+2258,NULL,ORN,Orient Airways
+2259,NULL,OEA,Orient Express Air Co. Ltd.
+2260,NULL,ORT,Orient-Avia
+2261,NULL,ORG,Oriental Airlines (Gambia) Limited
+2262,NULL,OAC,Oriental Airlines Limited
+2263,NULL,OJA,Oriental Pearl Airways Ltd.
+2264,R6,OAU,Oriol Avia
+2265,NULL,TAG,"Orion Air, Inc. (Chapel Hill, Nc)"
+2266,NULL,MTT,Orion Spa
+2267,NULL,ORW,Orwex
+2268,NULL,ORX,Oryx Aviation
+2269,OL,OLT,OLT Express Germany
+2270,NULL,OCL,Over-Night Cargo Limited
+2271,NULL,ONA,Overseas National Airways
+2272,NULL,OWN,Owens Group Ltd
+2273,NULL,OAB,Owners Abroad Aviation Ltd
+2274,NULL,OXE,Oxaero
+2275,NULL,OAA,Oxley Aviation
+2276,NULL,PDQ,"P.D.Q. Air Charter, Inc. (Pontiac, Mi)"
+2277,NULL,PAZ,"P.M. Air, Inc (Phoenix, Ar)"
+2278,NULL,PAB,Pacific Air Boats Ltd.
+2279,NULL,PRC,"Pacific Air Charter, Inc. (San Diego, Ca)"
+2280,NULL,PCF,Pacific Air Express
+2281,BL,PIC,Pacific Airlines Holding Co.
+2282,AK,PAK,"Pacific Alaska Airlines (Fairbanks, Ak)"
+2283,8P,PCO,Pacific Coastal Airline
+2284,NULL,PEC,"Pacific East Asia Cargo Airlines, Inc."
+2285,NULL,PXH,Pacific Express Holdings Ltd
+2286,NULL,PFA,Pacific Flight Services Pte Ltd
+2287,P4,PFC,Pacific International Airlines
+2288,9J,PSA,"Pacific Island Aviation, Inc. (Saipan, Mp)"
+2289,NULL,PAE,"Paisajes Espanoles, S.A."
+2290,NULL,PKW,"Pak West Airlines, Inc. (Stockton, Ca)"
+2291,PK,PIA,Pakistan International Airlines Corporation (Pia)
+2292,NULL,LPA,"Pal Aerolineas, S.A. De C.V."
+2293,3D,PMK,Palair Macedonian
+2294,NULL,PAX,"Pan Air, Inc. (Houston, Tx)"
+2295,NULL,XPA,"Pan Am Weather Systems (Minneapolis, Mn)"
+2296,NULL,PEA,Pan Europeenne Air Service
+2297,NULL,PMA,Pan Malaysian Air Transport
+2298,NULL,PAF,Panaf Airways Limited
+2299,PV,PNR,Pan Air Lineas Aereas
+2300,NULL,PIT,Panair International Srl
+2301,NULL,PNV,"Panavia, S.A."
+2302,NULL,PAH,"Panorama Air Tour, Inc. (Honolulu, Hi)"
+2303,NULL,AFD,"Panorama Flight Service (White Plains, Ny)"
+2304,P8,PTN,Pantanal Linhas Aereas Sul-Matogrossenses S.A.
+2305,NULL,HMP,Papair Terminal S.A.
+2306,NULL,RPI,Paradise Air (Pvt) Ltd
+2307,NULL,PAI,"Paradise Airways, Inc. (Smyrna, Tn)"
+2308,BK,PDI,"Paradise Island Airlines, Inc. (Ft. Lauderdale, Fl)"
+2309,NULL,PGX,"Paragon Air Express, Inc."
+2310,NULL,APE,"Parcel Express (Denver, Co)"
+2311,NULL,FAP,Parsons Airways Northern Ltd.
+2312,NULL,PRR,Partner Airlines
+2313,NULL,PTB,Passaredo Transportes Aereos S.A.
+2314,NULL,PAA,"Patriot Airlines, Inc. (Reno, Nv)"
+2315,NULL,ETL,"Patterson Aviation Company (Sacramento, Ca)"
+2316,NULL,PHE,Pawan Hans Limited
+2317,2F,IRP,Payam (Iptas)
+2318,NULL,PCT,Peace Air Togo
+2319,NULL,PCA,Peaceair (Pvt) Ltd.
+2320,NULL,PCK,Peacock H.E. And Son (Thorney) Ltd.
+2321,NULL,PEK,Peak Aviation Plc
+2322,NULL,PBY,Pearl Air Services (U) Ltd.
+2323,NULL,HPA,Pearl Airways Compagne Haitienne
+2324,NULL,PCR,"Pearson Aviation Corporation D/B/A Pac Air(Nashua,Nh)"
+2325,PC,PGT,Pegasus Airlines
+2327,NULL,PEX,"Pelican Express (Hollywood, Fl)"
+2328,PD,PEM,Pem-Air Limited
+2329,NULL,PEN,"Peninsula Airways, Inc. (Anchorage, Ak)"
+2330,NULL,ALO,"Pennsylvania Commuter Airlines, Inc. (Middletown, Pa)"
+2331,UW,PAG,Perimeter Aviation Ltd.
+2332,NULL,PGP,Perm State Air Enterprise
+2333,NULL,PMX,Petroleos Mexicanos
+2334,NULL,PHC,Petroleum Helicopters De Colombia S.A.
+2335,NULL,PHM,"Petroleum Helicopters, Inc. (Lafayette, La)"
+2336,NULL,XAS,"Phh Aviation Systems, Inc."
+2337,PR,PAL,Philippine Air Lines Inc. (Pal)
+2338,NULL,EAL,Philippine Eagle Airlines
+2339,NULL,PHI,Philips Aviation Services
+2340,NULL,PHL,"Phillips Michigan City Flying Service, Inc.  (Michigan City, In)"
+2341,NULL,PHX,Phoenix 2000 Airtaxi Ltd
+2342,NULL,PHN,Phoenix Air Lines Ltd
+2343,NULL,PXB,Phoenix Air Ltd
+2344,NULL,PAM,Phoenix Air Service Gmbh. Munchen
+2345,NULL,WDY,"Phoenix Airline Services, Inc. (Memphis, Tn)"
+2346,2Q,PHO,Phoenix Airways (Pty) Ltd
+2347,NULL,XPX,Phoenix Flight Operations Ltd.
+2348,US,PDT,"Piedmont Airlines, Inc. D/B/A Henson Aviation - Usair  Florida Shuttle - Usair Express (Salisbury, Md)"
+2349,NULL,PBN,Pilatus Britten-Norman Ltd.
+2350,NULL,PIO,"Pioneer Airlines, Inc. (Denver, Co)"
+2351,NULL,PIZ,Pizaz European
+2352,NULL,PMS,"Planemaster Services, Inc. (West Chicago, Il)"
+2353,NULL,PDG,Plm Dollar Group Limited
+2354,NULL,POC,"Pocono Air Lines, Inc. (East Stroudsburg, Pa)"
+2355,NULL,PTS,Points Of Call Airlines Ltd.
+2356,NULL,PAC,"Polar Air Cargo, Inc. (Long Beach, Ca)"
+2357,NULL,JPC,Polar Air Company
+2358,NULL,POL,"Polar International Airlines (Fairbanks, Ak)"
+2359,NULL,POT,Polet
+2360,NULL,PLC,Police Aviation Services
+2361,NULL,PMR,Polise-Air
+2362,NULL,PLF,Polish Air Force
+2363,NULL,PLN,Polnippon Ltd.
+2364,NULL,CUK,Polo Aviation Ltd
+2365,NULL,PLA,"Polynesian Air-Ways (Honolulu, Hi)"
+2366,PH,PAO,Polynesian Airline Operations Ltd.
+2367,NULL,PTQ,"Port Townsend Airways (Port Townsend, Wa)"
+2368,NI,PGA,Portugalia-Companhia Portuguesa De Transportes  Aereos Sa
+2369,NULL,AFP,Portuguese Air Force
+2370,NULL,PON,Portuguese Navy
+2371,NULL,PSN,"Potosina Del Aire, S.A. De C.V."
+2372,NULL,PWL,Powell Air Ltd.
+2373,NULL,PFS,Prairie Flying Service (1976) Ltd.
+2374,NULL,PWC,"Pratt And Whitney Canada, Inc."
+2375,NULL,PRF,Precision Air Services Ltd.
+2376,NULL,PRE,"Precision Airlines (North Springfield, Vt)"
+2377,NULL,EMS,Preferred Flights Inc.
+2378,DK,VKG,Premiair
+2379,NULL,EMI,Premium Air Shuttle Ltd
+2380,NULL,PRD,"Presidential Air (Long Beach, Ca)"
+2381,NULL,PRM,"Prime Air, Inc.(Octerville, Ma)"
+2382,NULL,VPR,Prime Airlines Of Sweden Ab
+2383,PU,PUA,Pluna Lineas Aereas Uruguayas S.A.
+2384,NULL,CME,Prince Edward Air Ltd
+2385,NULL,PCN,"Princeton Aviation Corporation (Princeton, Nj)"
+2386,NULL,BCK,"Priority Aviation Company, Inc (Kansas City, Mo)"
+2387,NULL,PJE,"Private Jet Expeditions, Inc. (Atlanta, Ga)"
+2388,NULL,PSZ,"Pro Air Service (Miami, Fl)"
+2389,NULL,PAD,"Professional Express Courier Service,Inc.(Seattle,Wa)"
+2390,NULL,PSL,Professionnel Air System
+2391,NULL,PRT,"Prompt Air, Inc. (Chicago, Il)"
+2392,NULL,PRO,"Propair, Inc"
+2393,NULL,PPA,"Propheter Construction Company, Inc. D/B/A  Propheter Aviation (Sterling, Il)"
+2394,YS,PRB,Proteus Air Systeme
+2395,NULL,RPA,Provence Aero Service
+2396,NULL,PTL,"Providence Airline (Coventry, Ri)"
+2397,NULL,PVL,Provincial Aviation
+2398,NULL,PSW,Pskov State Aviation Enterprise
+2399,5P,PTA,Ptarmigan Airways Ltd.
+2400,NULL,PNG,Puerto Rico Air National Guard
+2401,NULL,TXV,"Puerto Vallarta Taxi Aereo, S.A. De C.V."
+2402,NULL,PUL,Pul. Przedsiebiorstwo Uslug Lotniczych
+2403,NULL,PTV,Puntavia Air Services
+2404,NULL,UDA,Pusdiklat Perhubungan Udara/Plp
+2405,NULL,PYR,Pyramid Air Lines
+2406,NULL,PZL,Pzl - Panstwowe Zaklady Lotnicze
+2407,QF,QFA,Qantas Airways Limited
+2408,NULL,QAC,Qatar Air Cargo
+2409,Q7,QTR,Qatar Airways Company
+2410,NULL,QAF,Qatar Amiri Flight
+2411,NULL,RVN,"Qualiflight Training, Inc. D/B/A/  Raven Air (Fort Worth, Tx)"
+2412,NULL,QUA,"Quassar De Mexico, S.A. De C.V."
+2413,NULL,QAJ,Quick Air Jet Charter Gmbh
+2414,NULL,QAH,Quick Airways Holland B.V.
+2415,NULL,QAS,Quisqueya Airlines S.A.
+2416,NULL,QCC,"Qwest Commuter Corporation (Long Beach, Ca)"
+2417,QH,QWA,Qwestair
+2418,NULL,SDD,"R.I.C. Inc., D/B/A Skymaster Air Taxi (Laconia, Nh)"
+2419,NULL,DMD,R.S.T. Aviation N.V.
+2420,NULL,RBB,"Rabbit-Air Ag, Zurich"
+2421,NULL,RCL,Racal Avionics
+2422,NULL,ACE,Race Cargo Airlines
+2423,NULL,RCN,Race Cargo Airlines (Nig) Limited
+2424,NULL,GBR,"Rader Aviation, Inc. (White Sulfer Springs, Wv)"
+2425,NULL,ACW,Raf Air Cadet Schools
+2426,NULL,BSO,Raf Benson Ftu
+2427,NULL,SMG,Raf St Mawgan Search And Rescue
+2428,NULL,MTL,Raf-Avia
+2429,NULL,RRR,Raf-Hqstc (Air Transport)
+2430,NULL,RBO,Rainbow Cargo Express
+2431,NULL,RAJ,Raji Airlines
+2432,NULL,RFA,"Raleigh Flying Service, Inc. (Morrisville, Nc)"
+2433,NULL,REX,"Ram Air Freight, Inc. (Hillsborough, Nc)"
+2434,NULL,RMT,"Ram Aircraft Corpration (Waco, Tx)"
+2435,NULL,PPK,"Ramp 66 (North Myrtle Beach, Sc)"
+2436,NULL,RGM,Rangemile Ltd
+2437,NULL,RAP,Rapid'Air
+2438,NULL,RAT,"Ratioflug Luftfahrtunternehmen Gmbh, Frankfurt/M"
+2439,NULL,RVA,"Raven Air  (Anchorage, Ak)"
+2440,NULL,RVR,Raven Air Ltd.
+2441,NULL,RCJ,Raytheon Corporate Jets
+2442,NULL,RCB,Real Aero Club De Baleares
+2443,NULL,RLV,Real Aviation Limited
+2444,NULL,VDO,Red Air S.A.
+2445,NULL,SAK,Red Arrows Display Squadron
+2446,NULL,RBN,"Red Baron Aviation, Inc. (Tampa, Fl)"
+2447,NULL,DEV,Red Devils Parachute Display Team
+2448,NULL,VIC,"Redding Aero Enterprises (Redding, Ca)"
+2449,NULL,RHC,Redhill Aviation Ltd
+2450,NULL,RWG,"Redwing Airways, Inc. (Kirksville, Mo)"
+2451,NULL,RAV,Reed Aviation Limited
+2452,NULL,RVV,Reeve Aleutian Airways Inc.
+2453,NULL,RBH,Regal Bahamas International Airways Limited
+2454,NULL,RGY,"Regency Airlines Ltd. (Chicago, Il)"
+2455,NULL,RAH,Regent Air
+2456,NULL,RAG,"Regio Air Gmbh, Trollenhagen"
+2457,NULL,RGA,Region Air
+2458,NULL,RGR,Region Air Inc.
+2459,NULL,RAY,Regional Air Services
+2460,VM,RGI,Regional Airlines
+2461,NULL,RGN,Regional Lineas Aereas
+2462,NULL,GIO,Regionnair Inc
+2463,NULL,REG,Regourd Aviation
+2464,NULL,RLT,"Reliant Airlines, Inc. (Ypsilanti, Mi)"
+2465,NULL,RTS,Relief Transport Services Ltd.
+2466,NULL,RAN,Renan Ltd
+2467,QQ,ROA,"Reno Air, Inc. (Reno, Nv)"
+2468,NULL,RGS,"Renown Aviation, Inc. (Santa Maria, Ca)"
+2469,NULL,RNT,"Rentavion, C.A."
+2470,NULL,SAF,Republic Of Singapore Air Force
+2471,NULL,RST,"Resort Air (Baltimore, Md)"
+2472,NULL,RES,"Restauraciones Aeronauticas, S.A. De C.V."
+2473,NULL,TNZ,Rex Aviation (New Zealand) Ltd
+2474,RW,RLD,"Rheinland Air Service, Dusseldorf"
+2475,WE,RTL,Rheintalflug Seewald Gesellschaft Mbh
+2476,NULL,RDS,"Rhoades Aviation, Inc. (Columbus, In)"
+2477,NULL,RHN,Rhonavia
+2478,NULL,RIA,"Rich International Airways, Inc. (Miami, Fl)"
+2479,6R,RVC,"Richards Aviation, Inc. (Memphis, Tn)"
+2480,NULL,RIC,"Richardson'S Airway, Inc. (Yakima, Wa)"
+2481,NULL,RCA,"Richland Aviation (Sidney, Mt)"
+2482,NULL,HPR,Rick Lucus Helicopters Ltd
+2483,NULL,REM,Riecam S.A.
+2484,NULL,RLS,Riga Aeronatical Institute
+2485,NULL,RAK,Riga Airclub (Latvian Professional Air Sport Center)
+2486,GV,RIG,Riga Airlines
+2487,NULL,RAZ,Rijnmond Air Services B.V.
+2488,NULL,RIM,"Rimrock Airlines, Inc. (Spokane, Wa)"
+2489,NULL,SKA,Rio Air Express S/A
+2490,NULL,REO,"Rio Airways (Killeen, Tx)"
+2491,SL,RSL,"Rio-Sul, Servicos Aereos Regionais S.A."
+2492,NULL,RMC,Rmc Group Services Ltd
+2493,NULL,RMN,Rn Aviation Ltd
+2494,NULL,RDL,Roadair Lines
+2495,NULL,RBT,Robinton Aereo C. Por A.
+2496,NULL,ROC,Rocky Mountain Airlines
+2497,NULL,RMA,"Rocky Mountain Airways (Denver, Co)"
+2498,NULL,FAD,Rog-Air Ltd.
+2499,NULL,BTU,Rolls Royce Ltd. (Bristol Engine Division)
+2500,NULL,RRL,Rolls Royce Ltd. (Military Aviation)
+2501,NULL,RMR,Romaero Ltd
+2502,NULL,RMV,Romavia
+2503,NULL,RIR,"Ronnair Oy, Finland"
+2504,NULL,ROR,Roraima Airways
+2505,ZD,NRG,"Ross Aviation, Inc. (Albuquerque, Nm)"
+2506,NULL,RFS,Rossair Pty Ltd
+2507,NULL,RUZ,Rosuertol
+2508,NULL,RAL,"Roswell Airlines (Roswell, Nm)"
+2509,NULL,RAC,Rotorua Aero Club
+2510,NULL,RUT,Routair Aviation Services
+2511,NULL,ROV,Rover Airways International Inc.
+2512,RR,RFR,Royal Air Force
+2513,NULL,MJN,Royal Air Force Of Oman (Air Transport)
+2514,NULL,RAX,"Royal Air Freight, Inc. (Waterford, Mi)"
+2515,NULL,RAI,Royal Air Inter - Compagnie D'Exploitation De  Lignes Aeriennes Interieures
+2516,AT,RAM,Royal Air Maroc - Compagnie Nationale De  Transports Aeriens
+2517,NULL,RLM,"Royal American Airways (Tucson, Az)"
+2518,BI,RBA,Royal Brunei Airlines
+2519,RJ,RJA,Royal Jordanian
+2520,NULL,RJZ,Royal Jordanian Air Force
+2521,NULL,RMF,Royal Malaysian Air Force
+2522,NULL,NVY,Royal Navy
+2523,NULL,NAF,Royal Netherlands Air Force (Koninklijke  Luchtmacht)
+2524,NULL,NRN,Royal Netherlands Navy (Koninklijke Marine)
+2525,NULL,KIW,Royal New Zealand Air Force
+2526,NULL,NOW,Royal Norwegian Air Force
+2527,NULL,ROP,Royal Oman Police
+2528,NULL,DBO,Royal Phoenix Airlines
+2529,ZC,RSN,Royal Swazi National Airways Corporation
+2530,WR,HRH,Royal Tongan Airlines
+2531,NULL,RWE,"Royal West Airlines (Las Vegas, Nv)"
+2532,NULL,RQA,Royale Airlines International
+2533,NULL,RJK,Rufiji Airlines
+2534,NULL,KVM,Rusaerolizing Airline
+2535,NULL,RUC,"Rutas Aereas, C.A."
+2536,NULL,RWC,"Rwandair Cargo, Societe"
+2537,NULL,RCT,"Ryan Air Service, Inc. (Anchorage, Ak)"
+2538,NULL,RYA,"Ryan Air Services, Inc. (Unalaklee, Ak)"
+2539,NULL,RYN,"Ryan Aviation Corporation D/B/A Ryan  International Airlines (Wichita,Ks)"
+2540,FR,RYR,Ryanair
+2541,NULL,CYR,Ryanair Uk
+2542,NULL,RYZ,Ryazan State Air Enterprise
+2543,NULL,RAA,"Rynes Aviation, Inc. (Melrose Park, Il)"
+2544,NULL,ELE,S W Electricity Board
+2545,NULL,EXY,Sa Express Airways
+2546,NULL,SCT,Saab-Scania Ab
+2547,NULL,SVL,Saak
+2548,NULL,SLL,"Saarland Airlines Ag, Saarbrucken"
+2549,NULL,SAX,Sabah Air
+2658,NULL,SHE,Shell Aircraft Ltd.
+2550,NULL,SMC,Sabang Merauke Raya Air Charter Pt
+2551,SN,BEL,Brussels Airlines
+2552,NULL,SBR,"Saber Aviation Inc. (Charlotte, Nc)"
+2553,NULL,SFR,"Safair Freighters (Pty.), Ltd."
+2554,NULL,SFN,Safiran Airlines
+2555,NULL,SAO,Sahel Aviation Service
+2556,NULL,SRA,Sair Aviation (Faa)
+2557,HZ,SHU,"Sakhalinskie Aviatrassy, Sat"
+2558,NULL,SVT,Sakhaviatrans
+2559,NULL,SXN,"Sal Luftverkehrs Gmbh, Flughafen Leipzig-Halle"
+2560,NULL,SLP,Salpa Aviation Co. Ltd. (Sudan)
+2561,MM,SAM,"Sociedad Aeronautica De Medellin, Consolidada S.A."
+2562,E5,BRZ,Samara
+2563,NULL,HLO,Samaritan Air Service Ltd.
+2564,NULL,SHL,Samson Aviation Ltd
+2565,NULL,SND,San
+2566,NULL,SAV,Sanair
+2567,NULL,JIM,Sark International Airways
+2568,NULL,SLG,Saskatchewan Government Air Ambulance Service
+2569,NULL,SGS,Saskatchewan Government Executive Air Service
+2570,NULL,SXX,"Satellite Aero, Inc. (Jackson, Wy)"
+2571,9N,NSE,"Satena, Servicios De Aeronavegacion A Territorios Nac"
+2572,SV,SVA,Saudi Arabian Airlines
+2573,NULL,SVN,Savanair (Angola) Lda.
+2574,W7,SAH,Sayakhat
+2575,NULL,BBN,Scampton Bae
+2576,NULL,SAP,Scampton Ftu
+2577,SK,SAS,Scandinavian Airlines System
+2578,NULL,SCJ,Scanjet Sweden Ab
+2579,NULL,YRR,"Scenic Airlines (Las Vegas, Nv)"
+2580,AW,SCH,Schreiner Airways B.V.
+2581,ZM,SBZ,Scibe Airlift
+2582,NULL,ISP,Scientific Research Institute Of Civil Aviation
+2583,NULL,SKO,Scottish Airways Flyers Ltd
+2584,NULL,ASM,"Тов ""Айсмарт"""
+2585,NULL,SIL,Sea Island Air Ltd.
+2586,NULL,SCC,"Seacoast Airlines, Inc. (Clearwater, Fl)"
+2587,NULL,ESA,Seagreen Air Transport
+2588,NULL,SRG,Search And Rescue 202
+2589,NULL,SRD,Search And Rescue 22
+2590,NULL,XTR,Sector Airlines
+2591,NULL,SVX,"Security Aviation, Inc. (Anchorage, Ak)"
+2592,NULL,STG,"Sedalia, Marshall, Boonville Stage Line, Inc.  (Des Moines, Ia)"
+2593,NULL,SED,"Sedona Air Center (West Sedona, Az)"
+2594,NULL,GRE,Seea-Southeast European Airlines
+2595,NULL,SEO,Selcon Airlines Ltd
+2596,NULL,SRS,Selkirk Remote Sensing Ltd.
+2597,NULL,STE,Semitool Europe Ltd
+2598,SG,SMP,Sempati Air Transport P.T.
+2599,NULL,SSR,"Sempati Air, Pt."
+2600,NULL,SNA,"Senator Aviation Charter Gmbh, Koln"
+2601,NULL,SGL,Senegalair
+2602,NULL,SEL,"Sentel Corporation (Newport News, Va)"
+2603,NULL,SHI,Seoul Air International
+2604,NULL,ISW,Serib Wings
+2605,NULL,SWZ,"Servair, Private Charter Ag"
+2606,WQ,SHP,Service Aerien Francais
+2607,NULL,RNS,Services Aeronautiques Roannais
+2608,NULL,SHA,"Servicio Aereo De Honduras, S.A."
+2609,NULL,SEJ,"Servicio Aereo Ejecutivo S.A. ""Sae"""
+2610,NULL,SDH,"Servicio De Helicopteros, S.L."
+2611,NULL,MSP,Servicio De Vigilancia Aerea Del Ministerio  De Seguridad Publica
+2612,NULL,SEZ,Servicio Especializado De Carga Aerea (Sec)
+2613,NULL,LLA,Servicio Leo Lopez S.A. De C.V.
+2614,NULL,XMX,Servicios A La Navegacion En El Espacio Aereo  Mexicano (Seneam)
+2615,NULL,AZN,Servicios Aereos Amazonicos
+2616,NULL,AHI,"Servicios Aereos De Chihuahua Aerochisa, S.A. De C.V."
+2617,NULL,SAD,Servicios Aereos De La Capital
+2618,NULL,AGE,"Servicios Aereos De Los Angeles, S.A. De C.V."
+2619,NULL,SAR,Servicios Aereos De Pilotos Ejecutivos
+2620,NULL,GOL,"Servicios Aereos Del Golfo, S.A. De C.V."
+2621,NULL,NAZ,"Servicios Aereos Del Nazas, S.A. De C.V."
+2622,NULL,AOS,"Servicios Aereos Del Sol, S.A. De C.V."
+2623,NULL,SDV,Servicios Aereos Del Vaupes Ltda.
+2624,NULL,LGU,"Servicios Aereos Ejecutivos De La Laguna,S.A. De C.V."
+2625,NULL,SJA,"Servicios Aereos Especiales De Jalisco, S.A. De C.V."
+2626,NULL,KSP,Servicios Aereos Especializados En  Transportes Petroleros
+2627,NULL,GDE,"Servicios Aereos Gadel, S.A. De C.V."
+2628,NULL,MRI,"Servicios Aereos Moritani, S.A. De C.V."
+2629,WB,SAN,Servicios Aereos Nacionales (San)
+2630,NULL,SNE,"Servicios Aereos Norte Sur, S.A. De C.V."
+2631,NULL,POB,"Servicios Aereos Poblanos, S.A. De C.V."
+2632,NULL,SRO,Servicios Aereos Rutas Oriente S.A. De C.V.
+2633,NULL,SSE,"Servicios Aereos Sunset, S.A. De C.V."
+2634,NULL,TBS,"Servicios Aereos Tribasa, S.A. De C.V."
+2635,NULL,FTG,"Servicios Aereos Y Fotograficos, S.A. De C.V."
+2636,NULL,SMS,"Servicios Aerolineas Mexicanas, S.A. De C.V."
+2637,NULL,SVO,"Servicios Aeronauticos De Oriente, S.A. De C.V."
+2638,NULL,SZT,"Servicios Aeronauticos Z, S.A. De C.V."
+2639,NULL,SQL,"Servicios De Alquiler Aereo, S.A. De C.V."
+2640,NULL,SVI,"Servicios De Transporte Aereo, S.A. De C.V."
+2641,NULL,SAT,Servico Acoreano De Transportes Aereos - Ep (Sata)
+2642,NULL,CRZ,"Servicos Aereos Cruzeiro Do Sul, S.A."
+2643,NULL,TNS,Servicos Aereos Do Vale Amazonico S/A
+2644,NULL,STS,Servicos Auxiliares De Transportes Aereos (Sata)
+2645,NULL,SGH,Servisair Ltd.
+2646,NULL,SBF,"Seven Bar Flying Service, Inc. (Albuquerque, Nm)"
+2647,NULL,STF,Sft-Sudanese Flight
+2648,SS,SHB,Shabair
+2649,NL,SAI,Shaheen Air International
+2650,NULL,SHN,Shaheen Airport Services
+2651,SC,CDG,Shandong Airlines
+2652,SF,CSH,Shanghai Airlines
+2653,NULL,CXI,Shanxi Airlines
+2654,NULL,SHJ,Sharjah Ruler'S Flight
+2655,NULL,SHV,"Shavano Air, Inc. (Poncha Springs, Co)"
+2656,NULL,SYS,Shawbury Ftu
+2657,NULL,SYE,Sheba Aviation
+2659,NULL,SKR,Shonkar
+2660,NULL,SHR,"Shooter Air Courier, Corp"
+2661,NULL,SHG,Shoprite Group Ltd
+2662,7Q,SHK,Shorouk Air
+2663,NULL,SBL,Short Brothers Plc
+2664,NULL,CSY,Shuangyang General Aviation Co.
+2665,NULL,SFC,Shuswap Flight Centre Ltd.
+2666,NULL,SCR,"Si-Chang Flying Service Co., Ltd."
+2667,NULL,SIB,Sibaviatrans
+2668,S7,SBI,S7 Airlines
+2669,3U,CSC,Sichuan Airlines
+2670,NULL,SID,Sidfin Air Limited
+2671,NULL,SIE,"Sierra Express (Reno, Nv)"
+2672,NULL,SRX,"Sierra Expressway Airlines (Oakland, Ca)"
+2673,LJ,SLA,Sierra National Airlines
+2674,R,SPA,"Sierra Pacific Airlines (North Hollywood, Ca)"
+2675,MI,SLK,Silkair (Singapore) Pte Ltd
+2676,NULL,IJS,"Silvair, Inc. (Miami Springs, Fl)"
+2677,NULL,SLH,"Silverhawk Aviation, Inc. (Seward, Ne)"
+2678,NULL,SMB,Simba Air Cargo Ltd
+2679,NULL,NCS,Simpson Air Ltd.
+2680,NULL,SIM,Simulated Flight Training Limited
+2681,NULL,SIN,Sinair
+2682,SQ,SIA,Singapore Airlines Limited
+2683,NULL,SIT,Sita - Societe Internationale De Telecommunications  Aeronautiques
+2684,NULL,SCG,Sitra Cargo System
+2685,5U,SGY,"Skagway Air Service, Inc. (Skagway, Ak)"
+2686,5Q,LND,"Skargardsflyg Ab, Finland"
+2687,NULL,SOA,Skoda Air
+2688,NULL,SPN,Skorpion Air
+2689,NULL,NJA,Sky Air Cargo Services (Uk) Ltd
+2690,NULL,FLH,"Sky Bus, Inc. (Denver, Co)"
+2691,2E,SCB,Sky Cabs (Pvt.) Ltd.
+2692,NULL,SCE,Sky Care Ltd
+2693,NULL,SFI,"Sky Freighters, N.V."
+2694,NULL,SHC,"Sky Harbor Air Service Inc. (Cheyenne, Wy)"
+2695,NULL,SKD,"Sky Harbor Air Service, Inc. (Omaha, Ne)"
+2696,NULL,SLY,Sky Line For Air Services Ltd
+2697,NULL,LNR,Sky Liners Air Services Ltd.
+2698,NULL,SYF,"Sky One Express Airlines Inc. (Reistertown, Md)"
+2699,NULL,SKS,Sky Service
+2700,NULL,SKE,"Sky Tours, Inc. (Port Clinton, Oh)"
+2701,NULL,SKW,"Sky West Aviation, Inc. (St. George, Ut)"
+2702,NULL,SKL,Skycharter (Malton) Limited
+2703,NULL,SKG,Skycraft Air Transport Inc.
+2704,NULL,SKF,"Skycraft, Inc. (Seattle, Wa)"
+2705,NULL,SIF,Skycy Freighters International Ltd
+2706,NULL,SFT,"Skyfreight, Inc. (Seattle, Wa)"
+2707,NULL,SKB,"Skyfreighters Corp. (Grand Prairie, Tx)"
+2708,NULL,SKT,Skyjet
+2709,NULL,SKJ,Skyjet Inc.
+2710,NULL,SEG,Skyline
+2711,NULL,SKN,"Skyline Aviation Services, Inc. (Beaver Falls, Pa)"
+2712,NULL,SKK,Skylink Aviation Inc.
+2713,NULL,XXS,Skyplan Services Ltd.
+2714,5g,SSV,Skyservice Airlines Inc. ANDA
+2715,NULL,SSK,"Skystar International, Inc. (Washington, Nj)"
+2716,NULL,STD,Skytrak Aeronautical Systems Ltd
+2717,NULL,STJ,Skytrans S.A.
+2718,K9,SGK,Skyward Aviation Ltd
+2719,JZ,SKX,Skyways
+2720,NULL,SAE,Skyways Africa Limited
+2721,NULL,SCF,Skywings Ab
+2722,NULL,SRK,Skywork Sa
+2723,NULL,SPC,"Skyworld Airlines (Denver, Co)"
+2724,NULL,SYJ,Slate Falls Airways Ltd.
+2725,NULL,SLN,Sloane Aviation Ltd
+2726,NULL,SQF,Slovak Air Force
+2727,NULL,SXC,Slovak Aviation Company
+2728,NULL,SSG,Slovak Government Flying Service
+2729,NULL,SLV,Slovtrans Air Ltd
+2730,NULL,SMF,Smalandsflyg Ab
+2731,NULL,EKP,"Small Enterprise ""Ecopatrol"""
+2732,NULL,SML,Smith Air (1976) Ltd.
+2733,NULL,SMH,"Smithair, Inc. (Atlanta, Ga)"
+2734,NULL,SBQ,Smithkline Beacham Clinical Labs
+2735,NULL,SNM,Snam Spa
+2736,NULL,SNU,Snunit Aviation
+2737,NULL,SLR,Sobelair - Societe Belge De Transports Aeriens
+2738,NULL,SOC,Sochi Special Aviation
+2739,NULL,SDK,Sociedad Aerea Del Caqueta Ltda
+2740,NULL,STM,Sociedad Anonima Empresa De Turismo Aereo
+2741,NULL,SET,Sociedad Ecuatoriana De Transportes Aereos Ltda.  (Saeta)
+2742,NULL,RTR,Sociedade Brasileira De Turismo (Rotatur)
+2743,NULL,SPH,"Sociedade Portuguesa De Helicopteros, Lda. (Sph)"
+2744,AP,ADH,Air One
+2745,NULL,BST,Societa' Besit Srl
+2746,NULL,STI,Societa' Servizi Trasporti
+2747,NULL,SSI,Societa' Sunline
+2748,NULL,TEI,Societa' Tea Italia
+2749,NULL,OPE,Societe 3 S Aviation (Aerope)
+2750,NULL,TML,Societe Anonyme De Transport Et Travaux Aeriens De  Madagascar (Tam)
+2751,NULL,AGU,Societe Anonyme De Transports Aeriens Air-Guadeloupe
+2752,NULL,SNS,Societe Centrafricaine De Transport Aerien
+2753,NULL,CLG,Societe Chaleng'Air
+2754,5S,ARP,Societe D'Exploitation Aeropostale
+2755,NULL,OTS,Societe De Taxis Aeriens (Sota)
+2756,NULL,STC,Societe De Transports Et De Tourisme
+2757,NULL,HTF,Societe Helitrans France
+2758,NULL,APR,Societe Nouvelle D'Exploitation Air Provence
+2759,NULL,NJT,Societe Novajet
+2760,NULL,CEK,Societe Seca
+2761,NULL,SRT,Society Of Romanian Air Transports (Star)
+2762,NULL,OAT,Sogervair/Transoceanic Aviation
+2763,NULL,SOK,Sokol - Atsc
+2764,NULL,SOP,Solinair Ltd
+2765,IE,SOL,Solomon Airlines Limited
+2766,NULL,SOM,Somali Airlines
+2767,NULL,SMZ,Sonmez Airlines
+2768,NULL,SNL,"Soonair Lines, Inc. (Tulsa, Ok)"
+2769,NULL,SAG,Sos Flygambulans Ab
+2770,SA,SAA,South African Airways (Saa)
+2771,NULL,SCN,South American Airlines
+2772,NULL,PLT,"South Carolina Aeronautics Commission (Columbia, Sc)"
+2773,XE,SCA,"South Central Air, Inc. (Kenai, Ak)"
+2774,NULL,SEC,South East College Of Air Training
+2775,NULL,SEK,South Express
+2776,NULL,FOM,South Pacific Air Charters
+2777,NULL,SPI,"South Pacific Island Airways, Inc."
+2778,NULL,SWC,South West Air Ltd.
+2779,MSW,MSW,West-Avia LLP
+2780,NULL,SEA,"Southeast Air, Inc. (New Bedford, Ma)"
+2781,NULL,SPU,"Southeast Airmotive Corp. (Charlotte, Nc)"
+2782,NULL,SOT,"Southeast Correct Craft, Inc. (Orlando, Fl)"
+2783,NULL,SXE,"Southeast Express Airlines, Inc. (Greensboro, Nc)"
+2784,NULL,PTM,"Southeastern Airways Corp. (Double Springs, Al)"
+2785,WK,HSN,Southern Air Ltd
+2786,NULL,SJM,Southern Air Transport Inc.
+2787,EC,SOU,"Southern Airways (Jackson, Ms)"
+2788,NULL,SOI,Southern Aviation Limited
+2789,NULL,STV,Southern Aviation Limited
+2790,NULL,SXA,"Southern Cross Aviation, Inc. (Mena, Ar)"
+2791,NULL,SFS,Southern Frontier Air Transport Ltd.
+2792,NULL,ALC,"Southern Jersey Airways, Inc. (Atlantic City, Nj)"
+2793,NULL,SOH,"Southern Ohio Aviation Sales Co. (W. Carrollton, Oh)"
+2794,NULL,SSC,"Southern Seaplane, Inc. (Belle Chasse, La)"
+2795,ZO,SFL,Southflight Aviation Ltd
+2796,NULL,XPG,Southport Aerospace Centre
+2797,WN,SWA,"Southwest Airlines Co. (San Antonio, Tx)"
+2798,NULL,SOW,Sowind Air Ltd.
+2799,NULL,KIT,Space And Transport (Kit)
+2800,NULL,PAR,Spair
+2801,JK,SPP,Spanair
+2802,NULL,SPS,"Spasa (Servicios Politecnicos Aereos, S.A.)"
+2803,NULL,SCI,Special Cargo Airlines
+2804,NULL,XSA,"Spectrum Air Service, Inc. (League City,Tx)"
+2805,NULL,SPW,Speedwings Sa
+2806,NK,SWG,"Spirit Airlines, Inc. (Eastpointe, Mi)"
+2807,NULL,WCC,"Sports Air Travel, Inc. (Troutdale, Or)"
+2808,NULL,SPL,"Sportsflight Airways, Inc. (Tucson Az)"
+2809,NULL,SPE,"Sprague Electric Co. (North Adams, Ma)"
+2810,NULL,SAQ,Springbank Aviation Ltd.
+2811,NULL,SPG,"Springdale Air Service, Inc. (Springdale, Ar)"
+2812,NULL,ASL,"Spurling Aviation (Seattle, Wa)"
+2813,4R,PUR,Spurwing Airlines (Pty) Ltd
+2814,NULL,SDA,St. Andrews Airways Ltd.
+2815,NULL,STN,St. Athan Mu
+2816,NULL,SBO,Stabo Air Limited
+2817,NULL,SOB,Stabo Freight Limited
+2818,NULL,STL,Stapleford Flight Centre
+2819,NULL,SRR,Star Air I/S
+2820,NULL,TIM,Star Asia
+2821,NULL,STA,Star Aviation
+2822,NULL,SEU,Star Europe
+2823,NULL,SSA,Star Of Asia
+2824,NULL,SSD,Star Service International
+2825,NULL,SSP,Starspeed Ltd
+2826,NULL,UFA,"State Flight Academy Of Ukraine, The"
+2827,R2,ORB,Orenair/Orenburg Airlines
+2828,NULL,FBD,Statens Trafikkflygerskole
+2829,NULL,SWJ,"Stateswest Airlines, Inc. (Phoenix, Az)"
+2830,NULL,STR,Stellair
+2831,NULL,XSN,Stephenville Aviation Services
+2832,NULL,STH,Sterkh
+2833,NULL,JJW,"Sternair, Inc. D/B/A Jetway (Dallas, Tx)"
+2834,NULL,YBE,"Stewart Aviation Services, Inc. (Little Rock, Ar)"
+2835,NULL,SCS,Straits Air Charter Ltd
+2836,NULL,FCA,Stratford Airways Ltd.
+2837,JN,SSW,Streamline Aviation Ltd
+2838,NULL,SUB,"Suburban Air Freight, Inc. (Omaha, Ne)"
+2839,CB,SAY,Scotairways
+2840,NULL,GID,"Sud Air Transport, S.A."
+2841,SD,SUD,Sudan Airways
+2842,NULL,SAC,Sudanese Aeronautical Services Co. Ltd (Sasco  Airlines)
+2843,NULL,SFG,"Sudflug Suddeutsche Fluggesellschaft Mbh,  Frankfurt/M. (Neu-Isenburg)"
+2844,NULL,SMM,"Summit Airlines (Philadelphia, Pa)"
+2845,NULL,SNX,Sun Air Aviation Services
+2846,NULL,SCX,"Sun Country Airlines, Inc. (Minneapolis, Mn)"
+2847,NULL,SJI,"Sun Jet International Airlines, Inc. (Largo, Fl)"
+2848,NULL,SNQ,"Sun Quest Executive Air Charter, Inc. (Pacoima, Ca)"
+2849,NULL,SNW,"Sun West Airlines (Scottsdale, Az)"
+2850,EZ,SUS,Sun-Air Of Scandinavia A/S
+2851,NULL,CDL,"Sunbird Airlines, Inc. (Charlotte, Nc)"
+2852,NULL,SNT,"Suncoast Aviation, Inc.(Clearwater,Fl)"
+2853,NULL,SDN,"Sundance Air, Incorporated (Denver, Co)"
+2854,NULL,SDF,"Sundorph Aeronautical Corp. (Cleveland, Oh)"
+2855,PI,SUF,Sunflower Airlines Limited
+2856,NULL,VOR,Sunna Air Ltd Iceland
+2857,NULL,SNH,Sunshine Air (Pvt) Ltd
+2858,NULL,SON,"Sunshine Air Tours (Van Nuys, Ca)"
+2859,OC,SHS,Sunshine Aviation Sa
+2860,NULL,SWY,Sunways Airlines Ab
+2861,NULL,SST,Sunwest Airlines Ltd.
+2862,SM,SWI,"Sunworld International Airlines, Inc."
+2863,M7,HKA,Superior Aviation Services
+2864,NULL,SHF,Support Helicopter Flight Ni
+2865,PY,SLM,Surinaamse Luchtvaart Maatschappij N.V.
+2866,NULL,SUR,Surrey & Kent Flying Club
+2867,NULL,PNS,Survey Udara (Penas) Pt
+2868,NULL,HWK,Swazi Air Charter (Pty) Ltd
+2869,NULL,SDC,Swedish Airforce
+2870,NULL,CBN,Swedish Civil Aviation Administration
+2871,NULL,SCL,Swiftair Cargo Ltd.
+2872,W3,SWT,Swiftair S.A.
+2873,NULL,SLC,Swiftlines Limited
+2874,NULL,SAZ,"Swiss Air-Ambulance Ltd., Zurich"
+2875,NULL,ANS,Symbol S.A.
+2876,NULL,SYN,Syncrude Canada Ltd
+2877,RB,SYR,Syrian Arab Airlines
+2878,NULL,TTS,T.A.S.D. (Transporti Aerei Speciali)
+2879,NULL,RDA,T.K. Travel Limited
+2880,DT,DTA,"Taag, Linhas Aereas De Angola (Angola Airlines)"
+2881,T2,TAB,"Taba, Transportes Aereos Da Bacia Amazonica S.A."
+2882,TA,TAI,Taca International Airlines S.A.
+2883,NULL,TDC,"Tadair, S.A."
+2884,NULL,ESS,"Taes (Tecnicas Aereas De Estudios Y Servicios, S.A.)"
+2885,NULL,HET,Taf Helicopters S.A.
+2886,NULL,TSD,Taf-Linhas Aereas S/A
+2887,NULL,TCA,Tahiti Conquest Airlines
+2888,NULL,GIG,Taifun
+2889,NULL,TIN,Taino Tours
+2890,7J,TJK,Tajikair
+2891,NULL,TZK,Tajikistan
+2892,NULL,TIL,Tajikistan International Airlines
+2893,NULL,TAL,Talair Pty. Ltd.
+2894,JJ,TAM,Tam Transportes Aereos Regionais S.A.
+2895,NULL,DTE,Tamas Darida Enterprise
+2896,4E,TNR,Tanana Air Services
+2897,NULL,TNA,Tanavco Airways Ltd
+2898,NULL,TPE,Tap - Transportes Aereos Presidente S/A
+2899,NULL,THC,"Tar Heel Aviation, Inc. (Richlands, Nc)"
+2900,NULL,IRR,Tara Air Line
+2901,NULL,TMC,Tarmac Aviation Ltd
+2902,RO,ROT,"Tarom, Romanian Air Transport"
+2903,NULL,RMS,"Tas Aviation, Inc. (Defiance, Oh)"
+2904,NULL,TWI,Tasawi Ltd
+2905,NULL,TAN,Tasman Air Services
+2906,IJ,TBT,Tat
+2907,NULL,TAT,Tat-European Airlines
+2908,3K,FXG,"Tatonduk Outfitters, Ltd (Fairbanks, Ak)"
+2909,NULL,OIR,Tatra Air Group
+2910,NULL,TAQ,"Taunus Air Gmbh & Co K, Wiesbaden"
+2911,NULL,PGS,Tauranga Aero Club (Inc)
+2912,T6,TVR,"Tavrey, Aircompany"
+2913,NULL,TVM,Tavria-Mak
+2914,NULL,CSU,"Taxi Aereo Centro Sur, S.A. De C.V."
+2915,NULL,JML,"Taxi Aereo De Jimulco, S.A. De C.V."
+2916,NULL,TXM,Taxi Aereo De Mexico
+2917,NULL,VRC,Taxi Aereo De Veracruz
+2918,NULL,TUO,"Taxi Aereo Turistico, S.A. De C.V."
+2919,NULL,TXR,"Taxirey, S.A. De C.V."
+2920,NULL,TBO,"Taxis Aereos De Caborca, S.A. De C.V."
+2921,NULL,TNE,"Taxis Aereos Del Noroeste,S.A. De C.V."
+2922,NULL,TPF,"Taxis Aereos Del Pacifico, S.A. De C.V."
+2923,NULL,TFY,Tayside Aviation Ltd
+2924,NULL,TCJ,Tcb - Transportes Charter Do Brasil Ltda.
+2925,NULL,TEC,Tea Cyprus Ltd
+2926,NULL,BTS,Techaviaservice
+2927,NULL,TNV,Tecnavia
+2928,ZJ,TED,Teddy Air A/S
+2929,NULL,XLT,Telecomunicacoes Aeronauticas S/A-Tasa
+2930,NULL,TCM,"Teledyne Continental Motors (Muskegon, Mi)"
+2931,NULL,TEL,"Telford Aviation, Inc. (Waterville, Me)"
+2932,NULL,TEH,"Tempelhof Airways Usa, Inc."
+2933,NULL,TMS,"Temsco Helicopters, Inc. (Ketchikan, Ak)"
+2934,NULL,TNG,"Tennessee Air National Guard, 164th Airlift Group"
+2935,NULL,TEN,"Tennessee Airways (Alcoa, Tn)"
+2936,NULL,SDT,"Terrain Sdp, S.A."
+2937,NULL,MXG,Terrex Group J.S.C.
+2938,NULL,TER,"Territorial Airlines, Inc. (Santa Fe, Nm)"
+2939,NULL,TIS,Tesis
+2940,NULL,TXA,"Texair Charter, Inc. (San Antonio, Tx)"
+2941,NULL,TXS,"Texas Airlines, Inc. (Galveston, Tx)"
+2942,NULL,TXN,"Texas National Airlines (San Antonio, Tx)"
+2943,NULL,TGC,Tg Aviation Ltd
+2944,NULL,EGP,Thai Aerospace Services Co. Ltd.
+2945,TG,THA,Thai Airways International Ltd.
+2946,NULL,TFH,"Thai Flying Helicopter Service Co., Ltd."
+2947,NULL,TMQ,Thames Air Services & Charter Ltd.
+2948,NULL,TQF,The 32 (Royal) Squadron
+2949,NULL,BAH,The Amiri Flight-Bahrain
+2950,NULL,AWA,The Atlantic Airline (Gambia) Ltd
+2951,NULL,TBL,"The Berline, Berlin-Brandenburgisches  Luftfahrtunternehmen Gmbh (Berlin-Schonefeld)"
+2952,NULL,BLM,The Black Magic Project Ltd
+2953,NULL,TRN,Theron Airways
+2954,NULL,THU,Thunder Airlines Ltd
+2955,4A,TBD,Thunderbird Tours
+2956,NULL,THG,Thurston Aviation Ltd.
+2957,NULL,MOH,Tigerfly
+2958,NULL,XNV,"Tigin Ltd. D/B/A Navinc Airlines  Services (Honolulu, Hi)"
+2959,NULL,THD,Tim Horton Donuts
+2960,ZT,AWC,Titan Airways Ltd
+2961,NULL,TLS,"Tlc Air, Inc. (Carrolton, Tx)"
+2962,NULL,NTR,Tnt International Aviation
+2963,NULL,TGA,Togo Airlines
+2964,NULL,TOL,"Tol-Air Services, Inc. (San Juan, Pr)"
+2965,NULL,TMK,"Tomahawk Airways, Inc. (Alcoa, Tn)"
+2966,NULL,TOP,Top Air Havacilik Sanayi Ve Ticaret A.S.
+2967,NULL,CHE,"Top Flight Air Service, Inc. (Tampa, Fl)"
+2968,P9,TPI,Topair
+2969,NULL,TOF,Topcliffe Ftu
+2970,NULL,TOR,Toronto Airways Ltd.
+2971,NULL,TTL,Total Linhas Aereas S/A
+2972,NULL,TUG,Touch And Go Ltd
+2973,FF,TOW,Tower Air Inc.
+2974,NULL,TOY,Toyota Canada Inc
+2975,NULL,TGE,Trabajos Aereos S.A.
+2976,8P,TDR,Trade Air
+2977,NULL,TMM,"Traffic Management Corporation (Tmc) Airlines  (Ypsilanti, Mi)"
+2978,NULL,HBA,"Trail Lake Flying Service, Inc. D/B/A  Harbor Air (Seward, Ak)"
+2979,NULL,TRR,Tramson Limited
+2980,NULL,TRB,Trans Air Bretagne
+2981,NULL,TRC,"Trans Air Charter, Inc. (Fullerton, Ca)"
+2982,NULL,GTG,Trans Air Globe
+2983,NULL,TWW,Trans Air Welwitchia
+2984,NULL,RTM,Trans Am Compania Ltda.
+2985,NULL,CLR,"Trans America (Englewood, Co)"
+2986,NULL,TVA,Trans America Airlines Inc.
+2987,NULL,TRT,Trans Arabian Air Transport
+2988,NULL,LTA,Trans Atlantis
+2989,NULL,CTA,"Trans Caribe, S.A. De C.V."
+2990,NULL,TCC,Trans Continental Airlines
+2991,NULL,TCN,"Trans Continental Airlines (Ypsilanti, Mi)"
+2992,NULL,TEA,Trans European Airways
+2993,NULL,TSW,"Trans European Airways (Tea) S.A., Bale"
+2994,NULL,TFR,Trans European Airways Sa
+2995,NULL,THZ,Trans Helicoptere Service
+2996,NULL,TIA,Trans International Airlines
+2997,NULL,TRD,Trans Island Air
+2998,JQ,JQA,Trans Jamaican Airlines Ltd.
+2999,TL,TMA,Trans Mediterranean Airlines (Tma)
+3000,NULL,TMT,"Trans Midwest Airlines, Inc. (Columbus, Oh)"
+3001,NULL,TNT,Trans North Turbo Air Ltd.
+3002,NULL,TSR,Trans Service Airlift
+3003,AX,LOF,"Trans States Airlines, Inc. D/B/A Trans   World Express"
+3004,NULL,TWG,Trans Wing A/S
+3005,TW,TWA,Trans World Airlines Inc.
+3006,NULL,RBD,"Trans World Express, Inc. (Philadelphia, Pa)"
+3007,NULL,TSF,Trans-African Airways Inc.
+3008,NULL,TSN,Trans-Air Services Limited
+3009,NULL,TSG,Trans-Air-Congo
+3010,TY,GJB,"Trans-Air-Link Co. (Miami, Fl)"
+3011,NULL,TGL,Trans-Atlantic Airlines Limited
+3012,NULL,TCH,Trans-Charter
+3013,NULL,TCE,"Trans-Colorado Airlines, Inc. (Gunnison, Co)"
+3014,NULL,TRE,Trans-Eastern Airlines Ltd.
+3015,NULL,TFA,"Trans-Florida Airlines (Daytona Beach, Fl)"
+3016,KI,KCA,Aviatrans Kiev
+3017,NULL,TPY,Trans-Provincial Airlines Ltd.
+3018,NULL,TSA,Transair France
+3019,NULL,TSM,Transair Mali S.A.
+3020,NULL,TNP,Transalp
+3021,NULL,TAS,Transalsace
+3022,NULL,TRV,Transavia (Pty) Ltd.
+3023,HV,TRA,Transavia Airlines
+3024,NULL,TXC,Transaviaexport
+3025,NULL,TVT,"Transaviati0n, S.A."
+3026,NULL,TVO,Transavio Di I. Ballerio
+3027,TR,TBA,Transbrasil S.A. Linhas Aereas
+3028,NULL,NOE,Transcaraibes Air International
+3029,NULL,TDA,Transcarga S.A.
+3030,NULL,TVN,Transcolombiana De Aviacion S.A.
+3031,NULL,TCP,Transcorp Airways
+3032,T4,TRL,Transeast Airlines
+3033,NULL,TSI,Transit Airways
+3034,NULL,TLA,Translift Airways Ltd
+3035,NULL,TLX,Translux International Airlines S.A.
+3036,NULL,TMD,Transmed Airlines
+3037,NULL,TRZ,"Transmeridian Airlines (Houston, Tx)"
+3038,NULL,TSE,Transmile Air Services (M) Sdn. Bhd.
+3039,NULL,CTR,Transport Air Centre
+3040,NULL,TFI,"Transport Facilitators, Inc. (Houston, Tx)"
+3041,NULL,TRS,Transport International Aerien
+3042,NULL,TMX,Transportacion Aerea Mexicana (Tam)
+3043,NULL,FRU,"Transportadora Fruyleg, S.A. De C.V."
+3044,NULL,DEE,"Transportation America Corporation D/B/A  Dixie Airways (Nashville, Tn)"
+3045,NULL,EAA,"Transporte Aereo Andino, S.A. (Taan)"
+3046,NULL,TAZ,Transporte Aereo De La Amazonia
+3047,NULL,TDO,Transporte Aereo Dominicano (Trado)
+3048,NULL,TAD,"Transporte Aereo Dominicano, S.A."
+3049,NULL,HRT,Transporte Aereo Rioplatense
+3050,NULL,TCB,Transporte Del Caribe
+3051,NULL,TTA,Transporte E Trabalho Aero
+3052,NULL,EAR,"Transporte Ejecutivo Aereo, S.A. De C.V."
+3053,NULL,TBC,"Transportes Abc, S.A. De C.V."
+3054,NULL,BOL,Transportes Aereos Bolivianos (Tab)
+3055,NULL,THO,Transportes Aereos Centroamericanos De Honduras (Taca De Honduras)
+3056,VR,TCV,Transportes Aereos De Cabo Verde - Tacv
+3057,NULL,TES,Transportes Aereos De El Salvador S.A. De C.V. (Taes)
+3058,NULL,TPX,"Transportes Aereos De Xalapa, S.A. De C.V."
+3059,NULL,STU,Transportes Aereos Fueguino
+3060,NULL,THS,"Transportes Aereos Hispanos, S.A."
+3061,NULL,MNO,"Transportes Aereos Mangino, S.A. De C.V."
+3062,NULL,TPA,"Transportes Aereos Mercantiles Panamericanos  S.A., ""Tampa"""
+3063,NULL,TAE,Transportes Aereos Militares Ecuatorianos C.A. (Tame)
+3064,NULL,NQN,Transportes Aereos Neuquen
+3065,T8,NEQ,Transportes Aereos Neuquinos Sociedad  Del Estado (T.A.N.S.E.)
+3066,NULL,TPG,"Transportes Aereos Pegaso, S.A. De C.V."
+3067,TP,TAP,"Transportes Aereos Portugueses, E.P."
+3068,NULL,ETM,"Transportes Aereos Tamaulipas, S.A. De C.V."
+3069,VW,TAO,Transportes Aeromar
+3070,NULL,TCS,Transportes De Carga Aerea Especializada  Y Servicios Aeronauticos
+3071,NULL,TPZ,"Transportes La Paz, S.A. De C.V."
+3072,NULL,TPT,Transportes Transpenta Ltda.
+3073,NULL,GBU,Transports Aeriens De La Guinee-Bissau
+3074,NULL,TSB,Transports Aeriens Du Benin (T.A.B.)
+3075,NULL,TRM,Transports Aeriens Mediterraneens
+3076,NULL,TST,Transtar Airliner
+3077,NULL,TTC,Transteco
+3078,NULL,TAW,"Transway Air Services, Inc."
+3079,NULL,TQA,Transwede Airways Ab
+3080,NULL,TWT,Transwest Airlines (Nig)
+3081,NULL,TRW,"Transwestern Airlines Of Utah (Logan, Ut)"
+3082,NULL,GLB,Tranzglobal Holdings Ltd
+3083,NULL,TAX,Travelair Gmbh And Co. Kg
+3084,NULL,TKE,Trek Airways
+3085,NULL,TRU,Triangle Airline (Uganda) Ltd
+3086,NULL,TIX,Triax Airlines Ltd.
+3087,BW,BWA,Bwia West Indies Airways Limited
+3088,NULL,TBH,Trinity Air Bahamas
+3089,NULL,TRY,"Tristar Airlines, Inc. (Las Vegas, Nv)"
+3090,NULL,DRC,Triton Airlines Inc.
+3091,OR,TFL,TUI Airlines Nederland
+3092,NULL,TSV,Tropair Airservices
+3093,NULL,TRO,"Tropic Airlines-Air Molokai(Honolulu, Hi)"
+3094,NULL,TOS,Tropical Air Services
+3095,BN,TSS,Tropical Sea Airlines
+3096,NULL,TBR,Tubelair
+3097,NULL,TLP,Tulip Air
+3098,NULL,TUL,Tulpar
+3099,TU,TAR,Tunis Air - Societe Tunisienne De L'Air
+3100,NULL,TAJ,"Tunisavia - Societe De Transports, Services Et  Travaux Aeriens"
+3101,NULL,TUP,Tupolev Aerotrans
+3102,NULL,URN,Turan Air
+3103,NULL,TUV,Turavia
+3104,NULL,TBN,Turbine Helicopters Ltd
+3105,NULL,THK,Turk Hava Kurumu Hava Taksi Isletmesi
+3106,TK,THY,Turkish Airlines Inc.
+3107,T5,TUA,Turkmenistan Airlines
+3108,NULL,TCI,Turks And Caicos National Airline
+3109,NULL,TNH,Turnhouse Flying Club
+3110,NULL,TWO,Twente Airlines
+3111,NULL,TWJ,Twinjet Aircraft Ltd
+3112,NULL,TYE,Tyee Airways Ltd.
+3113,VO,TYR,Tyrolean Airways
+3114,NULL,TJS,Tyrolean Jet Service
+3115,NULL,TYM,Tyumen Airlines
+3116,NULL,TYN,Tyumenavia
+3117,US,USA,U.S. Air
+3118,NULL,CPF,"U.S. Air Force Auxiliary, Civil Air Patrol (Maxwell Afb, Al)"
+3119,NULL,JUD,"U.S. Department Of Justice, Air Transport Branch  (Pineville, La)"
+3120,NULL,USX,"U.S. Express (Plymouth, Ma)"
+3121,NULL,USJ,"U.S. Jet, Inc. (Washington, Dc)"
+3122,NULL,MSH,"U.S. Marshals Service,  U.S. Department Of Justice (Washington, Dc)"
+3123,NULL,UAS,Uas - Four
+3124,NULL,UAA,Uas - One
+3125,NULL,UAJ,Uas - Three
+3126,NULL,UAG,Uas - Two
+3127,NULL,UCC,Uganda Air Cargo
+3128,NULL,RAU,Uganda Royal Airways
+3129,NULL,UGG,Ugland Air A/S
+3130,NULL,UKP,Uk Home Office
+3131,NULL,RRF,Uk Royal/Positioning Flights
+3132,NULL,KRF,Uk Royal/Vip Flights
+3133,NULL,UKH,Ukhta Airenterprise
+3134,NULL,UKL,Ukraine Airalliance
+3135,NULL,UNV,Ukraine Universal
+3136,NULL,ULT,"Ultrair, Inc. (Smyrna, Tn)"
+3137,NULL,UHS,Ulyanovsk Higher Civil Aviation School
+3138,NULL,UAI,Uni Air S.A.
+3139,NULL,UFL,Unifly
+3140,NULL,UNF,"Union Flights (Sacramento, Ca)"
+3141,NULL,GIU,Union Guineene De Transports
+3142,NULL,UFR,"United Africa Airline (Liberia), Inc."
+3143,NULL,UTD,United Air
+3144,NULL,UAC,United Air Charters
+3145,UA,UAL,United Air Lines Inc.
+3146,NULL,UHP,United Air Service
+3147,NULL,UAF,United Arab Emirates Air Force
+3148,NULL,UAV,United Aviation Ltd
+3149,NULL,SAU,"United Aviation Services, S.A."
+3150,NULL,UCS,"United Carriers Systems, Inc. (Gahanna, Oh)"
+3151,5X,UPS,"United Parcel Service Company, (Louisville, Ky)"
+3152,NULL,MDN,Universair
+3153,NULL,UNA,Universair
+3154,NULL,UVL,Universal
+3155,NULL,UAT,Universal Air Transport
+3156,NULL,PNA,"Universal Airlines, Inc. (Belleville, Mi)"
+3157,NULL,WEC,"Universal Airlines, Inc. (Detroit, Mi)"
+3158,UV,UVA,"Universal Airways, Inc."
+3159,NULL,UNS,Unsped Paket Servisi Inc.
+3160,NULL,URV,Uraiavia
+3161,U6,SVR,Ural Airlines
+3162,NULL,URL,Uralavialy
+3163,U3,URA,Uralinteravia
+3164,U7,JUS,"Usa Jet Airlines, Inc. (Belleville, Mi)"
+3165,NULL,USF,"Usafrica Airways, Inc. (Reston, Va)"
+3166,NULL,USS,"Usair Shuttle (Flushing, Nj)"
+3167,HY,UZB,Uzbekistan Airways
+3168,NULL,VAC,Vacationair Inc.
+3169,NULL,VAK,Vak-Rosat
+3170,NULL,VLN,Valan Ltd
+3171,NULL,VLF,Valdresfly A.S.
+3172,NULL,VAR,"Valet Air Services (S.Burlington, Vt)"
+3173,NULL,VYT,Valley Ftu
+3174,NULL,BNS,"Valley National Corp. D/B/A Bancstar (Phoenix, Az)"
+3175,NULL,VLL,Valley Sar Training Unit
+3176,NJ,VGD,"Vanguard Airlines, Inc."
+3177,NULL,BAA,Vardar Air
+3178,NULL,SRL,Varmlandsflyg Ab
+3179,NULL,VDT,Vayudoot
+3180,NULL,VEG,Vega Aircompany
+3181,NULL,VAA,Venda Airways
+3182,NULL,VNX,Venexcargo (Transporte Aereo De Carga S.A.)
+3183,NULL,VEC,"Venezolana Servicios Expresos De Carga  Internacional, C.A."
+3184,NULL,VER,"Venus, S.A."
+3185,NULL,VMA,"Vero Monmouth Airlines (Vero Beach, Fl)"
+3186,NULL,VPB,Veteran Air
+3187,NULL,VTN,Veteran Airlines
+3188,NULL,VHA,Vh-Air Industrie
+3189,VP,VSP,Viacao Aerea Sao Paulo S.A. (Vasp)
+3190,NULL,MBT,Vias Aereas Manabitas Cia Ltda.
+3191,VA,VIA,"Viasa, Venezolana Internacional De Aviacion, S.A."
+3192,NULL,VIH,Vichi
+3193,NULL,VSB,Vickers Ltd.
+3194,NULL,VCF,Victor Fly
+3195,VI,VES,"Vieques Air Link, Inc. (Vieques, Pr)"
+3196,NULL,WCY,"Viking Express, Inc. (West Chicago, Il)"
+3197,NULL,VIK,"Viking International Air Freight, Inc.  (Minneapolis, Mn)"
+3198,NULL,CAM,"Village Aviation, Inc. D/B/A Camai-Air (Bethel, Ak)"
+3199,NULL,VKT,Vilocity
+3200,NULL,VIN,"Vinair - Helicopteros, Limitada"
+3201,NULL,VGS,Vings
+3202,NULL,FXF,"Vip Air Charter, Inc. (Alcoa, Tn)"
+3203,VS,VIR,Virgin Atlantic
+3204,S5,LLX,Small Planet Airlines
+3205,NULL,VSS,"Virgin Islands Seaplane Shuttle, Inc.(St.Croix,Vi)"
+3206,NULL,VCT,"Viscount Air Service, Inc. (Tucson, Az)"
+3207,NULL,VSN,Vision Airways Corporation
+3208,NULL,VTZ,Vitjaz
+3209,NULL,VIV,"Viva, Viajes Internacionales De Vacaciones, S.A."
+3210,VG,VLM,Vlm Vlaamse Luchttransportmaatschappij
+3211,XF,VLK,Vladivostok Air
+3212,NULL,VRL,Voar Lda.
+3213,OP,VLR,Volare
+3214,NULL,VLA,Volga
+3215,VI,VDA,Joint Stock Airline Volga-Dnepr
+3216,NULL,VGV,Vologda State Air Enterprise
+3217,NULL,VOL,"Volvo, Ab"
+3218,NULL,VRN,Voronezhavia
+3219,4V,VAL,Voyageur Airways Ltd.
+3220,NULL,VSE,"Vuelos Asesorias Y Representaciones, S.A. De C.V."
+3221,NULL,VEQ,"Vuelos Ejecutivos De Queretaro, S.A. De C.V."
+3222,NULL,EMX,"Vuelos Exclusivos De Mexico, S.A. De C.V."
+3223,NULL,VZL,Vzlyet
+3224,WT,NGA,W.A.A.C. (Nigeria) Ltd. - Nigeria Airways
+3225,3V,TAY,TNT Airways
+3226,NULL,WIK,Waikato Aero Club (Inc)
+3227,NULL,WTM,Waitemata Aero Club (Inc)
+3228,NULL,WAS,Walsten Air Services
+3229,NULL,WAN,Wane Aviation Ltd.
+3230,NULL,WPT,Wapiti Aviation Ltd.
+3231,4W,VNA,"Warbelows Air Ventures, Inc. (Fairbanks, Ak)"
+3232,NULL,WTN,Warton Bae
+3233,NULL,ATX,Warwickshire Aerocentre Ltd
+3234,NULL,WSG,Wasaya Airways Ltd
+3235,WL,WDL,WDL Aviation
+3236,NULL,TDB,"Welch Aviation, Inc. (Alpena, Mi)"
+3237,NULL,BNX,Welsh Dragon Aviation Ltd
+3238,NULL,WNC,Wenic Air Services
+3239,NULL,WSX,Wessex Air Services Ltd
+3240,NULL,WCB,West Africa Airlines Ltd.
+3241,PT,SWN,West Air Sweden Ab
+3242,NULL,WST,West Aviation A/S
+3243,NULL,WCG,West Coast Airlines Limited
+3244,NULL,TEE,West Freugh Dteo
+3245,3L,WIL,"West Isle Air, Inc. (Anacortes, Wa)"
+3246,NULL,WEW,West Wind Aviation Inc.
+3247,NULL,NLF,Westair Aviation Inc.
+3248,NULL,EFF,Westair Aviation Limited
+3249,OE,SDU,"Westair Commuter Airlines Inc. / United  Express (Fresno, Ca)"
+3250,NULL,PCM,"Westair Industries, Inc. (Chico, Ca)"
+3251,NULL,WSA,"Westates Airlines (Burlingame, Ca)"
+3252,NULL,BLK,Westcoast Energy
+3253,NULL,WAE,"Western Air Express (Boise, Id)"
+3254,NULL,WAL,Western Arctic Air Ltd.
+3255,NULL,WTV,"Western Aviators (Grand Junction, Co)"
+3256,NULL,WES,Western Express Air Lines Inc.
+3257,NULL,WKC,Western Kenya Aircharters Co. Ltd.
+3258,W7,KMR,"Western Pacific Airlines, Inc. (Colorado Springs, Co)"
+3259,NULL,WPA,Western Pacific Airservice
+3260,NULL,WHE,Westland Helicopters Ltd.
+3261,NULL,WRA,White River Air Services Ltd.
+3262,WF,WIF,Wideroe'S Flyveselskap A/S
+3263,NULL,WIG,"Wiggins Airways (Norwood, Ma)"
+3264,NULL,WFO,"Wilbur'S Flight Operations (Anchorage, Ak)"
+3265,NULL,WLS,"Williams Air, Inc. (Medford Lakes,Nj)"
+3266,NULL,WGP,Williams Grand Prix Racing Ltd
+3267,NULL,WLO,Willowair Ltd
+3268,NULL,WSI,"Wind Spirit Air, Inc. (Detroit, Mi)"
+3269,WM,WIA,Windward Islands Airways International N.V.
+3270,NULL,WNG,Wing Airways (Pty) Ltd.
+3271,NULL,WDR,Winged Russia
+3272,NULL,WAT,Wings Air Transport Co.
+3273,NULL,WAW,"Wings Airways (Blue Bell, Pa)"
+3274,NULL,WOL,Wings Aviation  Limited
+3275,NULL,WEX,"Wings Express, Inc. (San Diego, Ca)"
+3276,NULL,WIN,Winlink (St. Lucia) Limited
+3277,NULL,WAG,Wisconsin Air National Guard
+3278,NULL,WSM,"Wisman Aviation (Ft. Wayne, In)"
+3279,NULL,WIT,Wittering Ftu
+3280,NULL,WOD,Woodgate Air Services
+3281,NULL,WHL,Woodgate Air Services Limited
+3282,NULL,WVL,Woodvale Aviation Co. Ltd.
+3283,NULL,WAC,"World Air Network Co., Ltd."
+3284,WO,WOA,World Airways Inc.
+3285,NULL,XWW,World Weatherwatch
+3286,NULL,CSW,Worldwide Air Charter Systems
+3287,NULL,WWA,Worldwide Aviation Services Ltd.
+3288,NULL,WRR,"Wra, Inc. (Morrisville, Nc)"
+3289,NULL,TDX,"Wrangler Aviation, Inc. D/B/A Tradewinds  International Airlines (Greensboro, Nc)"
+3290,NULL,WRT,"Wright Air Lines, Inc. (Cleveland, Oh)"
+3291,NULL,XWS,Wsi Corporation
+3292,NULL,WYC,Wycombe Air Centre
+3293,NULL,WYG,"Wyoming Airlines Ltd. (Denver, Co)"
+3294,NULL,XAB,"Xabre Aerolineas, S.A. De C.V."
+3295,MF,CXA,Xiamen Airlines
+3296,XO,CXJ,Xinjiang Airlines
+3297,NULL,XPS,Xp International Bv
+3298,NULL,AKY,Yak-Service
+3299,NULL,KYA,Yana Air Cargo (Kenya) Limited
+3300,IY,IYE,"Yemenia, Yemen Airways"
+3301,NULL,ERV,Yerevan-Avia
+3302,NULL,YFS,"Young Flying Service (Harlingen, Tx)"
+3303,3Q,CYH,Yunnan Airlines
+3304,4Y,UYA,"Yute Air Alaska (Dillingham, Ak)"
+3305,2N,UMK,Yuzmashavia
+3306,NULL,VYC,Yvic Airlines
+3307,NULL,ZBA,Z. Boskovic Air Charters Limited
+3308,NULL,ZAI,Zaire Aero Service (Zas)
+3309,NULL,EZR,Zaire Express
+3310,NULL,ZAR,Zairean Airlines
+3311,NULL,ZAC,Zambia Airways
+3312,NULL,SZX,Zambian Express Airways Limited
+3313,NULL,ZAN,"Zantop International Airlines, Inc. (Ypsilanti, Mi)"
+3314,ZA,ZAS,Zas Airlines Of Egypt
+3315,NULL,EZT,Zenit
+3316,NULL,NZE,Zenith Airlines Limited
+3317,NULL,RZR,"Zephyr Express (Burbank, Ca)"
+3318,NULL,CJG,Zhejiang Airlines
+3319,NULL,CFZ,Zhongfei General Aviation Co.
+3320,NULL,CYN,Zhongyuan Aviation Co.
+3321,NULL,IMX,Zimex Aviation Ltd
+3322,OD,ULA,Zuliana De Aviacion
+3323,ADB,ADB,Antonov Design Bureau
+3324,NH,ANA,All Nippon Airways
+3325,CI,CAL,China Airlines
+3326,NULL,ECE,Air-City
+3327,ET,ETH,Ethiopian  Airlines
+3328,NULL,EUD,Euro Mediterranean Airlines
+3329,BR,EVA,Eva Air
+3330,NULL,FAA,Federal Aviation Administration
+3331,AE,MDA,Mandarin Airlines
+3332,EW,EWG,Eurowings
+3333,NULL,TGV,Sncf
+3334,2R,VRR,Via Rail
+3335,NULL,DBB,Deutsche Bahn (German Rail)
+3336,NULL,WSP,"Worldspan (Atlanta, Ga)"
+3337,H8,KHB,Khabarovsk Air Enterprise
+3338,NULL,XXX,Xxx
+3339,NULL,UES,Ues Avia
+3340,NULL,BRK,Briansk State Air Enterprise
+3341,NULL,LIP,Lip
+3342,NULL,SSL,Sierra Leone
+3343,CH,REA,Reach
+3344,NULL,ENI,Estonia
+3345,NULL,KRO,"Krocnk, Air Agency Ltd"
+3346,DW,UCR,Aero-Charter Airlines
+3347,NULL,MHN,United Kingdom
+3348,NULL,TWN,Twn
+3349,NULL,LDB,Bulgaria
+3350,NULL,BED,Belgorod
+3351,NULL,DLF,Iran
+3352,NULL,SLU,Yugoslavia
+3353,NULL,SVF,Sweden
+3354,NULL,CIS,Cis Express
+3355,NULL,DVN,Armenia
+3356,NULL,INF,Finland
+3357,NULL,VSO,Rossia
+3358,NULL,CNV,U.S. Navy Reserve Logistic Air Forces
+3359,NULL,AIO,Avis Airlines
+3360,NULL,FUE,Fue
+3361,NULL,ETO,Russia
+3362,NULL,GOM,Gomelair
+3363,NULL,SFD,Russia
+3364,NULL,PRN,Petronord-Avia
+3365,NULL,JTU,Turkmen
+3366,NULL,PAV,Pav
+3367,NULL,JOL,Jol
+3368,S9,SKU,Sk Air S.A.
+3369,NULL,AKH,Akhal
+3370,NULL,UNR,Rowno
+3371,YM,MGX,Montenegro Airlines
+3372,NULL,CGT,"Cng-Transavia,Joint Stock Company"
+3373,NULL,PIL,Lesotho
+3374,NULL,NOO,Norway
+3375,F7,VRE,Volare Ailines
+3376,NULL,EEX,Swiss
+3377,NULL,UUU,Feniks
+3378,SY,JER,Usa
+3379,NULL,FNH,Fnh
+3380,NULL,ANP,Anp
+3381,NULL,KAW,Kaz Air West
+3382,NULL,LSK,Aurela
+3383,NULL,DIL,Dialogaero
+3384,NULL,JEK,Jet Link
+3385,NULL,CGL,Siagle Air
+3386,NULL,IVT,Interaviatrans Ltd
+3387,NULL,UTW,Ukraine Wws
+3388,NULL,MFX,Netherlands
+3389,NULL,UZA,Constanta
+3390,KY,HER,Usa
+3391,NULL,PRX,Latvia
+3392,NULL,PGE,Prestiv Avia
+3393,OT,ASC,England
+3394,6Z,UKS,Ukraine Cargo Airways
+3395,NULL,MCB,Georgia
+3396,NULL,CGI,"Cgi-Aero,Joint-Stock Air Company"
+3397,Y8,ARM,Wws
+3398,NULL,AOO,"Ak ,As,"
+3399,NULL,UTS,State Air Traffic Service Enterprise
+3400,NULL,EMY,France
+3401,NULL,BOB,Poland
+3402,NULL,ENH,Enh
+3403,NULL,KRM,Crimea Universal Avia
+3404,NULL,KRG,Krimaviamontag
+3405,NULL,UZH,Yuzhnoye State Office
+3406,7D,UDC,Donbassaero
+3407,NULL,UPL,Ukrainian Pilot School
+3408,NULL,MCS,Macedonian Airlines
+3409,NULL,BAF,Belgian Air Force
+3410,LE,LHS,Lugansk
+3411,NULL,SUM,State Unitary Air Enterprise
+3412,4M,MEN,Minskavia
+3413,NULL,GZA,"Grenzland Air Service,Standtlohn"
+3414,NULL,MGR,Magna Air
+3415,NULL,LOY,Loydc Aviation Group Ltd
+3416,F,HUA,Wws Hungary
+3417,NULL,LZD,Bolgaria Wws
+3418,NULL,WKH,Kharkiv State Airlines
+3419,NULL,CMK,Chernomorskie Airlines
+3420,NULL,EUS,Eurasia Aircompany
+3421,NULL,ILV,Russia
+3422,NULL,PER,Greece
+3423,G,BUL,Bulgaria
+3424,NULL,LIV,Liv
+3425,NULL,SVB,Svea Flyg Ab
+3426,NULL,OJF,Occitania Jet Fleet
+3427,YC,LLM,Yamal Airlines
+3428,NULL,AWL,Ooo Aircompany Awia
+3429,NULL,VEA,Vea
+3430,NULL,IND,Iona National Airways Limited
+3431,NULL,VHN,Germany
+3432,NULL,DUC,Dunkan
+3433,NULL,AHC,Azalaviacargo
+3434,NULL,ORM,Orel State Air Enterprise
+3435,NULL,HPT,Heli-Pet
+3436,NULL,JGO,Jgo
+3437,NULL,UNL,Ukkk
+3438,NULL,VHM,Vhm Schul- Und Charterflug
+3439,NULL,UGP,Air Company Shar-Ink.Ltd
+3440,NULL,KOP,Lithuania
+3441,NULL,POV,Meridian
+3442,NULL,SNF,Russia
+3443,NULL,CIG,Sirius Aero
+3444,NULL,OST,Alania Leasing Airlines
+3445,NULL,URP,Urp410
+3446,BV,BPA,Blue Panorama Airlines Spa
+3447,G5,ENK,Joint Stock Company Enkor
+3448,NULL,IFC,Indian Air Force
+3449,NULL,LYT,"Apatas, Latvia"
+3450,NULL,NOY,Noy Aviation Israel Ltd.
+3451,NULL,EBF,Flight Charter Gmbh
+3452,NULL,ADU,Air Deal
+3453,NULL,GOR,Gorlica
+3454,UF,UKM,Ukrainian Mediterranean Airlines Ltd
+3455,8G,NGE,"Angel Airlines Co., Ltd."
+3456,HJ,TMN,Tasman Cargo Airlines
+3457,T0,TPU,Taca Peru
+3458,FG,AFG,Ariana Afghan Airlines
+3459,T3,EZE,Eastern Airways Ltd.
+3460,OW,EGF,"Executive Airlines, Ins."
+3461,6F,FAO,"Falcon Air Express, Inc."
+3462,HU,CHH,Hainan Airlines Company Limited
+3463,EC,HIN,Heli Inter Riviera
+3464,J7,CVC,"Joint Stock Company ""Centre-Avia Airlines"""
+3465,BB,SBS,"Seaborne Aviation, Inc."
+3466,ZH,CSZ,Shenzhen Airlines
+3467,R6,SBK,Air Srpska
+3468,4Y,TUD,"Yute Air Alaska, Inc."
+3469,NULL,TUY,Linea Turistica Aereotuy Lta. C.A.
+3470,D2,SSF,Severstal Air Company ltd
+3471,NULL,AMO,Air Montreal (Air Holdings Inc.)
+3472,MT,JMC,Jmc Airlines Limited
+3473,EC,BOS,BA European Limited t/a OpenSkies
+3474,NULL,SEE,Shaheen Air Cargo (Private) Limited
+3475,MC,RCH,USAF Military Airlift Command
+3476,NULL,JLN,Malta
+3477,NULL,FMG,"Fmg, Germany"
+3478,NULL,ESL,Russia-Eastline Airlines
+3479,WK,NHA,American Lines
+3480,NULL,UTK,Irkutsk
+3481,NULL,LRB,L R Airlines Ltd
+3482,NULL,DCS,Daimler Chrysler Aviation
+3483,NULL,LRO,Alrosa Avia
+3484,NULL,IRS,Sirius
+3485,NULL,USC,Airnet Systems Inc.
+3486,C6,CJA,Canjet Airlines
+3487,FW,IBX,"IBEX Airlines Co., Ltd."
+3488,EE,GDW,Goldwing Airlines S.P.A.
+3489,II,CSQ,"Ibc Airways, Inc."
+3490,I9,AEY,Air Italy
+3491,Q2,DQA,Island Aviation Services Ltd. (Maldivian)
+3492,QZ,AWQ,P.T. Air Wagon International
+3493,GI,IKA,Air Company Itek-Air Ltd.
+3494,6D,PAS,Pt. Pelita Air Service
+3495,6W,SOV,Saravia (Saratov Airlines Joint Stock Company)
+3496,DJ,VOZ,Virgin Blue Airlines Pty Ltd
+3497,4V,LCG,Lignes Aeriennes Congolaises
+3498,5U,LDE,Lineas Aereas Del Estado
+3499,RZ,LRS,Servicios Aereos Nacionales S.A. Sansa
+3500,XH,XXH,Special Ground Handling Service-Xh
+3501,NULL,LTF,Germany
+3502,NULL,PDA,Podilia Avia
+3503,3S,GUY,Air Guyane S.P.
+3504,HR,HHN,Hahn Air Lines
+3505,NULL,XST,Skyteam Luftfahrtunternehmen
+3506,6K,RIT,Asian Spirit
+3507,NULL,EFL,Eagle Air Ltd.
+3508,KY,EQL,Linhas Aereas De Sao Tome E Principe
+3509,P2,XAK,AirKenya Express Limited
+3510,NULL,EAK,Evroazia Air
+3511,H2,CTB,Belgian Airlines City Bird  S.A.
+3512,NULL,FXR,K-Air
+3513,2B,BGM,Ak Bars Aero
+3514,NULL,YRY,"Russia, Gosnii Ga"
+3515,NULL,CDX,Cloudex Oy
+3516,NULL,SGF,Swiss Government Flights
+3517,NULL,JCX,Jet Connection
+3518,NULL,MPJ,Map Management And Planung
+3519,NQ,AJX,Air Japan Company Limited
+3520,NULL,DEC,Deltacraft Oy
+3521,GC,GNR,Gambia International Airlines Ltd.
+3522,4R,OEG,Orient Eagle Airways
+3523,FT,SRH,Siem Reap Airways International
+3524,U9,TAK,Tatarstan Air
+3525,NULL,GTS,Gats Airlines
+3526,G3,GLO,Gol Transportes Aereos Ltda.
+3527,JT,LNI,Lion Air
+3528,NR,RUR,Russ Jsc Air Transport Co.
+3529,V8,TPS,Transportes Aereos Petroleros S.A.
+3530,S3,BBR,SBA Airlines (Santa Barbara Airlines C.A.)
+3531,V7,SNG,Air Senegal International
+3532,LW,ANV,"Air Nevada Airlines, Inc. Dba Pacific Wings"
+3533,BZ,FTI,Fti Fluggesellschaft Mdh
+3534,5D,DBR,Dutchbird
+3535,P9,PRH,"Pro Air, Inc."
+3536,5S,PSV,Servicios Aereos Profesionales S.A.
+3537,NULL,GEG,Georgian Airlines
+3538,RU,SKI,Tci Skyking Ltd.
+3539,U4,BUT,Buryat Airlines Open Joint Stock Company
+3540,CF,SDR,City Airline Ab
+3541,7I,NDC,Nordic East Airlink Ab
+3542,K3,TQN,"Taquan Air Services Inc. (Venture Travel, LLC)"
+3543,5D,SLI,Aerolitoral S.A. De C.V.
+3544,FC,SYB,Tempelhof Express Airlines Gmbh
+3545,NULL,BIO,Bio
+3546,NULL,TNF,Tatneftaero
+3547,NULL,VSR,Aviastart
+3548,NULL,VIB,Vibro Air Flugservice
+3549,NULL,QGA,Windrose Air Jetcharter
+3550,NULL,GLE,Wws
+3551,IE,WYL,Us
+3552,VA,VLE,Volareweb
+3553,NULL,FXJ,Flexjet Europe
+3554,NULL,HTG,Grossman Air Service
+3555,NULL,EFD,Eisele Flugdienst
+3556,NULL,BKV,Bukovyna
+3557,NULL,KTB,Transaviabaltika
+3558,BI,GAM,Gambia
+3559,2B,ARD,Aerocondor
+3560,NULL,BIS,Irbis
+3561,NULL,MJL,Iran
+3562,NULL,BMK,Kazakhstan
+3563,NULL,XLA,Excel Airways
+3564,3R,GAI,Moscovia Airlines
+3565,NULL,GGL,Gira Globo Lda
+3566,NULL,SVP,Saratov Aviation Plant.Joint-Stok Company
+3567,NULL,KRV,Khoriv-Avia
+3568,NULL,NVI,Aviation Company Limited 'Avial Nv'
+3569,GC,GCR,Cougar Leasing
+3570,NULL,KAD,"Air Kirovograd, Compania Airlines"
+3571,NULL,MMZ,Euro Antlantic
+3572,V3,KRP,Carpatair
+3573,NULL,KMV,Komintern-Avia
+3574,NULL,DSO,Dassault Falkon Service
+3575,NULL,VMP,Execujet Europe
+3576,NULL,BGI,British Gulf Intl
+3577,NULL,FIX,Airfix Aviation
+3578,NULL,LBR,Elbe Air
+3579,E,DUK,Ducair - Luxembourg Air Ambulance
+3580,NULL,BRW,Bright Aviation Services
+3581,NULL,LVN,Aliven S.R.L.
+3582,NULL,EVN,Euraviation
+3583,NULL,GDK,Goldeck Flug
+3584,NULL,IMT,Imtrec Aviation
+3585,NULL,AZQ,Azerbaijan Hava Yollari
+3586,NULL,LUK,Lukavia Oil
+3587,NULL,JGD,Jet Group Aviation
+3588,NULL,FYG,Belgium
+3589,NULL,IEA,Intermediation Aerea
+3590,NULL,SIG,Signature Aircraft Charter
+3591,NULL,GDA,Goldair International
+3592,NULL,NZP,Alliance Avia
+3593,NULL,NJE,Netjets Transported Aereos
+3594,NULL,CKM,Bks Air Company
+3595,NULL,SHY,"Sky Airlines, Turkey"
+3596,FH,FHY,Free Bird Airlines
+3597,NULL,MNB,Mng Havayollari Ve Tasimacilik A.S.
+3598,NULL,SVW,Silver Arrows
+3599,NULL,VVI,Vivant Air Ltd
+3600,L6,VNZ,"Ао ""Там Air"""
+3601,NULL,NBL,"Nobil Air, Moldova"
+3602,NULL,NVR,Nova Airlines Ab Area
+3603,H,REC,Trans Reco
+3604,NULL,WGT,Vw Air Service
+3605,MV,RML,Armenian International Airlines
+3606,7R,RLU,Rusline
+3607,YG,OTL,South Airlines
+3608,NULL,REI,Ray Avivtion
+3609,NULL,FFD,Stuttgarter Flugdienst Gmbh
+3610,NULL,EXH,G5 Executive Ag
+3611,KD,KNI,Kaliningradavia
+3612,NULL,AKP,Anteks-Polus
+3613,NULL,PFF,Rossiya-Wws
+3614,NULL,RFF,Russia-Ws
+3615,NULL,AHH,Pack Aviation Limited
+3616,NULL,MOV,Vim   Airlines
+3617,NULL,ISF,Air International France
+3618,NULL,FJE,Flyjet Ltd
+3619,NULL,KOZ,Angel Airlines
+3620,K2,ELO,Eurolot
+3621,NULL,HUF,Wws Hungary
+3622,NULL,PTI,Privatair S.A
+3623,NULL,RIN,Airtranscompany Moldova
+3624,US,KYM,Airlines Krym
+3625,NULL,SIO,Sirio Spa
+3626,NULL,GGO,Avial
+3627,5W,AEU,Astraeus Ltd
+3628,NULL,VAZ,Airlines 400
+3629,NULL,BYL,Bylina Airlines
+3630,NULL,OZU,Hozu Air
+3631,NULL,KBX,Martinair Log
+3632,U8,RNV,Armavia
+3633,VM,VOA,Viaggio Air
+3634,TQ,TDM,Tandem Aero
+3635,NULL,DGX,Dasnair Sa
+3636,NULL,GYM,Gumri Airlines
+3637,NULL,UMS,Unitemp
+3638,NULL,FYN,Fuyun
+3639,NULL,BRQ,Buraq Airlines
+3640,UQ,BCV,Business Aviation Centre
+3641,QB,GFG,Georgian National Airlines
+3642,NULL,BDG,Aviation Bridge
+3643,NULL,IJM,International Management Gmbh
+3644,7Y,FCR,Flying Carpet Airlines
+3645,NULL,RIF,Aviation Ministry Of The Interior Of The Russian Federation
+3646,NULL,PHG,Phonix Aviation
+3647,NULL,ILL,Illich Avia
+3648,NULL,EXU,Executive Air
+3649,S1,JMS,Us Government
+3650,S1,JM1,Us Government
+3651,KC,KZR,Air Astana
+3652,NULL,BIV,"Aviaservice, Georgia"
+3653,NULL,BGF,Aviodetachment
+3654,NULL,JTV,Air Independence
+3655,NULL,DEF,"Avdef,Nimes"
+3656,NULL,XPE,Amira Air
+3657,NULL,AWZ,Air West
+3658,NULL,GJT,Gestion Aerea Ejecutiva
+3659,NULL,HOA,Hola Airlines
+3660,NULL,TYW,Tyrol Air Ambulance - TAA
+3661,NULL,BZA,Bizair Fluggesellschaft - Germany
+3662,NULL,PHW,Phoenix
+3663,NULL,KZU,"Kuzu Airlines Cargo, Turkey"
+3664,NULL,NWG,Airwing
+3665,NULL,FLJ,Flynor Jet S.P.A.
+3666,LI,AIU,"Airlink International, Corporation"
+3667,NULL,KAO,Kazanskoe Aviatsionnoe Po Im.Gorbunova
+3668,NULL,VVA,Aviast Air
+3669,NULL,EJO,Execujet Middle East
+3670,NULL,PMU,Premium Aviation
+3671,NULL,ROJ,Royal Jet
+3672,5R,KAJ,Karthago Airlines
+3673,6H,ISR,Israir Airlines And Tourism Ltd
+3674,NULL,REK,Reem Air
+3675,2W,WLC,Welcome Air
+3676,NULL,ONG,Sonnig S.A.
+3677,NULL,UAB,United Arabian Airlines
+3678,CO,CLW,Centralwings
+3679,NULL,HMA,"Air Tahoma, Inc"
+3680,NULL,MYO,Dominguez Toledo (Grupo Mayaral)
+3681,NULL,JEI,Jet Executive International Charter
+3682,NULL,VBC,Avb-2004ltd
+3683,NULL,DER,"Deer Jet Co, Ltd"
+3684,NULL,RNB,Rosneft-Baltica
+3685,..,EOL,Airailes
+3686,NULL,BXA,Bexair Bahrain
+3687,NULL,WGA,"Авиакомпания ""Вега"""
+3688,NULL,DLI,Dalia Air
+3689,NULL,NXF,Next Flight Aviation
+3690,NULL,LYF,Lithuanian Air
+3691,NULL,TIH,"Ion Tiriac Air, S.A."
+3692,NULL,LXA,Luxaviation
+3693,NULL,HMM,Hamra Air
+3694,NULL,JSM,Jet Stream Srl
+3695,NULL,MGK,Mega Aircompany
+3696,NULL,JDI,Jet Story
+3697,NULL,JSI,Jet Air Group
+3698,NULL,RRY,Tbilisi Aviation University
+3699,NULL,DLY,Air Independence
+3700,NULL,GLJ,Global Jet
+3701,NULL,LZR,Air Lazur-General Grup.
+3702,ML,BIE,Air Mediterrenee
+3703,U4,PMT,Pmt Air
+3704,NULL,DIX,Flugbetriebsgesellschaft Dix Mbh (Dix Aviation)
+3705,NULL,PVG,Privilege Style
+3706,HG,NLY,Niki Luftfahrt
+3707,NULL,BDR,Badr Airlines
+3708,NULL,SOX,Solid Air
+3709,NULL,SOZ,Sat Airlines
+3710,NULL,VXX,Aviaekspress Airlines
+3711,IGA,IGA,Skytaxi
+3712,5N,AUL,Nordavia
+3713,UT,UTA,UTair Aviation Joint-Stock Company
+3714,NULL,JDG,Joanas Avialinijos
+3715,NULL,EJD,Elit Jets
+3716,NULL,OCS,Ocean Sky
+3717,2U,ERO,Sun D'Or International Airlines
+3718,NULL,GSY,Guard Air
+3719,NULL,EGB,Excellent Glide
+3720,NULL,POF,Police Aux Frontiers
+3721,NULL,DNU,Danu Oro Transportas
+3722,NULL,GNJ,Gainjet Aviation S. A.
+3723,NULL,IAY,Deadalos Flugbetriebs
+3724,NULL,AJF,Avia Consult Flugbetriebs
+3725,NULL,TGN,Trigana Air Service
+3726,NULL,FMY,Aviation Legere De L'Armee De Terre
+3727,NULL,JTI,Imperial Jet
+3728,6V,MRW,Mars Rk
+3729,8W,PWF,Private Wings Flugcharter
+3730,NULL,MJS,Www-Bedarfsluftfuhrt
+3731,NULL,RAQ,Rat Aviation Gmbh
+3732,NULL,KBR,Koral Blue
+3733,NULL,XJC,Xclusive Jet Charter Limited
+3734,V5,VPA,DanubeWings
+3735,NULL,UJT,Universal Jet Aviation
+3736,NULL,SYM,Sayat Air
+3737,N2,DAG,Daghestan Airlines
+3738,NULL,FGL,Futura Gael
+3739,NULL,BFO,Bombardier
+3740,NULL,HCW,Hc Airways
+3741,NULL,TOM,Thomson Airways
+3742,NULL,SOE,Air Soleil
+3743,QS,TVS,Travel Service
+3744,NULL,TLG,Инвеставиа
+3745,4U,GWI,Germanwings
+3746,NULL,CID,Asia Continental Airlines
+3747,NULL,HGR,Hangar 8 Ltd
+3748,NULL,NLK,Elbrus Avia
+3749,NULL,SDJ,Club 328
+3750,NULL,KSJ,K2 Smart Jets
+3751,NULL,RYT,Raya Jet
+3752,NULL,UVN,United Aviation
+3753,NULL,GSJ,Grossman Jet Services
+3754,NULL,NKL,Isthmar World Aviation
+3755,NULL,JNL,JetNetherlands
+3756,4L,MJX,Euroline Ltd
+3757,FB,LZB,Bulgaria Air
+3758,NULL,RFL,Interely Srl
+3759,NULL,MJE,Empire Aviation
+3760,NULL,DJC,Djt Aviation
+3761,7W,WRC,Wind Rose Aviation Company
+3762,DV,VSV,Scat
+3763,NULL,VJS,Vista Jet
+3764,NULL,RSJ,Rusjet
+3765,F7,BBO,Flybaboo
+3766,NULL,IMJ,Imperial Jet
+3767,NULL,BID,Bin Air
+3768,NULL,AHO,Air Hamburg
+3769,NULL,VFI,Dr.Schenk Flugbetrieb
+3770,UG,SEN,Sevenair
+3771,W6,WZZ,Wizzair Hungary Ltd
+3772,ADZ,ADZ,Aviodelta
+3773,NULL,EWZ,East Wing
+3774,NO,NOS,Neos
+3775,NULL,TIE,Time Air
+3776,KO,KHO,Khors Aircompany Ltd
+3777,NULL,MJF,Mjet Aviation Gmbh
+3778,NULL,DXT,Air Management Group
+3779,G9,ABY,Air Arabia
+3780,WU,WAU,Wizz Air Україна
+3781,NULL,HTM,Htm Jet Service Gmbh
+3782,ND,GSW,Sky Wings Airlines
+3783,NULL,ORI,Orion Air
+3784,NULL,CGP,Capital Aircraft Group
+3785,OB,JOR,Blue Air
+3786,S4,RZO,Sata International
+3787,NULL,KZS,Kazaviaspas
+3788,4Y,BLE,Blue Line
+3789,A2,AZI,Astra Airlines
+3790,NULL,DNE,Venid Air
+3791,NULL,LMZ,Air Almaty ZK
+3792,NULL,PKZ,Prime Aviation Jsc
+3793,NULL,TFG,Bluestream Aviation
+3794,NULL,UHL,Украинские Вертолеты
+3795,NULL,KEJ,Kaz Air Jet
+3796,NULL,JKZ,Set One
+3797,NULL,OPS,Opera Set
+3798,NULL,AUJ,Bfs Gmbh
+3799,NULL,FRF,Fleet Air International Ltd
+3800,NULL,BUC,Bulgarian Air Charter
+3801,NULL,SJT,Swiss Jet Ltd
+3802,A6,LPV,Air Alps Aviation
+3803,YW,ANE,Air Nostrum
+3804,NULL,JLF,Jetline
+3805,NULL,EDC,"Air Charter Scotland, Ltd."
+3806,NULL,TGM,Tag Aviation Europe
+3807,NULL,MPF,Map Executive Flight Services Gmbh
+3808,NULL,SIW,Sirio Executive
+3809,NULL,OPJ,Opera Jet
+3810,NULL,ICJ,Icejet
+3811,NULL,DFL,Scandinavian Air Ambulance Ab
+3812,XG,CLI,Clickair
+3813,NULL,PLM,Air Pullmantur
+3814,NULL,MLM,Comlux Malta Ltd.
+3815,NULL,GNX,Genex Ltd
+3816,NULL,PTF,Petroff Air
+3817,NULL,VPC,Panaviatic A.S
+3818,NULL,FJK,"Fly Jet, Kazakhstan"
+3819,NULL,CVI,Centeravia Llc
+3820,NULL,WLB,Wings Of Lebanon Aviation
+3821,NULL,QFZ,Fars Air Qeshm
+3822,NULL,KTC,Kyrgyz Trans Avia
+3823,SU_Cargo,RCF,CARGO Aeroflot
+3824,NULL,PZY,Zapolyariye
+3825,NULL,SWW,Shovkoviy Shlyah Ltd Airlines
+3826,5K,HFY,Hi Fly
+3827,WI,WHT,White Airlines S.A.
+3828,EY,ETD,Etihad Airways
+3829,NULL,TBB,Air Iberia
+3830,FZ,FDB,Flydubai
+3831,NULL,DET,D.E.T.A Air
+3832,NULL,LUC,Albinati Aeronautics Sa
+3833,NULL,OKT,Soko Aviation
+3834,NULL,AWG,"Air West, Georgia"
+3835,QU,UTN,Azur Air Ukraine Airlines
+3836,NULL,MHD,Yas Airline
+3837,4J,SMR,Somon Air
+3838,NULL,PHY,Phoenix Avia
+3839,NULL,GST,Georgian Star International
+3840,NULL,RTZ,Regional Air Services
+3841,NULL,IAA,Ikaros Aviation A.V.V
+3842,NULL,RSD,Special Flight Detachment 'Russia'
+3843,NULL,ESW,Esw Business Aviation
+3844,CHG,CHG,Challenge Aero AG
+3845,LIX,LIX,Linxair Aviation Transportation D.O.O
+3846,NULL,VVP,Vipjets Luftfahrtunternehmen Gmbh
+3847,NULL,AJU,Air Jetsul
+3848,NULL,RSB,Rubystar
+3849,JD,CBJ,"Beijing Capital Airlines Co, Ltd"
+3850,6Y,ART,Smartlynx Airlines
+3851,NULL,CLU,Triple Alpha
+3852,NULL,EAV,Elitavia
+3853,NULL,LMJ,Masterjet Aviacao Executiva
+3854,HH,TBM,Taban Air Lines
+3855,NULL,OXM,Orion (Malta) Ltd
+3856,NULL,ESQ,Europ-Star Aircraft Gmbh
+3857,R3,SYL,Yakutia Air
+3858,NULL,PEF,Perfect Aviaton / Perfect Aviaton Sa
+3859,NULL,DLN,Dalmatian Air
+3860,NULL,TBJ,Tag Aviation Asia Limited
+3861,QN,ARR,Air Armenia
+3862,NULL,AXU,Abu Dhabi Aviation
+3863,NULL,XGO,Airgo Flugservice
+3864,IV,JET,Wind Jet
+3865,ZG,GOZ,Groznyy Avia
+3866,NULL,SME,Smart Aviation Company
+3867,NULL,MDT,Sundt Air
+3868,GH,GLP,Globus
+3869,NULL,BTM,Air Batumi
+3870,NULL,FJK,Fly Jet.Kz
+3871,NULL,TSH,Regional 1 Airlines
+3872,NULL,MXU,Maximus Air Cargo
+3873,NULL,UPC,Comlux-Kz
+3874,K4,CKS,Kalitta Air
+3875,JK,JKK,Spanair
+3876,NULL,VJA,Viennajet Bedarfsluftfahrts Gmbh
+3877,NULL,SMK,Semeyavia
+3878,NULL,CD1,Для Бизнес-Зала
+3879,NULL,PLS,Jetalliance East
+3880,NULL,COL,Columbia Air
+3881,NULL,VBV,Avb-2010
+3882,3O,MAC,Air Arabia Maroc
+3883,NULL,UCK,Air Division Of The Eastern Kazakhstan Region
+3884,CQ,CCG,Czech Connect Airlines
+3885,NULL,MGO,Mango Punto Fa
+3886,NULL,CLJ,Cello Aviation
+3887,NULL,CPI,Compagnia Aeronautica Italiana
+3888,NULL,LLT,Classic Jet
+3889,NULL,PRV,Premier Aviation Services
+3890,NULL,BTT,Business Jet Travel
+3891,MY,MWA,Midwest Airlines
+3892,HK,HAY,Hamburg Airways.
+3893,OF,FIF,Air Finland
+3894,KK,KKK,Atlasjet Havacilik
+3895,NULL,IXR,IXAIR
+3896,NULL,PJI,Privatejet Intl Gmbh
+3897,NULL,VRJ,VR JET
+3898,NULL,ZGR,Zagorje
+3899,NULL,BTN,BTL
+3900,NULL,LRR,Lorraine Aviation
+3901,VY,VLG,Vueling Airlines
+3902,TY,IWD,Iberworld
+3903,6Q,SAW,Cham Wings
+3904,7M,MSA,Mistral Air
+3905,X3,TUI,TUIfly
+3906,NULL,ENT,Enter Air
+3907,NULL,TP1,Для Бизнес-Зала
+3908,NULL,KGK,Sky KG Airlines
+3909,NULL,PPV,"Petropavlovsk, CJSC"
+3910,IQ,AUB,Augsburg Airways
+3911,NULL,ATL,Atlas Air Service
+3912,NULL,LJB,Al Jabeer
+3913,OG,ONX,Air Onix
+3914,TO,TVF,Transavia France
+3915,TB,JAF,JetAirFly
+3916,9C,CCS,Samair
+3917,2N,NTJ,Nextjet
+3918,PF,PRI,Primera Air
+3919,W8,CJT,Cargojet Airways
+3920,CD,CND,Corendon Dutch Airlines
+3921,SE,XLF,XL Airways France
+3922,C4,CGK,Click Airways
+3923,HW,FHE,Hello
+3924,FQ,TCW,Thomas Cook Airlines Belgium
+3925,HC,HCC,Holidays Czech Airlines
+3926,NULL,OJT,Oryx Jet
+3927,NULL,PDY,Pen-Avia
+3928,NULL,JTG,Jet Time
+3929,NULL,MZT,First Mandarin Business Aviation
+3930,NULL,VLJ,Valljet
+3931,X9,NVD,Avion Express
+3932,TEJ,TEJ,AeroJet
+3933,NULL,ELZ,Alpha Air LTD
+3934,NULL,YAP,OLT Express Poland
+3935,NULL,TTJ,Tatra Jet
+3936,NULL,GWC,Gulf Wings
+3937,NULL,FYJ,Flyjet
+3938,NULL,SLD,Silver Air Ltd
+3939,I2,IBS,Iberia Express
+3940,NULL,BEY,Bestfly
+3941,NULL,IAM,Flugrettungs GmbH
+3942,NULL,VJT,Vistajet
+3943,NULL,SYU,Sky Unlimited
+3944,JN,NLV,New Livingston Spa
+3945,Y8,YZR,Yangtze River Express
+3946,NULL,FYL,Flying Group Luxembourg
+3947,9Y,FGE,Fly Georgia
+3948,NULL,SXI,Southern Cross International
+3949,NULL,URT,UkrAsist
+3950,NULL,HYP,Hyperion Aviation
+3951,7L,AZG,Silk Way West
+3952,NULL,GER,Eagle Aviation
+3953,NULL,PVT,Golden Falcon Aviation
+3954,NULL,CVK,Cavok Air
+3955,NULL,FXT,Flexflight
+3956,NULL,CXB,Comlux Aruba N.V.
+3957,NULL,LFJ,AirLife Logistic
+3958,M2,MHV,MHS Aviation GmbH
+3959,NULL,OTJ,Ten Airways
+3960,NULL,VCJ,Avcon Jet Malta
+3961,KW,KHK,Kharkiv Airlines
+3962,NULL,PNC,PAN -AIR
+3963,NULL,AAA,Ansett Australia Holdings ltd
+3964,K5,ABE,Aban Air
+3965,NULL,ABH,"Hokuriku-Koukuu Co., Ltd"
+3966,NULL,ABI,"Alba-Air Aviacion, S.L."
+3967,NULL,GSH,Gama Aviation FZC
+3968,EL,ELN,Ellinair
+3969,NULL,RWZ,Red WIngs Airlines
+3970,A3,AEE,Aegean Airlines
+3971,7L,AZX,AB Airlines
+3972,NULL,AHU,ABC Air Hungary
+3973,2D,AOG,AeroVIP
+3974,NULL,AAP,Aerovista Airlines
+3975,NULL,VGF,Aerovista Gulf Express
+3976,NULL,VOG,Aerovolga
+3977,L8,EKG,Afric Aviation
+3978,ZI,AAF,Aigle Azur
+3979,TD,NTL,Air Anatolia
+3980,NULL,LTE,Air Asturias
+3981,ICS,ICS,ICS Handling
+3982,D4,DAT,Dart
+3983,INTRACO,INTRACO,INTRACO
+3984,3N,URG,AIR URGA
+3985,SVR,SVR,SOVEREIGN EXPRESS
+3986,SRN,SRN,SPRINT AIR
+3987,MSA,MSA,MASTERAVIA
+3988,UN,TSO,TRANSAERO
+3989,FA,FA,FORD AERO UA
+3990,YE,ANR,YANAIR
+3991,BJU,BJU,AERO JET
+3992,UAR,UAR,AEROSTAR
+3993,BSP,UDN,Dniproavia
+3994,UKN,UKN,GAP UKRAINE
+3995,AG,AG,AERO AGENTS
+3996,SNN,SNN,Shannon Air
+3997,NULL,GCA,Grand Cru Airlines
+3998,MIL,MIL,Military of Ukraine
+3999,AVH,AVH,Aviahandling
+4000,LTV,LTV,Litavio Consulting
+4001,JTL,JTL,JETLUX
+4002,NULL,BAF,Belgian Air Force
+4003,RA,RA,RusAero
+4004,J7,CVC,AVIACENTER
+4005,SP,SP,SKYPLAN
+4006,KO,KO,KASTRON OPERATIONS LMT.
+4007,AST,AST,AVIASTAR
+4008,JWS,JWS,JETWINGS
+4009,NULL,at,american trading company
+4010,sky,sky,test
+4011,UH,UJX,ATLASJET-UA
+4012,MG,MGP,MEGAPOLIS
+4013,NULL,MO,MINISTERSTVO OBORONI TURKMENISTANA
+4014,GRX,GR,AIRCOMPANY GRODNO
+4015,APL,AP,AEROPLUSENGENIRING
+4016,SH,SH,SBA Flight Support Services Ltd
+4017,SKY1,FZE,SKY Techniques
+4018,SKY,SKY,SKY
+4019,JU,ASL,Air Serbia
+4020,CAA,CAA,Chellenger Aero Agent
+4021,CAA,CAA,Chellenger Aero Agent
+4022,AND,ANDA,Anda Airlines
+4023,PES,PES,POLEX EXPRESS
+4024,NON,NON,VC2266
+4025,VIN,VIN,Vinnica Aeroport
+4026,ICSA,ICSA,ICS-AERO SM S.R.L.
+4027,8H,BGH,BH Air
+4028,TS,TS,TRANSSERVICE
+4029,ATC,ATC,AVIATRAFICCOM
+4030,ODY-DM,ODY-DM,Odyssey DMCC Domestic
+4031,SKH,SKH,Скай Хендлинг
+4032,CLOH,CLOH,Челендж Аеропорт
+4033,STMH,STMH,Стримлайн ОПС
+4034,FZCO,FZCO,"Jetex FZCO, ОАЭ"
+4035,APO,APO,"APOGEE FZCO, ОАЭ"
+4036,TLI,TLI,Tango Limited
+4037,EVO,EVO,EVO JET SERVICES
+4038,SYK,SYK,Авіаційний центр «Скай
+4039,SAZO,SAZO,SAZ ORSTZ DSNS
+4040,COH,COLH,COLUMBUS HANDLING
+4041,ESKY,ESKY,Euston SKY LTD
+4042,Ov Star J,OVS,Overstar s.r.l
+4043,VCHA0215,VCHA0215,VCHA0215
+4044,UWJ,UWJ,ukrainian wings airlines
+4045,AL,ALL,AIRLINK
+4046,NN,NN,AIR ALANNA
+4047,AEH,AEH,Aerohandling company
+4048,UIA,UIA,Ukrainian International Airlines
+4049,UHK,UHK,Ukrainian Handling Company
+4050,EG,ERN,ERNEST
+4051,SSV,DM,ANDA AIR
+4052,PQ,SQP,SKYUP
+4053,KLJ,KLJ,KLJ
+4054,GRF,GRF,GRF
+4055,E4,E4,E4
+4056,AXY,AXY,AXY
+4057,R5,jav,Jordan Aviation
+4058,R5,JAV,JORDAN AVIATION
+4059,4R,SEK,STAR EAST AIRLINE
+4060,KM,AMC,AIR MALTA
+4061,MYW,MJ,MYWAY AIRLINES
+4062,FN,FUN,FUNAIR
+4063,VC2069,VC2069,VCHA2069
+4064,FNR,FNR,FUNAIR
+4065,NULL,UNAS,UAB Nordic Aircraft Systems
+4066,JNK,JK,JONNIKA
+4067,RG,RJD,rotana jet
+4068,AX,AXY,AIR X CHARTER
+4069,NULL,DRW,Dream Wind
+4070,EJO,EJOJ,EVROJET
+4071,TCX,MT,THOMAS COOK AIRLINES
+4072,ClickAvia,CAND,CLICK AVIATION NETWORK DMCC (UAE)
+4073,ExecAvia,EXAV,Executive Aviation
+4074,BALM,BALM,Balmeronia enterprises LTD
+4075,KBP,KBP,Boryspil Airport
+4076,KON,KON,Concord AH
+4077,SX,SXD,SUN EXPRESS
+4078,SD,SDR,SUNDAIR
+4079,EN,ENT,ENTERAIR
+4080,ACASS,ACASS,ACASS Canada Limited
+4081,KRE,KREK,KREATIV AGENCY
+4082,Landhill,Landhill,Landhill Trading
+4083,LIP,LIP,LIP
+4084,MDF,MDF,MDF
+4085,N449TA,N449TA,N449TA
+4086,AM,AM,AIR MANAS
+4087,OE,LDM,Lauda
+4088,NULL,AOJ,AOJ
+4089,MLT,MLT,MALETH AERO AOC LIMITED
+4090,PSK,PSK,PSK
+4091,PVV,FP,Fly Pro
+4092,KUP,KUP,KUP

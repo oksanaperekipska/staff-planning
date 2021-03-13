@@ -1,0 +1,1 @@
+docker run -d --name inputsoft_uaa -p 8080:80 inputsoft_uaa

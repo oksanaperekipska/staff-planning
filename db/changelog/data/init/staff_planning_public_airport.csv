@@ -1,4 +1,4 @@
-id, iata, icao, name, country_id
+id,iata,icao,name,country_id
 1,NULL,UKBD,Южный,1
 2,Gogolev,Gogolev,Gogolev Aero,1
 3,UPBS,UPS,Запорожье,1

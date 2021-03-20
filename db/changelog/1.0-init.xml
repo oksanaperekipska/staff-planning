@@ -174,7 +174,51 @@
         </createTable>
     </changeSet>
 
-    <!--********* Relations ********* -->
+    <!--********* Data loading ********* -->
+
+    <changeSet author="a.sidko" id="1615668829477-data-aircraft">
+        <loadUpdateData tableName="aircraft" primaryKey="id" file="data/init/staff_planning_public_aircraft.csv"/>
+    </changeSet>
+    <changeSet author="a.sidko" id="1615668829477-data-airline">
+        <loadUpdateData tableName="airline" primaryKey="id" file="data/init/staff_planning_public_airline.csv"/>
+    </changeSet>
+    <changeSet author="a.sidko" id="1615668829477-data-airport">
+        <loadUpdateData tableName="airport" primaryKey="id" file="data/init/staff_planning_public_airport.csv"/>
+    </changeSet>
+    <changeSet author="a.sidko" id="1615668829477-data-arr_dep">
+        <loadUpdateData tableName="arr_dep" primaryKey="code" file="data/init/staff_planning_public_arr_dep.csv"/>
+    </changeSet>
+    <changeSet author="a.sidko" id="1615668829477-data-color">
+        <loadUpdateData tableName="color" primaryKey="id" file="data/init/staff_planning_public_color.csv"/>
+    </changeSet>
+    <changeSet author="a.sidko" id="1615668829477-data-country">
+        <loadUpdateData tableName="country" primaryKey="id" file="data/init/staff_planning_public_country.csv"/>
+    </changeSet>
+    <changeSet author="a.sidko" id="1615668829477-data-flight">
+        <loadUpdateData tableName="flight" primaryKey="id" file="data/init/staff_planning_public_flight.csv"/>
+    </changeSet>
+    <changeSet author="a.sidko" id="1615668829477-data-flight_plan">
+        <loadUpdateData tableName="flight_plan" primaryKey="id" file="data/init/staff_planning_public_flight_plan.csv"/>
+    </changeSet>
+    <changeSet author="a.sidko" id="1615668829477-data-flight_to_flight_plan">
+        <loadUpdateData tableName="flight_to_flight_plan" primaryKey="id"
+                        file="data/init/staff_planning_public_flight_to_flight_plan.csv"/>
+    </changeSet>
+    <changeSet author="a.sidko" id="1615668829477-data-int_dom">
+        <loadUpdateData tableName="int_dom" primaryKey="code" file="data/init/staff_planning_public_int_dom.csv"/>
+    </changeSet>
+    <changeSet author="a.sidko" id="1615668829477-data-schedule">
+        <loadUpdateData tableName="schedule" primaryKey="id" file="data/init/staff_planning_public_schedule.csv"/>
+    </changeSet>
+    <changeSet author="a.sidko" id="1615668829477-data-service_type">
+        <loadUpdateData tableName="service_type" primaryKey="code"
+                        file="data/init/staff_planning_public_service_type.csv"/>
+    </changeSet>
+    <changeSet author="a.sidko" id="1615668829477-data-task">
+        <loadUpdateData tableName="task" primaryKey="id" file="data/init/staff_planning_public_task.csv"/>
+    </changeSet>
+
+    <!--********* Relation constraints ********* -->
 
     <!--flight to aircraft-->
     <changeSet author="a.sidko" id="1615668829477-flight_aircraft_id_fk">

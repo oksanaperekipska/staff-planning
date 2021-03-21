@@ -1,1 +1,1 @@
-docker run -d --name inputsoft_uaa -p 8080:80 inputsoft_uaa
+docker run -d --name inputsoft_staff_planning -p 8080:80 inputsoft_staff_planning

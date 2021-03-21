@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "uaa"
+name = "staff-planning"
 version = "0.1.0"
 description = ""
 authors = ["Oleksandr Sidko <a.sidko@idev-hub.com>"]

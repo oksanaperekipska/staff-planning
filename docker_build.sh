@@ -1,1 +1,1 @@
-docker build -t inputsoft_uaa .
+docker build -t inputsoft_staff_planning .

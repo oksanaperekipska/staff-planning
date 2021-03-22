@@ -4,11 +4,6 @@ from typing import Optional
 from pydantic import BaseModel
 
 
-class FlightPlan(BaseModel):
-    id: int
-    name: str
-
-
 class FlightToFlightPlan(BaseModel):
     id: int
     flight_id: Optional[str]

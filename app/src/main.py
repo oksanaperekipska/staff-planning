@@ -8,6 +8,7 @@ from fastapi.params import Param, Query
 from domain.flight.repository import FlightRepository
 from domain.flight_plan.repository import FlightPlanRepository
 from domain.flight_to_flight_plan.repository import FlightToFlightPlanRepository
+from domain.schedule.repository import ScheduleRepository
 
 app = FastAPI()
 
@@ -34,6 +35,18 @@ async def flights_all_by_flight_date(flight_date_from: datetime,
                                      flight_date_to: Optional[datetime] = None,
                                      limit: Optional[int] = Query(20, le=100)):
     return FlightRepository.find_all_by_flight_date(flight_date_from, flight_date_to, limit)
+
+
+# ---- Schedule -----------
+
+@app.get("/schedules/{id}", tags=["Schedule"])
+async def flight_plans_one_by_id(id: int):
+    return ScheduleRepository.find_one_by_id(id)
+
+
+@app.get("/schedules", tags=["Schedule"])
+async def flight_plans_all(offset: Optional[int] = 0, limit: Optional[int] = Query(20, le=100)):
+    return ScheduleRepository.find_all(offset, limit)
 
 
 # ---- Flight plan -----------

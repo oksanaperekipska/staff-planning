@@ -1,5 +1,5 @@
 from datetime import datetime
-from typing import Optional
+from typing import Optional, List
 
 import uvicorn
 from fastapi import FastAPI
@@ -20,8 +20,13 @@ def read_root():
 # ---- Flights -----------
 
 @app.get("/flights/{id}", tags=["Flights"])
-async def flights_one_by_id(id: int):
+async def flights_one_by_id(id: str):
     return FlightRepository.find_one_by_id(id)
+
+
+@app.get("/flights/by-ids/", tags=["Flights"])
+async def flights_one_by_id(id: List[str] = Query([])):
+    return FlightRepository.find_all_by_ids(id)
 
 
 @app.get("/flights", tags=["Flights"])

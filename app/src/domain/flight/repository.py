@@ -13,8 +13,15 @@ class FlightRepository:
     @staticmethod
     def find_one_by_id(id: str) -> Optional[Flight]:
         log.debug("Looking for flight with id=%s", id)
-        row = db.one("SELECT * FROM flight WHERE flight.id='%(id)s'", id=id)
-        return Flight(**row._asdict()) if row else None
+        row = db.one("SELECT * FROM flight WHERE id='%(id)s'", id=id)
+        return Flight.construct(**row._asdict()) if row else None
+
+    @staticmethod
+    def find_all_by_ids(ids: list[str]) -> Optional[list[Flight]]:
+        log.debug("Looking for flight with ids=%s", ids)
+        clean_ids = ["'" + str(int(i)) + "'" for i in ids]
+        rows = db.all(f"SELECT * FROM flight WHERE id IN ({','.join(clean_ids)})")
+        return [Flight.construct(**row._asdict()) for row in rows]
 
     @staticmethod
     def find_all_by_flight_date(flight_date_from: datetime,
@@ -32,4 +39,4 @@ class FlightRepository:
                       flight_date_to=flight_date_to,
                       limit=limit)
 
-        return [Flight(**row._asdict()) for row in rows]
+        return [Flight.construct(**row._asdict()) for row in rows]
